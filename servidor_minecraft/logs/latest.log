@@ -2204,3 +2204,76 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [21Jul2025 20:24:27.777] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [21Jul2025 20:24:27.778] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [21Jul2025 20:24:37.928] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.352848052978516) to MEDIUM (avg. 46.83333969116211)
+[21Jul2025 20:24:53.026] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.60525131225586) to HIGH (avg. 51.989402770996094)
+[21Jul2025 20:25:00.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[21Jul2025 20:25:02.056] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.989402770996094) to VERY_HIGH (avg. 55.958988189697266)
+[21Jul2025 20:25:09.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Splintering II]
+[21Jul2025 20:25:16.825] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.958988189697266) to NORMAL (avg. 44.9849967956543)
+[21Jul2025 20:25:31.646] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.9849967956543) to MEDIUM (avg. 48.19123840332031)
+[21Jul2025 20:25:54.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.191925048828125) to NORMAL (avg. 45.82200622558594)
+[21Jul2025 20:26:01.974] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.82200622558594) to VERY_HIGH (avg. 61.21238327026367)
+[21Jul2025 20:26:09.151] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.21238327026367) to HIGH (avg. 52.62513732910156)
+[21Jul2025 20:26:24.249] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.62513732910156) to MEDIUM (avg. 46.04578399658203)
+[21Jul2025 20:26:39.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.04578399658203) to NORMAL (avg. 43.13823699951172)
+[21Jul2025 20:27:28.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MilerinotFound[/100.123.100.53:50466] logged in with entity id 544331 at (1149.9405648447591, 72.0, -175.88325059936253)
+[21Jul2025 20:27:28.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound joined the game
+[21Jul2025 20:27:28.227] [Server thread/INFO] [APTweaks(Player)/]: Player MilerinotFound ServerPlayer['MilerinotFound'/544331, l='ServerLevel[world]', x=1149.94, y=72.00, z=-175.88] logged in and will be protected for 90 secs.
+[21Jul2025 20:27:32.405] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.24561309814453) to HIGH (avg. 54.51946258544922)
+[21Jul2025 20:27:34.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel lost connection: Disconnected
+[21Jul2025 20:27:34.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel left the game
+[21Jul2025 20:27:40.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.51946258544922) to MEDIUM (avg. 48.187034606933594)
+[21Jul2025 20:27:54.577] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.187034606933594) to NORMAL (avg. 45.972286224365234)
+[21Jul2025 20:28:02.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.972286224365234) to HIGH (avg. 51.5550651550293)
+[21Jul2025 20:28:25.101] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.80528259277344) to MEDIUM (avg. 46.40290832519531)
+[21Jul2025 20:28:39.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.40290832519531) to NORMAL (avg. 43.555625915527344)
+[21Jul2025 20:28:54.122] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.555625915527344) to MEDIUM (avg. 48.482879638671875)
+[21Jul2025 20:28:59.270] [Server thread/WARN] [APTweaks(Player)/]: User validation for MilerinotFound timed out after 90 secs.
+[21Jul2025 20:28:59.271] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player MilerinotFound!
+[21Jul2025 20:29:01.620] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.482879638671875) to NORMAL (avg. 44.15174865722656)
+[21Jul2025 20:29:46.621] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.68277359008789) to MEDIUM (avg. 48.154945373535156)
+[21Jul2025 20:29:54.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.154945373535156) to NORMAL (avg. 45.844215393066406)
+[21Jul2025 20:30:39.131] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.72311019897461) to MEDIUM (avg. 47.78339767456055)
+[21Jul2025 20:31:01.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> miller
+[21Jul2025 20:31:01.869] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.495887756347656) to HIGH (avg. 50.421363830566406)
+[21Jul2025 20:31:15.271] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:15.272] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:15.272] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:15.272] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:16.696] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.421363830566406) to MEDIUM (avg. 47.82429504394531)
+[21Jul2025 20:31:24.591] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.82429504394531) to VERY_HIGH (avg. 58.575103759765625)
+[21Jul2025 20:31:24.648] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=422, y=9, z=-847}
+[21Jul2025 20:31:24.672] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=422, y=9, z=-853}
+[21Jul2025 20:31:26.026] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.027] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.027] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.027] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.695] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.695] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.696] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.696] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:26.696] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:31:38.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[21Jul2025 20:31:55.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2454ms or 49 ticks behind
+[21Jul2025 20:31:58.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.72966766357422) to HIGH (avg. 52.199371337890625)
+[21Jul2025 20:32:15.072] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.199371337890625) to MEDIUM (avg. 48.94709014892578)
+[21Jul2025 20:32:27.423] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 20:32:30.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.94709014892578) to HIGH (avg. 53.40117645263672)
+[21Jul2025 20:32:39.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> sexo
+[21Jul2025 20:32:39.341] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.40117645263672) to VERY_HIGH (avg. 55.757694244384766)
+[21Jul2025 20:32:44.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[21Jul2025 20:32:48.113] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.757694244384766) to HIGH (avg. 53.90245819091797)
+[21Jul2025 20:32:49.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> no tenes una sangre pura?
+[21Jul2025 20:33:03.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[21Jul2025 20:33:11.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> tengo sangre normal
+[21Jul2025 20:33:22.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mm
+[21Jul2025 20:33:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> necesito pura
+[21Jul2025 20:33:32.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> bueno gracias igual
+[21Jul2025 20:33:35.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[21Jul2025 20:33:52.794] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.28469467163086) to VERY_HIGH (avg. 56.19583511352539)
+[21Jul2025 20:34:00.783] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.19583511352539) to HIGH (avg. 53.13423156738281)
+[21Jul2025 20:34:05.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Jul2025 20:34:07.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Hot Stuff]
+[21Jul2025 20:34:09.078] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.13423156738281) to VERY_HIGH (avg. 56.479156494140625)
+[21Jul2025 20:34:25.275] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.479156494140625) to HIGH (avg. 52.301856994628906)
+[21Jul2025 20:34:31.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[21Jul2025 20:34:55.185] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind

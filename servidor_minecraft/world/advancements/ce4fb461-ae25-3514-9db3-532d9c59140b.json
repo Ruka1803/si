@@ -5380,6 +5380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
       "has_item": "2025-07-21 20:14:05 +0000"
@@ -5428,9 +5434,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
     },
     "done": true
   },
@@ -5458,6 +5476,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_slab": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-07-21 20:12:44 +0000"
@@ -5470,6 +5494,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:09:36 +0000"
@@ -5479,6 +5509,12 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-07-21 20:12:44 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
     },
     "done": true
   },
@@ -5506,9 +5542,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-07-21 20:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
     },
     "done": true
   },
@@ -5536,6 +5596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:09:36 +0000"
@@ -5551,6 +5617,24 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-21 20:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_smelting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
     },
     "done": true
   },
@@ -5572,6 +5656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_leggings": {
     "criteria": {
       "has_item": "2025-07-21 20:12:42 +0000"
@@ -5584,9 +5674,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-07-21 20:25:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_leggings": {
     "criteria": {
       "has_item": "2025-07-21 20:14:05 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
     },
     "done": true
   },
@@ -5620,6 +5722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:09:29 +0000"
@@ -5638,6 +5746,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/cobbled_dark_stone_stairs": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:09:29 +0000"
@@ -5647,6 +5761,18 @@
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/cobbled_dark_stone_wall": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
     },
     "done": true
   },
@@ -5713,6 +5839,12 @@
   "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
       "has_item": "2025-07-21 20:14:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
+    "criteria": {
+      "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
     },
     "done": true
   },
