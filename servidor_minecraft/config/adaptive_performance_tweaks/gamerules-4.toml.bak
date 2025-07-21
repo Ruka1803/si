@@ -1,3 +1,4 @@
+"Warden Spawning" = {}
 
 #Adaptive Performance Tweaks: Gamerules
 [General]
@@ -60,8 +61,4 @@
 ["Vines Spread"]
 	#Enable/Disable vines spread adjustments.
 	vinesSpreadEnabled = true
-
-["Warden Spawning"]
-	#Enable/Disable warden spawning adjustments.
-	wardenSpawningEnabled = true
 

@@ -1,3 +1,4 @@
+leaf_piles = {}
 
 [general]
 	block_growths = true
@@ -70,8 +71,7 @@
 	generic_bark = ""
 	leggings_prevents_thorn_damage = true
 
-[leaf_piles]
-	leaf_piles_slow = true
+af_piles_slow = true
 	#Range: 0.0 ~ 1.0
 	spawn_entity_from_decay = 0.3
 	#Range: 1 ~ 256
