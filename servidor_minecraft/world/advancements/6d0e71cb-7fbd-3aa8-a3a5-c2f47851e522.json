@@ -3078,6 +3078,7 @@
       "minecraft:creeper": "2025-07-20 16:46:21 +0000",
       "minecraft:evoker": "2025-07-19 01:06:33 +0000",
       "minecraft:phantom": "2025-07-20 01:26:18 +0000",
+      "minecraft:zombified_piglin": "2025-07-21 23:29:54 +0000",
       "minecraft:witch": "2025-07-19 00:59:37 +0000",
       "minecraft:wither_skeleton": "2025-07-20 20:39:31 +0000",
       "minecraft:piglin": "2025-07-20 20:29:13 +0000",
@@ -10943,9 +10944,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/add_to_candle/add_to_candle/willow_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/witch_hazel_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/nuclear_bomb": {
     "criteria": {
       "nuclear_bomb": "2025-07-21 23:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },
@@ -10961,6 +10980,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_blue_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 23:29:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
     "criteria": {
       "has_the_recipe": "2025-07-21 22:35:28 +0000"
@@ -10970,6 +10995,24 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-07-21 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },
@@ -11009,6 +11052,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
+    "criteria": {
+      "has_sea_serpent_scales_blue": "2025-07-21 23:29:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
     "criteria": {
       "has_the_recipe": "2025-07-21 22:36:32 +0000"
@@ -11018,6 +11067,18 @@
   "create:recipes/building_blocks/cut_granite_brick_slab_recycling": {
     "criteria": {
       "has_cut_granite_brick_slab": "2025-07-21 22:55:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/sea_serpent_scale_block_blue_to_sea_serpent_scales_blue": {
+    "criteria": {
+      "has_sea_serpent_scale_block_blue": "2025-07-21 23:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/birch_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },
@@ -11045,9 +11106,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/add_to_candle/add_to_candle/mahogany_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-21 22:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },
@@ -11087,6 +11160,24 @@
     },
     "done": true
   },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2025-07-21 23:31:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/acacia_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 23:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-07-21 22:32:08 +0000"
@@ -11096,6 +11187,36 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/witch_hazel_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/mahogany_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },
@@ -11120,6 +11241,24 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_blue_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 23:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/jungle_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/spruce_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },
@@ -11153,15 +11292,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/willow_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/dark_oak_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },
@@ -11174,6 +11355,12 @@
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-21 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/oak_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
   },

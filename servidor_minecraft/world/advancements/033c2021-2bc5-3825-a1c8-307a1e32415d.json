@@ -2578,6 +2578,7 @@
       "minecraft:pillager": "2025-07-19 01:00:47 +0000",
       "minecraft:skeleton": "2025-07-19 18:16:58 +0000",
       "minecraft:vindicator": "2025-07-19 01:00:40 +0000",
+      "minecraft:magma_cube": "2025-07-21 23:32:09 +0000",
       "minecraft:spider": "2025-07-19 18:15:21 +0000",
       "minecraft:creeper": "2025-07-19 19:44:54 +0000",
       "minecraft:slime": "2025-07-20 00:06:42 +0000",
@@ -12054,6 +12055,42 @@
   "alexscaves:alexscaves/nuclear_bomb": {
     "criteria": {
       "nuclear_bomb": "2025-07-21 23:16:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-07-21 23:31:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/sea_serpent_scale_block_blue_to_sea_serpent_scales_blue": {
+    "criteria": {
+      "has_sea_serpent_scale_block_blue": "2025-07-21 23:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-07-21 23:31:58 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_green": {
+    "criteria": {
+      "has_wool": "2025-07-21 23:31:58 +0000"
+    },
+    "done": true
+  },
+  "terramity:most_gamblers_quit_advancement": {
+    "criteria": {
+      "most_gamblers_quit_advancement_0": "2025-07-21 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-07-21 23:31:58 +0000"
     },
     "done": true
   },

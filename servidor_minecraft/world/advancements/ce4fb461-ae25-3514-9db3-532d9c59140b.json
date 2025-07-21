@@ -2031,6 +2031,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-21 03:18:03 +0000",
       "minecraft:skeleton": "2025-07-20 21:24:22 +0000",
+      "minecraft:ghast": "2025-07-21 23:25:21 +0000",
       "minecraft:hoglin": "2025-07-21 22:45:35 +0000",
       "minecraft:magma_cube": "2025-07-21 22:34:25 +0000",
       "minecraft:spider": "2025-07-20 19:46:54 +0000",
@@ -6323,6 +6324,18 @@
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-07-21 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-21 23:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-21 23:25:26 +0000"
     },
     "done": true
   },
