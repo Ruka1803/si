@@ -11757,6 +11757,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_pane_from_tiled_glass_pane": {
+    "criteria": {
+      "has_item": "2025-07-21 22:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_stairs": "2025-07-21 22:47:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
@@ -11802,6 +11814,12 @@
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_recycling": {
+    "criteria": {
+      "has_cut_ochrum_slab": "2025-07-21 22:46:40 +0000"
     },
     "done": true
   },

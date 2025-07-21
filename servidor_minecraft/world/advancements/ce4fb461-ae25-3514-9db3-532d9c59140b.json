@@ -2031,8 +2031,10 @@
     "criteria": {
       "minecraft:pillager": "2025-07-21 03:18:03 +0000",
       "minecraft:skeleton": "2025-07-20 21:24:22 +0000",
+      "minecraft:hoglin": "2025-07-21 22:45:35 +0000",
       "minecraft:magma_cube": "2025-07-21 22:34:25 +0000",
       "minecraft:spider": "2025-07-20 19:46:54 +0000",
+      "minecraft:piglin_brute": "2025-07-21 22:44:10 +0000",
       "minecraft:witch": "2025-07-20 05:00:20 +0000",
       "minecraft:husk": "2025-07-21 20:49:02 +0000",
       "minecraft:piglin": "2025-07-21 22:33:48 +0000",
@@ -6255,6 +6257,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-21 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-21 22:43:05 +0000"
     },
     "done": true
   },
