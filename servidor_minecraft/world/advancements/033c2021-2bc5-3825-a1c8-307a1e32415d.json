@@ -11475,9 +11475,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_lime_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-21 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
     },
     "done": true
   },
@@ -11487,9 +11535,177 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/crafting_table_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_planks_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/barrel_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_lime_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-21 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-07-21 22:36:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_button_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
     },
     "done": true
   },
@@ -11499,15 +11715,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/willow/polished_willow_sign_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:archmage_spell_book": {
+    "criteria": {
+      "has_archmage_spell_book": "2025-07-21 22:39:48 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_lime_from_white": {
     "criteria": {
       "has_dye": "2025-07-21 22:30:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_connected_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_fence_gate_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-07-21 22:42:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_door_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-21 22:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_slab_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_chest_boat_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
   "apotheosis:spawner/root": {
     "criteria": {
       "spawner": "2025-07-21 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-21 22:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/polished_willow_layered_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/willow/willow_trapdoor_from_willow_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 22:39:41 +0000"
     },
     "done": true
   },

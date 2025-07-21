@@ -10943,6 +10943,30 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_the_recipe": "2025-07-21 22:35:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_the_recipe": "2025-07-21 22:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-21 22:32:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-21 22:32:08 +0000"
+    },
+    "done": true
+  },
   "inventorypets:cloud": {
     "criteria": {
       "crafting_table": "2025-07-21 22:28:33 +0000"

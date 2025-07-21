@@ -2031,9 +2031,11 @@
     "criteria": {
       "minecraft:pillager": "2025-07-21 03:18:03 +0000",
       "minecraft:skeleton": "2025-07-20 21:24:22 +0000",
+      "minecraft:magma_cube": "2025-07-21 22:34:25 +0000",
       "minecraft:spider": "2025-07-20 19:46:54 +0000",
       "minecraft:witch": "2025-07-20 05:00:20 +0000",
       "minecraft:husk": "2025-07-21 20:49:02 +0000",
+      "minecraft:piglin": "2025-07-21 22:33:48 +0000",
       "minecraft:enderman": "2025-07-21 21:18:38 +0000",
       "minecraft:zombie": "2025-07-20 21:23:02 +0000"
     },
@@ -6229,6 +6231,60 @@
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-07-21 21:55:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-21 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-21 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-21 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-21 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-21 22:33:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_bloody_cult": {
+    "criteria": {
+      "the_bloody_cult_0": "2025-07-21 22:38:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-21 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-21 22:33:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-21 22:42:31 +0000"
     },
     "done": true
   },
