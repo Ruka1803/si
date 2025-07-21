@@ -2148,3 +2148,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [21Jul2025 20:09:08.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Incendium]
 [21Jul2025 20:09:24.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.12729263305664) to LOW (avg. 24.10840606689453)
 [21Jul2025 20:14:24.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Poseidon, God of the Seas]
+[21Jul2025 20:15:23.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [A Throwaway Joke]
+[21Jul2025 20:18:48.437] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.575016021728516) to NORMAL (avg. 40.249427795410156)
+[21Jul2025 20:18:49.384] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 34.88923761) to NORMAL (avg. 40.34872151)
+[21Jul2025 20:18:55.751] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.249427795410156) to VERY_HIGH (avg. 71.59249114990234)
+[21Jul2025 20:18:56.847] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 40.34872151) to MEDIUM (avg. 45.62098136)
+[21Jul2025 20:19:02.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 71.59249114990234) to NORMAL (avg. 43.01679992675781)
+[21Jul2025 20:19:17.381] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.01679992675781) to MEDIUM (avg. 46.95820999145508)
+[21Jul2025 20:19:18.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: verganuel[/100.79.178.109:50766] logged in with entity id 332747 at (1159.6452938252876, 67.0, -187.69999998807907)
+[21Jul2025 20:19:18.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel joined the game
+[21Jul2025 20:19:18.991] [Server thread/INFO] [APTweaks(Player)/]: Player verganuel ServerPlayer['verganuel'/332747, l='ServerLevel[world]', x=1159.65, y=67.00, z=-187.70] logged in and will be protected for 90 secs.
+[21Jul2025 20:19:26.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[21Jul2025 20:19:27.002] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.95820999145508) to VERY_HIGH (avg. 61.07249450683594)
+[21Jul2025 20:19:28.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.81095897) to VERY_HIGH (avg. 56.22030673)
+[21Jul2025 20:19:34.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.07249450683594) to HIGH (avg. 51.4177131652832)
+[21Jul2025 20:20:04.858] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.38359832763672) to MEDIUM (avg. 47.12845993041992)
+[21Jul2025 20:20:21.092] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.12845993041992) to HIGH (avg. 50.49500274658203)
+[21Jul2025 20:20:22.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[21Jul2025 20:20:42.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[21Jul2025 20:20:46.493] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.592750549316406) to VERY_HIGH (avg. 60.03661346435547)
+[21Jul2025 20:20:49.001] [Server thread/WARN] [APTweaks(Player)/]: User validation for verganuel timed out after 90 secs.
+[21Jul2025 20:20:49.002] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player verganuel!
+[21Jul2025 20:20:59.972] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[21Jul2025 20:21:03.161] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.03661346435547) to HIGH (avg. 54.391380310058594)
+[21Jul2025 20:21:17.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[21Jul2025 20:21:21.183] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.391380310058594) to VERY_HIGH (avg. 57.462921142578125)
+[21Jul2025 20:21:35.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2765ms or 55 ticks behind
+[21Jul2025 20:21:55.009] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.775535583496094) to HIGH (avg. 51.69640350341797)
+[21Jul2025 20:21:55.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 20:22:03.769] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.69640350341797) to VERY_HIGH (avg. 61.676361083984375)
+[21Jul2025 20:22:13.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[21Jul2025 20:22:20.764] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 61.676361083984375) to NORMAL (avg. 42.44031524658203)
+[21Jul2025 20:22:35.208] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.44031524658203) to MEDIUM (avg. 47.79438781738281)
+[21Jul2025 20:22:38.239] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[21Jul2025 20:22:38.240] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[21Jul2025 20:22:42.614] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.79438781738281) to HIGH (avg. 50.40422821044922)
+[21Jul2025 20:22:57.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.40422821044922) to MEDIUM (avg. 47.94900894165039)
+[21Jul2025 20:23:05.477] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.94900894165039) to HIGH (avg. 51.723182678222656)
+[21Jul2025 20:23:13.394] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.723182678222656) to MEDIUM (avg. 48.577110290527344)
+[21Jul2025 20:23:28.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.577110290527344) to HIGH (avg. 49.87672805786133)
+[21Jul2025 20:23:38.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[21Jul2025 20:23:44.995] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.267208099365234) to VERY_HIGH (avg. 55.891082763671875)
+[21Jul2025 20:23:52.911] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.891082763671875) to HIGH (avg. 51.44733810424805)
+[21Jul2025 20:24:08.143] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.44733810424805) to MEDIUM (avg. 48.46318817138672)
+[21Jul2025 20:24:12.680] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:12.680] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:12.680] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:12.843] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:14.078] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:14.079] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:14.079] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:23.218] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.46318817138672) to NORMAL (avg. 45.352848052978516)
+[21Jul2025 20:24:27.776] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:27.777] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:27.777] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:27.778] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[21Jul2025 20:24:37.928] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.352848052978516) to MEDIUM (avg. 46.83333969116211)
