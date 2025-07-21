@@ -1753,7 +1753,9 @@
       "minecraft:birch_forest": "2025-07-21 03:53:52 +0000",
       "minecraft:beach": "2025-07-20 22:37:19 +0000",
       "minecraft:dark_forest": "2025-07-21 03:49:29 +0000",
+      "minecraft:sparse_jungle": "2025-07-21 20:45:53 +0000",
       "minecraft:river": "2025-07-19 07:11:15 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-21 20:43:48 +0000",
       "minecraft:stony_shore": "2025-07-19 00:41:57 +0000",
       "minecraft:snowy_plains": "2025-07-20 03:04:18 +0000",
       "minecraft:dripstone_caves": "2025-07-19 07:32:47 +0000",
@@ -1765,7 +1767,9 @@
       "minecraft:frozen_ocean": "2025-07-21 03:27:17 +0000",
       "minecraft:desert": "2025-07-20 22:12:14 +0000",
       "minecraft:ocean": "2025-07-20 21:55:59 +0000",
+      "minecraft:jungle": "2025-07-21 20:44:36 +0000",
       "minecraft:snowy_beach": "2025-07-21 03:25:31 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-07-21 20:43:57 +0000",
       "minecraft:frozen_peaks": "2025-07-20 05:51:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 07:38:14 +0000",
       "minecraft:meadow": "2025-07-19 00:07:02 +0000",
@@ -3211,6 +3215,7 @@
       "minecraft:evoker": "2025-07-21 03:05:22 +0000",
       "minecraft:phantom": "2025-07-19 22:26:42 +0000",
       "minecraft:witch": "2025-07-19 01:46:47 +0000",
+      "minecraft:husk": "2025-07-21 20:46:27 +0000",
       "minecraft:cave_spider": "2025-07-19 01:04:53 +0000",
       "minecraft:zombie": "2025-07-19 06:55:47 +0000",
       "minecraft:zombie_villager": "2025-07-21 03:25:52 +0000"
@@ -6224,81 +6229,21 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
+      "give_recipe": "2025-07-21 20:56:17 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-21 20:31:01 +0000"
-    },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
     },
     "done": true
   },
@@ -6308,9 +6253,33 @@
     },
     "done": false
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
   "incendium:root": {
     "criteria": {
       "requirement": "2025-07-21 20:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-21 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 20:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
     },
     "done": true
   },
@@ -6323,6 +6292,12 @@
   "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
     },
     "done": true
   },
@@ -6380,9 +6355,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 20:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2025-07-21 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-21 20:44:44 +0000"
     },
     "done": true
   },
@@ -6398,6 +6391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:29:50 +0000"
@@ -6407,6 +6406,18 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2025-07-21 20:15:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-07-21 20:56:11 +0000"
     },
     "done": true
   },
@@ -6440,9 +6451,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
     },
     "done": true
   },
@@ -6452,15 +6475,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/dark_stone_from_cobbled_dark_stone_blasting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:29:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
     },
     "done": true
   },
@@ -6473,6 +6514,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
     },
     "done": true
   },
@@ -6542,6 +6589,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_chiseled_sandstone": "2025-07-21 20:56:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:06:18 +0000"
@@ -6557,6 +6610,18 @@
   "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
     },
     "done": true
   },
@@ -6584,6 +6649,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-07-21 20:57:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:06:35 +0000"
@@ -6593,6 +6664,18 @@
   "minecraft:recipes/decorations/dark_stone_brick_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:29:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
     },
     "done": true
   },
@@ -6623,6 +6706,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 20:56:26 +0000"
     },
     "done": true
   },
@@ -6674,6 +6763,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-07-21 20:56:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:06:35 +0000"
@@ -6689,6 +6790,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-07-21 20:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
     },
     "done": true
   },
@@ -6740,9 +6847,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-07-21 20:57:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 20:56:17 +0000"
     },
     "done": true
   },
