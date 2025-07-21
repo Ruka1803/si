@@ -10919,15 +10919,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-21 21:56:32 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_ochrum_brick_slab_recycling": {
     "criteria": {
       "has_cut_ochrum_brick_slab": "2025-07-21 21:51:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 21:56:32 +0000"
     },
     "done": true
   },
@@ -10940,6 +10940,12 @@
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-07-21 21:56:32 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:cloud": {
+    "criteria": {
+      "crafting_table": "2025-07-21 22:28:33 +0000"
     },
     "done": true
   },

@@ -15165,3 +15165,72 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [21Jul2025 22:26:49.457] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [21Jul2025 22:26:49.457] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
 [21Jul2025 22:26:49.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2410ms or 48 ticks behind
+[21Jul2025 22:27:10.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5702ms or 114 ticks behind
+[21Jul2025 22:27:10.836] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.96574783325195) to HIGH (avg. 53.0518913269043)
+[21Jul2025 22:27:17.508] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jul2025 22:27:17.510] [Worker-Main-3/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jul2025 22:27:19.794] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.0518913269043) to VERY_HIGH (avg. 60.79590606689453)
+[21Jul2025 22:27:23.248] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity crittersandcompanions:shima_enaga
+[21Jul2025 22:27:27.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[21Jul2025 22:27:30.747] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.73 and blood value 0 for entity iceandfire:ice_dragon
+[21Jul2025 22:27:37.159] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.79590606689453) to HIGH (avg. 54.5059814453125)
+[21Jul2025 22:27:46.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[21Jul2025 22:28:23.874] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.3505859375) to NORMAL (avg. 42.0467414855957)
+[21Jul2025 22:28:30.843] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[21Jul2025 22:28:31.401] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[21Jul2025 22:28:33.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Call Me Zeus]
+[21Jul2025 22:28:41.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved wrongly!
+[21Jul2025 22:28:53.631] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.69560241699219) to HIGH (avg. 50.21957778930664)
+[21Jul2025 22:29:08.415] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.21957778930664) to MEDIUM (avg. 46.37215042114258)
+[21Jul2025 22:29:22.847] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.37215042114258) to HIGH (avg. 51.767906188964844)
+[21Jul2025 22:29:30.802] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.767906188964844) to VERY_HIGH (avg. 55.58897018432617)
+[21Jul2025 22:29:36.351] [Worker-Main-4/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Jul2025 22:29:36.352] [Worker-Main-4/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Jul2025 22:29:36.352] [Worker-Main-4/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Jul2025 22:29:36.353] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[21Jul2025 22:29:36.428] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Jul2025 22:29:36.429] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[21Jul2025 22:29:36.628] [Worker-Main-4/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[21Jul2025 22:29:36.628] [Worker-Main-4/DEBUG] [citadel/]: surface rule recursive depth: 11
+[21Jul2025 22:29:37.588] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[21Jul2025 22:29:37.588] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[21Jul2025 22:29:37.589] [Worker-Main-5/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[21Jul2025 22:29:38.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5464ms or 109 ticks behind
+[21Jul2025 22:29:38.421] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[21Jul2025 22:29:38.693] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:38.694] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:38.700] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:38.705] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:38.706] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:38.714] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:38.714] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:38.716] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:44.340] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:44.892] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:44.892] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:44.892] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.38 and blood value 9 for entity minecraft:strider
+[21Jul2025 22:29:48.090] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 0.00887997) to LOW (avg. 16.16232608)
+[21Jul2025 22:29:59.295] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 52.87375172) to HIGH (avg. 47.7930729)
+[21Jul2025 22:30:01.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7895ms or 157 ticks behind
+[21Jul2025 22:30:10.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 47.7930729) to VERY_HIGH (avg. 52.78163608)
+[21Jul2025 22:30:24.698] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8536ms or 170 ticks behind
+[21Jul2025 22:30:31.569] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.58080291748047) to HIGH (avg. 52.093170166015625)
+[21Jul2025 22:30:32.832] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 18.35538403) to VERY_LOW (avg. 8.82329916)
+[21Jul2025 22:30:42.323] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[21Jul2025 22:30:46.821] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[21Jul2025 22:30:46.947] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[21Jul2025 22:30:46.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 22:30:46.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 22:30:48.267] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.093170166015625) to VERY_HIGH (avg. 61.832725524902344)
+[21Jul2025 22:30:59.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2222ms or 44 ticks behind
+[21Jul2025 22:31:00.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Spooky Scary Skeleton]
+[21Jul2025 22:31:12.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.516414642333984) to NORMAL (avg. 42.9931755065918)
+[21Jul2025 22:31:34.431] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.72029495239258) to MEDIUM (avg. 48.72178649902344)
+[21Jul2025 22:31:41.911] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.72178649902344) to NORMAL (avg. 44.59627151489258)
+[21Jul2025 22:32:12.694] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[21Jul2025 22:32:12.696] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[21Jul2025 22:32:19.411] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.60530090332031) to LOW (avg. 39.774837493896484)
+[21Jul2025 22:32:26.928] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.774837493896484) to MEDIUM (avg. 47.39748001098633)
+[21Jul2025 22:32:34.411] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.39748001098633) to NORMAL (avg. 42.6218147277832)
+[21Jul2025 22:32:56.925] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.94527053833008) to MEDIUM (avg. 47.54876708984375)
+[21Jul2025 22:33:04.415] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.54876708984375) to NORMAL (avg. 45.064483642578125)
