@@ -11505,6 +11505,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/polished_willow_fence_gate_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
@@ -11547,6 +11565,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/polished_willow_fence_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
@@ -11562,6 +11586,12 @@
   "minecraft:recipes/woodcutting/willow/willow_chest_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
     },
     "done": true
   },
@@ -11601,9 +11631,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/willow_fence_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
     },
     "done": true
   },
@@ -11619,9 +11673,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/weathered_plate_iron": {
+    "criteria": {
+      "has_copper_block": "2025-07-21 22:51:47 +0000"
     },
     "done": true
   },
@@ -11709,6 +11775,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2025-07-21 22:30:11 +0000"
@@ -11763,9 +11835,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_exposed_cut_copper_stairs": "2025-07-21 22:47:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
     },
     "done": true
   },
@@ -11784,6 +11874,12 @@
   "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
     },
     "done": true
   },
@@ -11808,6 +11904,12 @@
   "minecraft:recipes/woodcutting/willow/polished_willow_trapdoor_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-21 22:53:09 +0000"
     },
     "done": true
   },

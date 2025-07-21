@@ -1,8 +1,4 @@
 
-[food]
-	icicle_food = true
-	icicle_fire_resistance = true
-
 [general]
 	block_growths = true
 	#put here the name of a block growth json you want to disable i.e: [weeds, weeds_spread].Note that this is not the preferred way to do this as block growths are all data driven so it would be best to disable or tweak them by creating a datapack that overrides themCheck the mod data folder for the required names. Requires resource reload (/data reload)
@@ -62,6 +58,10 @@
 	sponge_rust_drying = false
 	axe_stripping = true
 	axe_rusting = true
+
+[food]
+	icicle_food = true
+	icicle_fire_resistance = true
 
 [misc]
 	composter_dirt = true
