@@ -1779,6 +1779,7 @@
       "minecraft:birch_forest": "2025-07-20 20:58:29 +0000",
       "minecraft:beach": "2025-07-20 20:38:13 +0000",
       "minecraft:dark_forest": "2025-07-20 20:42:30 +0000",
+      "minecraft:mangrove_swamp": "2025-07-21 21:20:25 +0000",
       "minecraft:sparse_jungle": "2025-07-20 21:36:31 +0000",
       "minecraft:river": "2025-07-20 05:00:08 +0000",
       "minecraft:stony_shore": "2025-07-20 21:46:34 +0000",
@@ -2032,6 +2033,7 @@
       "minecraft:spider": "2025-07-20 19:46:54 +0000",
       "minecraft:witch": "2025-07-20 05:00:20 +0000",
       "minecraft:husk": "2025-07-21 20:49:02 +0000",
+      "minecraft:enderman": "2025-07-21 21:18:38 +0000",
       "minecraft:zombie": "2025-07-20 21:23:02 +0000"
     },
     "done": false
@@ -5405,6 +5407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-07-21 21:12:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:09:36 +0000"
@@ -5477,6 +5485,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-21 21:16:02 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-07-21 20:12:44 +0000"
@@ -5513,9 +5527,21 @@
     },
     "done": true
   },
+  "inventorypets:30": {
+    "criteria": {
+      "example": "2025-07-21 21:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-07-21 21:16:19 +0000"
     },
     "done": true
   },
@@ -5747,6 +5773,18 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/oak_leaves": {
+    "criteria": {
+      "has_copper_block": "2025-07-21 21:23:29 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:bed": {
+    "criteria": {
+      "crafting_table": "2025-07-21 21:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-07-21 20:37:19 +0000"
@@ -5762,6 +5800,12 @@
   "minecraft:recipes/decorations/cobbled_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2025-07-21 21:12:40 +0000"
     },
     "done": true
   },
@@ -5810,6 +5854,18 @@
   "minecraft:recipes/decorations/polished_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:25:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-21 21:10:09 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/brick": {
+    "criteria": {
+      "has_copper_block": "2025-07-21 21:10:09 +0000"
     },
     "done": true
   },
@@ -5946,6 +6002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-21 21:10:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:09:36 +0000"
@@ -6060,6 +6122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-21 21:10:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-07-21 21:01:13 +0000"
@@ -6087,6 +6155,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-07-21 20:12:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-07-21 21:16:19 +0000"
     },
     "done": true
   },

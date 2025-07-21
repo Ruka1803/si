@@ -1753,6 +1753,7 @@
       "minecraft:birch_forest": "2025-07-21 03:53:52 +0000",
       "minecraft:beach": "2025-07-20 22:37:19 +0000",
       "minecraft:dark_forest": "2025-07-21 03:49:29 +0000",
+      "minecraft:mangrove_swamp": "2025-07-21 21:23:59 +0000",
       "minecraft:sparse_jungle": "2025-07-21 20:45:53 +0000",
       "minecraft:river": "2025-07-19 07:11:15 +0000",
       "minecraft:lukewarm_ocean": "2025-07-21 20:43:48 +0000",
@@ -1769,6 +1770,7 @@
       "minecraft:ocean": "2025-07-20 21:55:59 +0000",
       "minecraft:jungle": "2025-07-21 20:44:36 +0000",
       "minecraft:snowy_beach": "2025-07-21 03:25:31 +0000",
+      "minecraft:windswept_savanna": "2025-07-21 21:23:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-21 20:43:57 +0000",
       "minecraft:frozen_peaks": "2025-07-20 05:51:35 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-19 07:38:14 +0000",
@@ -6355,6 +6357,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-21 21:17:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-07-21 20:56:26 +0000"
@@ -6376,6 +6384,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-07-21 20:44:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 21:21:55 +0000"
     },
     "done": true
   },
@@ -6427,9 +6441,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 21:17:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-07-21 20:06:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 21:21:55 +0000"
     },
     "done": true
   },
@@ -6460,6 +6486,12 @@
   "minecraft:recipes/decorations/polished_dark_stone_wall_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:29:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 21:17:34 +0000"
     },
     "done": true
   },
@@ -6595,6 +6627,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 21:21:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 21:21:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:06:18 +0000"
@@ -6667,6 +6711,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 21:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:17 +0000"
@@ -6685,6 +6735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-21 21:19:13 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/building_blocks/polished_dark_stone": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:29:50 +0000"
@@ -6697,6 +6753,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 21:17:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:06:18 +0000"
@@ -6706,6 +6768,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-21 20:06:18 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:forgotten_sands": {
+    "criteria": {
+      "forgotten_sands_0": "2025-07-21 21:03:04 +0000"
     },
     "done": true
   },
