@@ -3534,3 +3534,46 @@ java.lang.Throwable: null
 [21Jul2025 21:36:06.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5124ms or 102 ticks behind
 [21Jul2025 21:36:25.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4597ms or 91 ticks behind
 [21Jul2025 21:36:38.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Dungeon Delving]
+[21Jul2025 21:36:44.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3492ms or 69 ticks behind
+[21Jul2025 21:36:49.250] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.17810821533203) to HIGH (avg. 52.20245361328125)
+[21Jul2025 21:37:18.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 21:37:50.590] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.479522705078125) to MEDIUM (avg. 46.49855041503906)
+[21Jul2025 21:37:57.966] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.49855041503906) to HIGH (avg. 53.884586334228516)
+[21Jul2025 21:38:20.393] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.04446792602539) to MEDIUM (avg. 48.02661895751953)
+[21Jul2025 21:38:27.934] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.02661895751953) to HIGH (avg. 50.94401931762695)
+[21Jul2025 21:38:35.391] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.94401931762695) to MEDIUM (avg. 48.53670883178711)
+[21Jul2025 21:38:50.387] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.53670883178711) to NORMAL (avg. 43.16290283203125)
+[21Jul2025 21:38:50.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Dungeon Delving]
+[21Jul2025 21:38:51.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX was blasted by The Dead King
+[21Jul2025 21:38:57.892] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.16290283203125) to HIGH (avg. 49.36861801147461)
+[21Jul2025 21:39:12.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.36861801147461) to LOW (avg. 37.523651123046875)
+[21Jul2025 21:39:23.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has completed the challenge [Staff of Blood]
+[21Jul2025 21:39:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [No Longer Short-Staffed]
+[21Jul2025 21:40:27.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.196956634521484) to NORMAL (avg. 43.90131759643555)
+[21Jul2025 21:40:50.533] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.78759002685547) to MEDIUM (avg. 47.69092559814453)
+[21Jul2025 21:40:57.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.69092559814453) to NORMAL (avg. 44.600555419921875)
+[21Jul2025 21:41:13.292] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.600555419921875) to VERY_HIGH (avg. 58.03141784667969)
+[21Jul2025 21:41:20.503] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.03141784667969) to HIGH (avg. 49.211727142333984)
+[21Jul2025 21:41:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.211727142333984) to LOW (avg. 37.16143035888672)
+[21Jul2025 21:41:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.16143035888672) to NORMAL (avg. 44.43107223510742)
+[21Jul2025 21:42:13.138] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.650177001953125) to HIGH (avg. 49.37434005737305)
+[21Jul2025 21:42:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.37434005737305) to NORMAL (avg. 42.94368362426758)
+[21Jul2025 21:42:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.94368362426758) to LOW (avg. 39.437950134277344)
+[21Jul2025 21:42:41.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [I always come back]
+[21Jul2025 21:42:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.437950134277344) to NORMAL (avg. 42.17039489746094)
+[21Jul2025 21:43:35.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.313533782958984) to LOW (avg. 39.17158889770508)
+[21Jul2025 21:43:50.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.17158889770508) to NORMAL (avg. 41.419151306152344)
+[21Jul2025 21:43:52.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has completed the challenge [Staff of Blood]
+[21Jul2025 21:43:52.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [No Longer Short-Staffed]
+[21Jul2025 21:44:20.370] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.700340270996094) to LOW (avg. 38.785064697265625)
+[21Jul2025 21:44:27.870] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.785064697265625) to NORMAL (avg. 40.84568405151367)
+[21Jul2025 21:45:36.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.116.85.85:59352] logged in with entity id 3297060 at (1136.3392598774003, 69.0, -214.83121054765127)
+[21Jul2025 21:45:36.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[21Jul2025 21:45:36.071] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/3297060, l='ServerLevel[world]', x=1136.34, y=69.00, z=-214.83] logged in and will be protected for 90 secs.
+[21Jul2025 21:45:43.126] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.64836502075195) to HIGH (avg. 54.33306121826172)
+[21Jul2025 21:45:51.118] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.33306121826172) to VERY_HIGH (avg. 58.75054168701172)
+[21Jul2025 21:46:02.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 21:46:20.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[21Jul2025 21:46:20.597] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 44 secs.
+[21Jul2025 21:46:20.597] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[21Jul2025 21:46:37.662] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind

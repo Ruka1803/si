@@ -8787,7 +8787,8 @@
   },
   "chromaticarsenal:arsenal_accumulated": {
     "criteria": {
-      "has_ascended_star": "2025-07-20 18:58:48 +0000"
+      "has_ascended_star": "2025-07-20 18:58:48 +0000",
+      "has_vital_stone": "2025-07-21 21:34:35 +0000"
     },
     "done": false
   },
@@ -11012,6 +11013,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 21:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:31 +0000"
@@ -11021,6 +11028,12 @@
   "minecraft:recipes/woodcutting/mahogany/mahogany_boat_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-21 21:31:44 +0000"
     },
     "done": true
   },
@@ -11084,6 +11097,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-07-21 21:33:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_fence_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:31 +0000"
@@ -11105,6 +11124,24 @@
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_blue": {
+    "criteria": {
+      "has_wool": "2025-07-21 21:33:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-07-21 21:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-07-21 21:33:55 +0000"
     },
     "done": true
   },
@@ -11138,6 +11175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-07-21 21:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-07-21 21:25:20 +0000"
@@ -11168,9 +11211,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-21 21:33:03 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-07-21 21:38:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/polished_mahogany_trapdoor_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-21 21:31:44 +0000"
     },
     "done": true
   },
@@ -11246,6 +11307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-07-21 21:35:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_fence_gate_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:31 +0000"
@@ -11258,9 +11325,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-21 21:31:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/stripped_oak_wood_from_oak_wood_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 21:26:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 21:31:19 +0000"
     },
     "done": true
   },
@@ -11282,6 +11361,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-07-21 21:31:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
     "criteria": {
       "has_item": "2025-07-21 20:45:16 +0000"
@@ -11294,9 +11379,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-07-21 21:33:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_connected_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-21 21:35:36 +0000"
     },
     "done": true
   },
@@ -11324,6 +11421,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-21 21:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/mahogany/mahogany_chest_from_mahogany_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 20:56:31 +0000"
@@ -11339,6 +11442,12 @@
   "vampirism:recipes/decorations/vampire/coffin_pink": {
     "criteria": {
       "has_wool": "2025-07-21 21:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-07-21 21:41:22 +0000"
     },
     "done": true
   },
