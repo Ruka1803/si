@@ -10944,6 +10944,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/gray_table_cloth_clear": {
+    "criteria": {
+      "has_gray_table_cloth": "2025-07-21 23:42:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/willow_connected_add_to_candle": {
     "criteria": {
       "has_candle": "2025-07-21 23:30:12 +0000"
@@ -10955,6 +10961,12 @@
       "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
   },
   "alexscaves:alexscaves/nuclear_bomb": {
     "criteria": {
@@ -10971,6 +10983,13 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-21 23:43:58 +0000",
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
     },
     "done": true
   },
@@ -11052,6 +11071,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_blue_to_sea_serpent_scale_block_blue": {
     "criteria": {
       "has_sea_serpent_scales_blue": "2025-07-21 23:29:16 +0000"
@@ -11106,6 +11131,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/add_to_candle/add_to_candle/mahogany_connected_add_to_candle": {
     "criteria": {
       "has_candle": "2025-07-21 23:30:12 +0000"
@@ -11136,11 +11167,23 @@
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-07-21 23:15:57 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
@@ -11178,6 +11221,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-07-21 22:32:08 +0000"
@@ -11195,6 +11244,12 @@
       "has_candle": "2025-07-21 23:30:12 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/tide_blue_boots": {
     "criteria": {
@@ -11244,6 +11299,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/tide_blue_helmet": {
     "criteria": {
       "has_item": "2025-07-21 23:29:16 +0000"
@@ -11274,6 +11335,18 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
+  },
   "immersive_weathering:recipes/honeycomb": {
     "criteria": {
       "has_the_recipe": "2025-07-21 23:12:33 +0000"
@@ -11291,6 +11364,18 @@
       "has_copper_block": "2025-07-21 23:12:33 +0000"
     },
     "done": true
+  },
+  "inventorypets:wither": {
+    "criteria": {
+      "crafting_table": "2025-07-21 23:41:30 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-21 23:43:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_connected_add_to_candle": {
     "criteria": {

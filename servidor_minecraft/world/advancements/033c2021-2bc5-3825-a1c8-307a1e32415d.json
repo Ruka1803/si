@@ -12076,11 +12076,23 @@
     },
     "done": true
   },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-07-21 23:37:57 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/coffin_green": {
     "criteria": {
       "has_wool": "2025-07-21 23:31:58 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-07-21 23:37:57 +0000"
+    },
+    "done": false
   },
   "terramity:most_gamblers_quit_advancement": {
     "criteria": {
@@ -12091,6 +12103,12 @@
   "minecraft:recipes/decorations/green_banner": {
     "criteria": {
       "has_green_wool": "2025-07-21 23:31:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-07-21 23:38:06 +0000"
     },
     "done": true
   },
