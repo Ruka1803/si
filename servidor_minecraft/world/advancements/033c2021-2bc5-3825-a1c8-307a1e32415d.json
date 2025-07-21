@@ -11505,9 +11505,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 22:58:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/gray_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-07-21 22:58:13 +0000"
     },
     "done": true
   },
@@ -11520,6 +11532,12 @@
   "create:recipes/building_blocks/crafting/logistics/yellow_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_crimsite_brick_slab_recycling": {
+    "criteria": {
+      "has_small_crimsite_brick_slab": "2025-07-21 23:07:59 +0000"
     },
     "done": true
   },
@@ -11604,6 +11622,12 @@
   "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2025-07-21 23:06:58 +0000"
     },
     "done": true
   },
@@ -11757,6 +11781,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_purple_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-21 22:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
@@ -11775,6 +11805,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-21 23:09:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/brick": {
+    "criteria": {
+      "has_copper_block": "2025-07-21 23:09:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/pink_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-21 22:53:09 +0000"
@@ -11784,6 +11826,12 @@
   "minecraft:recipes/decorations/lime_candle": {
     "criteria": {
       "has_lime_dye": "2025-07-21 22:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-21 23:02:11 +0000"
     },
     "done": true
   },
@@ -11841,6 +11889,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 22:58:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/white_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-21 22:53:09 +0000"
@@ -11850,6 +11904,12 @@
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
     "criteria": {
       "has_exposed_cut_copper_stairs": "2025-07-21 22:47:32 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:chromanyan_plush": {
+    "criteria": {
+      "has_item": "2025-07-21 23:03:12 +0000"
     },
     "done": true
   },
@@ -11865,6 +11925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 22:58:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/willow_door_from_willow_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-21 22:39:41 +0000"
@@ -11877,9 +11943,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-21 23:08:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/green_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-21 22:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-21 22:58:13 +0000"
     },
     "done": true
   },
@@ -11916,6 +11994,12 @@
   "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-07-21 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-21 23:09:57 +0000"
     },
     "done": true
   },
