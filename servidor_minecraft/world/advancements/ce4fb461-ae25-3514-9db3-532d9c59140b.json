@@ -1777,6 +1777,7 @@
       "minecraft:frozen_river": "2025-07-21 03:25:35 +0000",
       "minecraft:sunflower_plains": "2025-07-20 21:32:14 +0000",
       "minecraft:birch_forest": "2025-07-20 20:58:29 +0000",
+      "minecraft:windswept_hills": "2025-07-21 21:25:20 +0000",
       "minecraft:beach": "2025-07-20 20:38:13 +0000",
       "minecraft:dark_forest": "2025-07-20 20:42:30 +0000",
       "minecraft:mangrove_swamp": "2025-07-21 21:20:25 +0000",
@@ -5758,6 +5759,12 @@
   "etched:recipes/misc/blank_music_disc": {
     "criteria": {
       "has_music_disc": "2025-07-21 20:54:23 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-07-21 21:27:25 +0000"
     },
     "done": true
   },

@@ -1761,6 +1761,7 @@
       "minecraft:snowy_plains": "2025-07-20 03:04:18 +0000",
       "minecraft:dripstone_caves": "2025-07-19 07:32:47 +0000",
       "minecraft:grove": "2025-07-19 07:12:41 +0000",
+      "minecraft:swamp": "2025-07-21 21:27:23 +0000",
       "minecraft:cold_ocean": "2025-07-21 03:24:07 +0000",
       "minecraft:forest": "2025-07-19 00:08:35 +0000",
       "minecraft:deep_cold_ocean": "2025-07-21 03:44:21 +0000",
@@ -6570,6 +6571,12 @@
   "minecraft:recipes/decorations/cobbled_dark_stone_slab_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2025-07-21 20:29:50 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:enchantingtable": {
+    "criteria": {
+      "crafting_table": "2025-07-21 21:27:06 +0000"
     },
     "done": true
   },
