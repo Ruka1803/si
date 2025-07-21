@@ -6226,5 +6226,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_fire": {
+    "criteria": {
+      "has_item": "2025-07-21 21:55:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
