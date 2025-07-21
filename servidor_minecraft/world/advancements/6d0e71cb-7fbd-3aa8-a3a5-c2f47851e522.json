@@ -10943,6 +10943,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-07-21 23:16:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
@@ -10967,15 +10973,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-21 23:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_stack_upgrade_tier_2": "2025-07-21 23:16:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2025-07-21 23:16:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-07-21 23:12:33 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:brewingstand": {
+    "criteria": {
+      "crafting_table": "2025-07-21 23:18:05 +0000"
     },
     "done": true
   },
@@ -10997,6 +11027,24 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_stack_upgrade_starter_tier": "2025-07-21 23:16:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_weathered_copper_tile_slab_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2025-07-21 23:21:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-07-21 23:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-21 22:51:52 +0000"
@@ -11008,6 +11056,24 @@
       "has_stone_slab": "2025-07-21 22:32:36 +0000"
     },
     "done": true
+  },
+  "inventorypets:enchantingtable": {
+    "criteria": {
+      "crafting_table": "2025-07-21 23:18:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 23:15:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:inverted_forest": "2025-07-21 23:23:22 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/small_scoria_brick_slab_recycling": {
     "criteria": {
@@ -11033,15 +11099,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 23:22:12 +0000"
+    },
+    "done": true
+  },
   "inventorypets:cloud": {
     "criteria": {
       "crafting_table": "2025-07-21 22:28:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-21 23:15:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-21 22:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-07-21 23:22:12 +0000"
     },
     "done": true
   },
