@@ -19964,3 +19964,107 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [22Jul2025 19:51:55.182] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=7, z=-864}
 [22Jul2025 19:51:55.190] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=422, y=9, z=-847}
 [22Jul2025 19:51:55.220] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=7, z=-864}
+[22Jul2025 19:52:18.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9791ms or 195 ticks behind
+[22Jul2025 19:52:35.309] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 16.01946661) to VERY_LOW (avg. 14.102532380000001)
+[22Jul2025 19:52:41.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7861ms or 157 ticks behind
+[22Jul2025 19:52:46.854] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 14.102532380000001) to LOW (avg. 17.62216877)
+[22Jul2025 19:53:05.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8650ms or 173 ticks behind
+[22Jul2025 19:53:12.271] [Worker-Main-4/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=7, z=-864}
+[22Jul2025 19:53:12.294] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=7, z=-864}
+[22Jul2025 19:53:12.510] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=368, y=7, z=-864}
+[22Jul2025 19:53:12.516] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=422, y=9, z=-853}
+[22Jul2025 19:53:14.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1525208, l='ServerLevel[world]', x=57.51, y=84.00, z=-333.86] died, message: 'Villager was killed by magic'
+[22Jul2025 19:53:30.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10242ms or 204 ticks behind
+[22Jul2025 19:53:32.136] [Worker-Main-5/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=414, y=7, z=-885}
+[22Jul2025 19:53:33.889] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=382, y=7, z=-865}
+[22Jul2025 19:53:33.891] [Worker-Main-3/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=396, y=7, z=-878}
+[22Jul2025 19:53:54.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9292ms or 185 ticks behind
+[22Jul2025 19:54:19.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9485ms or 189 ticks behind
+[22Jul2025 19:54:23.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [A Terrible Fortress]
+[22Jul2025 19:54:30.041] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Jul2025 19:54:31.675] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Jul2025 19:54:35.975] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Jul2025 19:54:44.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10088ms or 201 ticks behind
+[22Jul2025 19:54:56.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> blaze 49.45 69.00 -196.80
+[22Jul2025 19:55:09.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10232ms or 204 ticks behind
+[22Jul2025 19:55:09.633] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Jul2025 19:55:12.074] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[22Jul2025 19:55:12.127] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[22Jul2025 19:55:12.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 19:55:12.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 19:55:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> miller
+[22Jul2025 19:55:19.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/1556418, l='ServerLevel[world]', x=25.65, y=63.00, z=-216.20] died: Withering Archer was slain by MilerinotFound
+[22Jul2025 19:55:21.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> ?
+[22Jul2025 19:55:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> encontre un dragon de los grande de hielo
+[22Jul2025 19:55:29.689] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Jul2025 19:55:31.433] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_blaze_loot
+[22Jul2025 19:55:35.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10918ms or 218 ticks behind
+[22Jul2025 19:55:35.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> pere
+[22Jul2025 19:55:56.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5849ms or 116 ticks behind
+[22Jul2025 19:56:01.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 6.543397640589092,-10.20537719614685,8.770477016045561
+[22Jul2025 19:56:11.513] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 18.13461319) to VERY_LOW (avg. 0.03164242)
+[22Jul2025 19:56:16.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5851ms or 117 ticks behind
+[22Jul2025 19:56:28.202] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:blessing_of_life 1: [7a24f612-072f-417f-b056-02a43651270d]
+[22Jul2025 19:56:37.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5309ms or 106 ticks behind
+[22Jul2025 19:56:57.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5230ms or 104 ticks behind
+[22Jul2025 19:57:03.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> esta a 1
+[22Jul2025 19:57:16.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4251ms or 85 ticks behind
+[22Jul2025 19:57:37.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5421ms or 108 ticks behind
+[22Jul2025 19:57:57.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5724ms or 114 ticks behind
+[22Jul2025 19:58:00.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> pere
+[22Jul2025 19:58:02.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> sangre
+[22Jul2025 19:58:05.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> NONONON
+[22Jul2025 19:58:06.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mandame el tp
+[22Jul2025 19:58:06.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> NONNOONON
+[22Jul2025 19:58:08.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> NONONONO
+[22Jul2025 19:58:14.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ?
+[22Jul2025 19:58:17.245] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4490ms or 89 ticks behind
+[22Jul2025 19:58:33.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> NO LE SAQUE SANGRE
+[22Jul2025 19:58:36.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4134ms or 82 ticks behind
+[22Jul2025 19:58:40.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> por que?
+[22Jul2025 19:58:49.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> pq entonces ya no dropea huevo
+[22Jul2025 19:58:51.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> o piel
+[22Jul2025 19:58:55.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3919ms or 78 ticks behind
+[22Jul2025 19:58:58.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> solo quitele sangre a los pequeños
+[22Jul2025 19:59:04.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mano
+[22Jul2025 19:59:07.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> tengo otro
+[22Jul2025 19:59:09.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> XDDD
+[22Jul2025 19:59:14.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4048ms or 80 ticks behind
+[22Jul2025 19:59:16.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> me pido huevo
+[22Jul2025 19:59:32.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> dio?
+[22Jul2025 19:59:33.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3843ms or 76 ticks behind
+[22Jul2025 19:59:52.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4277ms or 85 ticks behind
+[22Jul2025 19:59:55.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> no lo veo
+[22Jul2025 20:00:11.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4613ms or 92 ticks behind
+[22Jul2025 20:00:14.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> no dio
+[22Jul2025 20:00:30.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3903ms or 78 ticks behind
+[22Jul2025 20:00:33.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> y dios escamas?
+[22Jul2025 20:00:36.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> le voy a contar algo gracioso
+[22Jul2025 20:00:40.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ?
+[22Jul2025 20:00:43.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> todo lo que toca el hielo lo destruye
+[22Jul2025 20:00:49.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3386ms or 67 ticks behind
+[22Jul2025 20:00:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> .-.
+[22Jul2025 20:01:07.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3188ms or 63 ticks behind
+[22Jul2025 20:01:08.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> le digo otra cosa graciosa?
+[22Jul2025 20:01:10.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=606, y=-46, z=-416} BlockPos{x=606, y=-45, z=-414}
+[22Jul2025 20:01:17.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> nda
+[22Jul2025 20:01:24.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ves esto?
+[22Jul2025 20:01:26.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4237ms or 84 ticks behind
+[22Jul2025 20:01:26.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=589, y=-44, z=-424} BlockPos{x=589, y=-45, z=-421}
+[22Jul2025 20:01:27.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=587, y=-44, z=-426} BlockPos{x=588, y=-44, z=-427}
+[22Jul2025 20:01:33.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=-45, z=-428} BlockPos{x=581, y=-45, z=-427}
+[22Jul2025 20:01:33.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=-45, z=-429} BlockPos{x=581, y=-45, z=-427}
+[22Jul2025 20:01:33.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=582, y=-45, z=-430} BlockPos{x=581, y=-45, z=-427}
+[22Jul2025 20:01:33.435] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=581, y=-44, z=-428} BlockPos{x=581, y=-45, z=-427}
+[22Jul2025 20:01:35.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> si
+[22Jul2025 20:01:38.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> aqui estaba la broma pa su hermano
+[22Jul2025 20:01:44.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[22Jul2025 20:01:44.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> JAJAJA
+[22Jul2025 20:01:45.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> veo
+[22Jul2025 20:01:46.481] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[22Jul2025 20:01:46.537] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[22Jul2025 20:01:46.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 20:01:46.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 20:01:57.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> vea
+[22Jul2025 20:02:04.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4659ms or 93 ticks behind
+[22Jul2025 20:02:12.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mire

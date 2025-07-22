@@ -1767,6 +1767,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-07-20 18:26:39 +0000",
       "minecraft:flower_forest": "2025-07-20 00:26:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-20 00:34:46 +0000",
+      "minecraft:deep_dark": "2025-07-22 19:55:42 +0000",
       "minecraft:meadow": "2025-07-18 23:59:04 +0000",
       "minecraft:windswept_gravelly_hills": "2025-07-19 01:44:11 +0000",
       "minecraft:plains": "2025-07-19 00:00:13 +0000"
@@ -2576,7 +2577,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-19 01:00:47 +0000",
+      "minecraft:blaze": "2025-07-22 19:54:30 +0000",
       "minecraft:skeleton": "2025-07-19 18:16:58 +0000",
+      "minecraft:ghast": "2025-07-22 19:51:57 +0000",
       "minecraft:vindicator": "2025-07-19 01:00:40 +0000",
       "minecraft:magma_cube": "2025-07-21 23:32:09 +0000",
       "minecraft:spider": "2025-07-19 18:15:21 +0000",
@@ -2584,7 +2587,9 @@
       "minecraft:slime": "2025-07-20 00:06:42 +0000",
       "minecraft:phantom": "2025-07-19 19:26:23 +0000",
       "minecraft:witch": "2025-07-19 01:03:19 +0000",
+      "minecraft:wither_skeleton": "2025-07-22 19:55:17 +0000",
       "minecraft:cave_spider": "2025-07-20 20:14:55 +0000",
+      "minecraft:piglin": "2025-07-22 19:51:42 +0000",
       "minecraft:enderman": "2025-07-20 00:50:05 +0000",
       "minecraft:stray": "2025-07-20 18:48:40 +0000",
       "minecraft:zombie": "2025-07-19 00:03:03 +0000",
@@ -12527,6 +12532,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-22 19:56:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-22 19:48:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_shingle_slab_from_honeycomb": {
     "criteria": {
       "has_unwaxed": "2025-07-22 19:32:21 +0000"
@@ -12605,9 +12622,21 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-22 19:54:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-22 19:54:23 +0000"
     },
     "done": true
   },
@@ -12641,6 +12670,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-07-22 19:56:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 19:33:24 +0000"
@@ -12653,9 +12688,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-22 19:55:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:24 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/soot": {
+    "criteria": {
+      "has_copper_block": "2025-07-22 19:54:36 +0000"
     },
     "done": true
   },

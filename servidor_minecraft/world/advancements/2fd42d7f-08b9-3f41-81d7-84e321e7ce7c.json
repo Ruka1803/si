@@ -1774,6 +1774,7 @@
       "minecraft:snowy_slopes": "2025-07-20 05:41:02 +0000",
       "minecraft:river": "2025-07-20 05:35:31 +0000",
       "minecraft:snowy_plains": "2025-07-20 03:18:35 +0000",
+      "minecraft:grove": "2025-07-22 19:48:35 +0000",
       "minecraft:jagged_peaks": "2025-07-20 05:45:02 +0000",
       "minecraft:forest": "2025-07-20 03:41:44 +0000",
       "minecraft:deep_dark": "2025-07-22 19:36:28 +0000",
@@ -5040,9 +5041,27 @@
     },
     "done": true
   },
+  "etched:recipes/misc/album_cover": {
+    "criteria": {
+      "has_paper": "2025-07-22 19:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/stripped_birch_log_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:30:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-22 19:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-22 19:53:17 +0000"
     },
     "done": true
   },
@@ -5220,6 +5239,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-22 19:53:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-22 19:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:42 +0000"
@@ -5250,6 +5287,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-07-22 19:59:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-07-22 19:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-07-22 19:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-22 19:30:09 +0000"
@@ -5262,6 +5317,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-22 19:59:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:42 +0000"
@@ -5271,6 +5332,18 @@
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:30:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-07-22 19:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-22 19:51:45 +0000"
     },
     "done": true
   },
@@ -5307,6 +5380,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-07-22 19:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-22 19:59:33 +0000"
     },
     "done": true
   },
