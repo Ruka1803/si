@@ -4396,6 +4396,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
+      "mycelium": "2025-07-22 22:26:22 +0000",
+      "grass": "2025-07-22 22:26:22 +0000",
       "dirt": "2025-07-19 18:16:35 +0000",
       "soul_soil": "2025-07-22 00:39:59 +0000"
     },
@@ -12810,6 +12812,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/vampire/coffin_blue_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-22 22:19:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-07-22 20:24:24 +0000"
@@ -12837,6 +12845,12 @@
   "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-07-22 22:19:55 +0000"
     },
     "done": true
   },
@@ -13038,6 +13052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 22:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/willow_boat_from_polished_willow_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:47:41 +0000"
@@ -13047,6 +13067,12 @@
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2025-07-22 20:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 22:19:55 +0000"
     },
     "done": true
   },
@@ -13134,6 +13160,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 22:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/crafting_table_from_polished_willow_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:47:41 +0000"
@@ -13200,9 +13232,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-22 22:19:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/polished_willow_stairs_from_polished_willow_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-07-22 22:19:55 +0000"
     },
     "done": true
   },
@@ -13435,6 +13479,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-07-22 22:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-07-22 22:28:28 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2025-07-22 22:13:49 +0000"
@@ -13564,6 +13620,12 @@
   "create:recipes/misc/crafting/kinetics/nixie_tube": {
     "criteria": {
       "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-07-22 22:19:41 +0000"
     },
     "done": true
   },

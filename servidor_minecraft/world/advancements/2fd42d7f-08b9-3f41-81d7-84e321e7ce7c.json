@@ -1775,6 +1775,7 @@
       "minecraft:beach": "2025-07-22 20:45:44 +0000",
       "minecraft:river": "2025-07-20 05:35:31 +0000",
       "minecraft:snowy_plains": "2025-07-20 03:18:35 +0000",
+      "minecraft:dripstone_caves": "2025-07-22 22:26:57 +0000",
       "minecraft:grove": "2025-07-22 19:48:35 +0000",
       "minecraft:jagged_peaks": "2025-07-20 05:45:02 +0000",
       "minecraft:forest": "2025-07-20 03:41:44 +0000",
@@ -5908,94 +5909,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-22 22:13:12 +0000",
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
+      "underground_cabin": "2025-07-22 21:56:11 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-22 22:13:01 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
+      "cave_tablet": "2025-07-22 21:56:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_bricks": {
+  "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
-      "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
+      "requirement": "2025-07-22 21:58:44 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "apotheosis:affix/boss": {
     "criteria": {
-      "deflected_projectile": "2025-07-22 22:06:30 +0000"
+      "sword": "2025-07-22 21:59:06 +0000"
     },
     "done": true
   },
@@ -6011,12 +5945,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
-    "criteria": {
-      "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
-    },
-    "done": true
-  },
   "vampirism:hunter/kill_resurrected_vampire": {
     "criteria": {
       "main": "2025-07-22 22:05:22 +0000"
@@ -6029,17 +5957,53 @@
     },
     "done": false
   },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2025-07-22 21:56:11 +0000"
-    },
-    "done": true
-  },
   "vampirism:hunter/betrayal": {
     "criteria": {
       "faction": "2025-07-22 22:05:22 +0000"
     },
     "done": false
+  },
+  "vampirism:hunter/cure_vampire_villager": {
+    "criteria": {
+      "main": "2025-07-22 22:05:22 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/stake": {
+    "criteria": {
+      "main": "2025-07-22 22:05:22 +0000"
+    },
+    "done": false
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "main": "2025-07-22 22:05:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-22 22:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
@@ -6065,12 +6029,6 @@
     },
     "done": true
   },
-  "vampirism:hunter/cure_vampire_villager": {
-    "criteria": {
-      "main": "2025-07-22 22:05:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
@@ -6083,21 +6041,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-07-22 21:58:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-07-22 21:56:34 +0000"
     },
     "done": true
   },
@@ -6119,35 +6065,17 @@
     },
     "done": true
   },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2025-07-22 21:59:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
     },
     "done": true
   },
-  "vampirism:hunter/stake": {
-    "criteria": {
-      "main": "2025-07-22 22:05:22 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-22 22:07:24 +0000"
     },
     "done": true
-  },
-  "vampirism:hunter/kill_mother": {
-    "criteria": {
-      "main": "2025-07-22 22:05:22 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3465
 }
