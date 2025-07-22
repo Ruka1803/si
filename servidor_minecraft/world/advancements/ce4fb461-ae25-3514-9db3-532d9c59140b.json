@@ -7374,18 +7374,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-07-22 19:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2025-07-22 19:48:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/gray_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
@@ -7401,12 +7389,6 @@
   "create:recipes/building_blocks/crafting/logistics/yellow_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-07-22 19:40:41 +0000"
     },
     "done": true
   },
@@ -7428,12 +7410,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-22 19:48:13 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/blue_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
@@ -7443,12 +7419,6 @@
   "create:recipes/building_blocks/crafting/logistics/red_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 19:40:41 +0000"
     },
     "done": true
   },
@@ -7470,33 +7440,9 @@
     },
     "done": true
   },
-  "vampirism:recipes/building_blocks/dark_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 19:26:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-22 19:40:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-07-22 19:41:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/light_gray_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/building_blocks/dark_spruce_planks": {
-    "criteria": {
-      "has_log": "2025-07-22 19:26:53 +0000"
     },
     "done": true
   },
@@ -7512,33 +7458,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-07-22 19:53:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-07-22 19:48:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-07-22 19:34:34 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/logistics/green_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/recovery_compass": {
-    "criteria": {
-      "has_echo_shard": "2025-07-22 19:34:18 +0000"
     },
     "done": true
   },
@@ -7548,15 +7470,135 @@
     },
     "done": true
   },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2025-07-22 19:25:12 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 19:26:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_planks": {
+    "criteria": {
+      "has_log": "2025-07-22 19:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-07-22 19:32:39 +0000"
     },
     "done": true
   },
-  "apotheosis:spawner/capturing": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "egg": "2025-07-22 19:25:12 +0000"
+      "has_echo_shard": "2025-07-22 19:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-22 19:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-22 19:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 19:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 19:40:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-22 19:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-07-22 19:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-22 19:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-07-22 19:48:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-22 19:50:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-22 19:53:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-07-22 20:16:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-22 20:17:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:54 +0000"
     },
     "done": true
   },

@@ -12514,6 +12514,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingle_slab_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2025-07-22 19:30:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_shingle_slab_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2025-07-22 19:32:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2025-07-22 19:33:24 +0000"
@@ -12532,51 +12544,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
-    "criteria": {
-      "has_item": "2025-07-22 19:56:01 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-07-22 19:48:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/copper/waxed_exposed_copper_shingle_slab_from_honeycomb": {
-    "criteria": {
-      "has_unwaxed": "2025-07-22 19:32:21 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/enchanter": {
-    "criteria": {
-      "enchanting_table": "2025-07-22 19:43:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-07-22 19:33:24 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/crafting/copper/waxed_copper_shingle_slab_from_honeycomb": {
-    "criteria": {
-      "has_unwaxed": "2025-07-22 19:30:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-07-22 19:33:24 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-07-22 19:43:53 +0000"
     },
     "done": true
   },
@@ -12610,33 +12586,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-07-22 19:46:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:24 +0000"
     },
     "done": true
   },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-07-22 19:54:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/chest_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-07-22 19:54:23 +0000"
     },
     "done": true
   },
@@ -12670,12 +12628,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/bestiary": {
-    "criteria": {
-      "has_item": "2025-07-22 19:56:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-22 19:33:24 +0000"
@@ -12688,21 +12640,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-07-22 19:55:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:24 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/soot": {
-    "criteria": {
-      "has_copper_block": "2025-07-22 19:54:36 +0000"
     },
     "done": true
   },
@@ -12727,6 +12667,96 @@
   "minecraft:recipes/woodcutting/acacia/acacia_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-07-22 19:43:40 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-07-22 19:43:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-22 19:46:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-22 19:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-22 19:54:23 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-07-22 19:54:28 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/soot": {
+    "criteria": {
+      "has_copper_block": "2025-07-22 19:54:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-07-22 19:55:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-07-22 19:56:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-07-22 19:56:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-07-22 20:17:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-07-22 20:17:33 +0000"
     },
     "done": true
   },

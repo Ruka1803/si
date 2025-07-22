@@ -8291,18 +8291,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-07-22 19:54:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-07-22 19:54:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/add_to_candle/add_to_candle/mahogany_connected_add_to_candle": {
     "criteria": {
       "has_candle": "2025-07-22 19:43:21 +0000"
@@ -8315,21 +8303,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-07-22 19:54:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/add_to_candle/add_to_candle/acacia_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-07-22 19:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-07-22 19:54:24 +0000"
     },
     "done": true
   },
@@ -8366,12 +8342,6 @@
   "minecraft:recipes/add_to_candle/add_to_candle/spruce_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-07-22 19:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-22 19:54:24 +0000"
     },
     "done": true
   },
@@ -8420,6 +8390,48 @@
   "minecraft:recipes/add_to_candle/add_to_candle/oak_planks_add_to_candle": {
     "criteria": {
       "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-07-22 19:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-07-22 19:54:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-07-22 19:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-22 19:54:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-22 19:54:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-07-22 20:14:54 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/blank_music_disc": {
+    "criteria": {
+      "has_music_disc": "2025-07-22 20:11:09 +0000"
     },
     "done": true
   },
