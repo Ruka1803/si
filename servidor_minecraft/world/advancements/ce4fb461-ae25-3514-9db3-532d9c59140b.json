@@ -3625,7 +3625,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-07-20 05:23:06 +0000"
+      "dirt": "2025-07-20 05:23:06 +0000",
+      "earthen_clay": "2025-07-22 20:30:45 +0000"
     },
     "done": false
   },
@@ -7578,9 +7579,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-07-22 20:24:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-22 20:23:57 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-22 20:27:09 +0000"
     },
     "done": true
   },
@@ -7590,15 +7609,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-22 20:28:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-07-22 20:17:42 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-07-22 20:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-22 20:28:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-22 20:28:05 +0000"
     },
     "done": true
   },
