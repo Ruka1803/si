@@ -24,3 +24,67 @@
 [22Jul2025 00:05:01.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
 [22Jul2025 00:05:21.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4655ms or 93 ticks behind
 [22Jul2025 00:05:41.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5258ms or 105 ticks behind
+[22Jul2025 00:06:02.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5306ms or 106 ticks behind
+[22Jul2025 00:06:09.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Wokka Wokka]
+[22Jul2025 00:06:21.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4584ms or 91 ticks behind
+[22Jul2025 00:06:29.261] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:29.431] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:29.530] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:30.043] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:38.288] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:38.289] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:38.545] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:38.545] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:38.704] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:06:41.943] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5332ms or 106 ticks behind
+[22Jul2025 00:06:45.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/3724256, l='ServerLevel[world]', x=46.17, y=57.00, z=290.87] died: Piglin Civilian burned to death
+[22Jul2025 00:07:02.094] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5182ms or 103 ticks behind
+[22Jul2025 00:07:10.033] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 43.9176085) to HIGH (avg. 48.60807367)
+[22Jul2025 00:07:11.529] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:07:11.529] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:07:21.609] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 48.60807367) to VERY_HIGH (avg. 51.864583689999996)
+[22Jul2025 00:07:24.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7489ms or 149 ticks behind
+[22Jul2025 00:07:40.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Splintering II]
+[22Jul2025 00:07:47.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7695ms or 153 ticks behind
+[22Jul2025 00:08:10.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8157ms or 163 ticks behind
+[22Jul2025 00:08:32.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6954ms or 139 ticks behind
+[22Jul2025 00:08:41.418] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:41.419] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:41.566] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:41.566] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:43.794] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/3716684, l='ServerLevel[world]', x=90.37, y=52.00, z=303.69] died: Village Guard tried to swim in lava
+[22Jul2025 00:08:43.953] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/3716683, l='ServerLevel[world]', x=90.98, y=52.00, z=303.13] died: Piglin Civilian tried to swim in lava
+[22Jul2025 00:08:44.500] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:44.500] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:44.500] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:44.501] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[22Jul2025 00:08:44.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Call Me Zeus]
+[22Jul2025 00:08:54.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7710ms or 154 ticks behind
+[22Jul2025 00:09:07.231] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Piglin Civilian'/3716682, l='ServerLevel[world]', x=86.46, y=52.00, z=302.54] died: Piglin Civilian burned to death
+[22Jul2025 00:09:18.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8337ms or 166 ticks behind
+[22Jul2025 00:09:40.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7431ms or 148 ticks behind
+[22Jul2025 00:09:48.785] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 51.62508715) to HIGH (avg. 49.58797612)
+[22Jul2025 00:10:00.056] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.58797612) to VERY_HIGH (avg. 51.803210490000005)
+[22Jul2025 00:10:02.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7309ms or 146 ticks behind
+[22Jul2025 00:10:09.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Hidden in the Dark]
+[22Jul2025 00:10:22.553] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 54.389646649999996) to HIGH (avg. 49.961786700000005)
+[22Jul2025 00:10:25.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7516ms or 150 ticks behind
+[22Jul2025 00:10:33.820] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.961786700000005) to VERY_HIGH (avg. 51.68613011)
+[22Jul2025 00:10:47.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7497ms or 149 ticks behind
+[22Jul2025 00:11:12.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9768ms or 195 ticks behind
+[22Jul2025 00:11:38.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10533ms or 210 ticks behind
+[22Jul2025 00:12:02.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9581ms or 191 ticks behind
+[22Jul2025 00:12:23.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5495ms or 109 ticks behind
+[22Jul2025 00:12:41.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3218ms or 64 ticks behind
+[22Jul2025 00:13:04.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7688ms or 153 ticks behind
+[22Jul2025 00:13:26.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7578ms or 151 ticks behind
+[22Jul2025 00:13:35.056] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 16.64626506) to VERY_LOW (avg. 12.05499527)
+[22Jul2025 00:13:43.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Amateur Archaeologist]
+[22Jul2025 00:13:47.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5526ms or 110 ticks behind
+[22Jul2025 00:14:05.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3652ms or 73 ticks behind
+[22Jul2025 00:14:25.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4505ms or 90 ticks behind
+[22Jul2025 00:14:44.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3925ms or 78 ticks behind
+[22Jul2025 00:15:03.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3942ms or 78 ticks behind
+[22Jul2025 00:15:21.660] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3648ms or 72 ticks behind
+[22Jul2025 00:15:40.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3402ms or 68 ticks behind
+[22Jul2025 00:15:58.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3799ms or 75 ticks behind

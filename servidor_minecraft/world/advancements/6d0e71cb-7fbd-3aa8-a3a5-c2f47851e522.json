@@ -11382,11 +11382,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "inventorypets:pacman": {
     "criteria": {
-      "requirement": "2025-07-22 00:01:49 +0000"
+      "crafting_table": "2025-07-22 00:06:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
