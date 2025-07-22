@@ -7805,5 +7805,149 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/logistics/gray_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/orange_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/yellow_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/brown_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_waxed_copper_block": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-22 19:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 19:17:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/purple_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 19:17:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/cyan_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/blue_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/red_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_blue_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_wood_from_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 19:17:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/black_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-22 19:26:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/pink_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/light_gray_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-22 19:26:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/white_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/magenta_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-22 19:26:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/green_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/logistics/lime_postbox_from_other_postbox": {
+    "criteria": {
+      "has_postbox": "2025-07-22 19:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_copper_block_stonecutting": {
+    "criteria": {
+      "has_waxed_copper_block": "2025-07-22 19:26:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
