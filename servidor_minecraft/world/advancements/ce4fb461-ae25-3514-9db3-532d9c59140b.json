@@ -7563,9 +7563,45 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "chromaticarsenal:recipes/combat/harpy_feather": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_glass_shield": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "chromaticarsenal:arsenal_accumulated": {
+    "criteria": {
+      "has_shadow_treads": "2025-07-22 21:29:03 +0000"
+    },
+    "done": false
+  },
+  "chromaticarsenal:recipes/combat/super_ward_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
     },
     "done": true
   },
@@ -7581,9 +7617,33 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-07-22 21:25:15 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/glass_shield": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/anonymity_umbrella": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-07-22 20:16:14 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_lunar_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
     },
     "done": true
   },
@@ -7593,15 +7653,39 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/misc/chroma_shard_unpack": {
+    "criteria": {
+      "has_unpackable": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2025-07-22 20:23:57 +0000"
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/super_glow_ring": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_golden_heart": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
     },
     "done": true
   },
@@ -7629,9 +7713,63 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/ward_crystal": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
   "inventorypets:peaceful": {
     "criteria": {
       "crafting_table": "2025-07-22 20:54:06 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/shadow_treads": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-22 21:29:51 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:chroma_shard": {
+    "criteria": {
+      "has_item": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/advancing_heart": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "chromaticarsenal:recipes/combat/super_shadow_treads": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
     },
     "done": true
   },
@@ -7647,11 +7785,35 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/friendly_fire_flower": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-22 21:17:03 +0000"
     },
     "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "chromaticarsenal:recipes/misc/chroma_block": {
+    "criteria": {
+      "has_unpackable": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
@@ -7665,15 +7827,57 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/food/magic_garlic_bread": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-07-22 21:14:07 +0000"
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/duality_rings": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-07-22 20:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-22 21:29:51 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "chromaticarsenal:recipes/combat/vertical_stasis_stone": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
     },
     "done": true
   },
@@ -7683,9 +7887,45 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-22 21:30:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-22 21:29:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-07-22 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:shadow_treads": {
+    "criteria": {
+      "has_item": "2025-07-22 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/world_anchor": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/chromatic_upgrade_smithing_template": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/cursed_totem": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
     },
     "done": true
   },
@@ -7695,9 +7935,27 @@
     },
     "done": true
   },
+  "chromaticarsenal:recipes/combat/chroma_salvager": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2025-07-22 21:14:07 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/super_harpy_feather": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "chromaticarsenal:recipes/combat/gravity_stone": {
+    "criteria": {
+      "has_chroma_shard": "2025-07-22 21:28:00 +0000"
     },
     "done": true
   },

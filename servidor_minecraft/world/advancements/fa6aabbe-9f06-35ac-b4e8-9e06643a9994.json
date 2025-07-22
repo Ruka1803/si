@@ -8423,6 +8423,84 @@
     },
     "done": true
   },
+  "etched:recipes/misc/blank_music_disc": {
+    "criteria": {
+      "has_music_disc": "2025-07-22 20:11:09 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-07-22 20:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_sign": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_button": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cherry_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-22 20:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-07-22 20:36:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-07-22 20:56:40 +0000"
@@ -8432,12 +8510,6 @@
   "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-22 20:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
     },
     "done": true
   },
@@ -8465,24 +8537,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-07-22 20:36:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-22 20:56:40 +0000"
@@ -8501,21 +8555,9 @@
     },
     "done": true
   },
-  "apotheosis:affix/rare_gem": {
-    "criteria": {
-      "gem": "2025-07-22 20:14:54 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-22 20:56:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab_recycling": {
-    "criteria": {
-      "has_cut_diorite_slab": "2025-07-22 21:02:56 +0000"
     },
     "done": true
   },
@@ -8525,21 +8567,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-22 20:56:40 +0000"
-    },
-    "done": true
-  },
-  "etched:recipes/misc/blank_music_disc": {
-    "criteria": {
-      "has_music_disc": "2025-07-22 20:11:09 +0000"
     },
     "done": true
   },
@@ -8558,12 +8588,6 @@
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-22 20:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_slab": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
     },
     "done": true
   },
@@ -8591,24 +8615,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_button": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-22 20:56:40 +0000"
@@ -8620,12 +8626,6 @@
       "has_diorite": "2025-07-22 20:56:40 +0000"
     },
     "done": true
-  },
-  "alexscaves:alexscaves/hazmat_armor": {
-    "criteria": {
-      "helmet": "2025-07-22 21:05:14 +0000"
-    },
-    "done": false
   },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
@@ -8639,18 +8639,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-22 20:29:20 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/sack_of_sating": {
-    "criteria": {
-      "mussel": "2025-07-22 21:07:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-22 20:56:40 +0000"
@@ -8660,12 +8648,6 @@
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-07-22 20:56:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cherry_window": {
-    "criteria": {
-      "has_ingredient": "2025-07-22 20:29:20 +0000"
     },
     "done": true
   },
@@ -8696,6 +8678,48 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-07-22 20:56:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_recycling": {
+    "criteria": {
+      "has_cut_diorite_slab": "2025-07-22 21:02:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "helmet": "2025-07-22 21:05:14 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2025-07-22 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/mossy_stone": {
+    "criteria": {
+      "has_copper_block": "2025-07-22 21:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-22 21:30:36 +0000"
     },
     "done": true
   },

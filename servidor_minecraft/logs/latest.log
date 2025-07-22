@@ -2444,3 +2444,68 @@ java.lang.Throwable: null
 [22Jul2025 21:19:47.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8422ms or 168 ticks behind
 [22Jul2025 21:20:09.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7686ms or 153 ticks behind
 [22Jul2025 21:20:31.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7292ms or 145 ticks behind
+[22Jul2025 21:20:54.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8014ms or 160 ticks behind
+[22Jul2025 21:21:19.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9813ms or 196 ticks behind
+[22Jul2025 21:21:42.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7375ms or 147 ticks behind
+[22Jul2025 21:22:04.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7205ms or 144 ticks behind
+[22Jul2025 21:22:27.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7764ms or 155 ticks behind
+[22Jul2025 21:22:46.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4408ms or 88 ticks behind
+[22Jul2025 21:22:56.521] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.76710891723633) to HIGH (avg. 49.87723922729492)
+[22Jul2025 21:24:48.571] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.890098571777344) to MEDIUM (avg. 46.05866241455078)
+[22Jul2025 21:25:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Dragon Growth Hormone]
+[22Jul2025 21:25:18.593] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.920066833496094) to HIGH (avg. 52.83436965942383)
+[22Jul2025 21:25:33.544] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.83436965942383) to MEDIUM (avg. 48.84142303466797)
+[22Jul2025 21:25:56.272] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.531768798828125) to HIGH (avg. 50.20310974121094)
+[22Jul2025 21:26:56.605] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.31364440917969) to MEDIUM (avg. 47.87957000732422)
+[22Jul2025 21:27:15.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego_wxds has made the advancement [Eterna, Quanta, Arcana]
+[22Jul2025 21:27:22.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:22.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:22.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:22.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:22.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:22.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:23.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:23.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:23.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:23.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:23.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:24.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:24.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:24.466] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:24.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:24.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel moved wrongly!
+[22Jul2025 21:27:24.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel was kicked for floating too long!
+[22Jul2025 21:27:24.906] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel lost connection: Flying is not enabled on this server
+[22Jul2025 21:27:24.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel left the game
+[22Jul2025 21:27:40.967] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.881263732910156) to NORMAL (avg. 43.17979431152344)
+[22Jul2025 21:27:55.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: verganuel[/100.79.178.109:53621] logged in with entity id 3288869 at (1160.9810055740622, 74.19977650770646, -180.9826068053378)
+[22Jul2025 21:27:55.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel joined the game
+[22Jul2025 21:27:55.557] [Server thread/INFO] [APTweaks(Player)/]: Player verganuel ServerPlayer['verganuel'/3288869, l='ServerLevel[world]', x=1160.98, y=74.20, z=-180.98] logged in and will be protected for 90 secs.
+[22Jul2025 21:27:56.180] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.17979431152344) to HIGH (avg. 54.137237548828125)
+[22Jul2025 21:28:00.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [It All Starts With This...]
+[22Jul2025 21:28:03.468] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.137237548828125) to MEDIUM (avg. 47.56129837036133)
+[22Jul2025 21:28:33.468] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.41374969482422) to NORMAL (avg. 44.915225982666016)
+[22Jul2025 21:28:34.568] [Server thread/INFO] [APTweaks(Player)/]: Protected Player verganuel was successful validated after 39 secs.
+[22Jul2025 21:28:34.568] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player verganuel!
+[22Jul2025 21:28:45.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel was kicked for floating too long!
+[22Jul2025 21:28:45.744] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel lost connection: Flying is not enabled on this server
+[22Jul2025 21:28:45.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel left the game
+[22Jul2025 21:28:55.987] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.08150100708008) to MEDIUM (avg. 47.473304748535156)
+[22Jul2025 21:29:10.968] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.473304748535156) to LOW (avg. 39.90556335449219)
+[22Jul2025 21:29:16.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: verganuel[/100.79.178.109:53626] logged in with entity id 3377875 at (1150.7776313044924, 68.82512649412635, -194.83029867141977)
+[22Jul2025 21:29:16.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel joined the game
+[22Jul2025 21:29:16.261] [Server thread/INFO] [APTweaks(Player)/]: Player verganuel ServerPlayer['verganuel'/3377875, l='ServerLevel[world]', x=1150.78, y=68.83, z=-194.83] logged in and will be protected for 90 secs.
+[22Jul2025 21:29:18.735] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.90556335449219) to HIGH (avg. 49.058773040771484)
+[22Jul2025 21:29:25.968] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.058773040771484) to MEDIUM (avg. 46.63422393798828)
+[22Jul2025 21:29:40.968] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.63422393798828) to NORMAL (avg. 44.08082580566406)
+[22Jul2025 21:29:52.468] [Server thread/INFO] [APTweaks(Player)/]: Protected Player verganuel was successful validated after 36 secs.
+[22Jul2025 21:29:52.468] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player verganuel!
+[22Jul2025 21:29:55.968] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.08082580566406) to MEDIUM (avg. 46.78558349609375)
+[22Jul2025 21:30:18.468] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.768863677978516) to NORMAL (avg. 44.63291931152344)
+[22Jul2025 21:30:33.473] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.63291931152344) to MEDIUM (avg. 48.525325775146484)
+[22Jul2025 21:30:48.715] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.28849411010742) to HIGH (avg. 49.065818786621094)
+[22Jul2025 21:30:56.139] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.065818786621094) to MEDIUM (avg. 48.91679000854492)
+[22Jul2025 21:31:03.625] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.91679000854492) to HIGH (avg. 52.717403411865234)
+[22Jul2025 21:31:09.517] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[22Jul2025 21:31:09.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[22Jul2025 21:31:18.467] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.717403411865234) to LOW (avg. 39.977745056152344)

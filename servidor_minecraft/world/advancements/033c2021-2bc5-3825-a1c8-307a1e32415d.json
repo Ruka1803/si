@@ -12832,6 +12832,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_limestone_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_limestone_brick_slab": "2025-07-22 21:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
@@ -13024,6 +13030,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-22 21:29:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_stairs": {
     "criteria": {
       "has_cut_ochrum": "2025-07-22 20:48:35 +0000"
@@ -13060,9 +13072,21 @@
     },
     "done": true
   },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-07-22 21:21:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-07-22 21:29:10 +0000"
     },
     "done": true
   },
@@ -13087,6 +13111,12 @@
   "create:recipes/misc/crafting/kinetics/brass_door": {
     "criteria": {
       "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-07-22 21:29:10 +0000"
     },
     "done": true
   },
