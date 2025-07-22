@@ -8513,6 +8513,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_diorite_slab_recycling": {
+    "criteria": {
+      "has_cut_diorite_slab": "2025-07-22 21:02:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-22 20:56:40 +0000"
@@ -8614,6 +8620,12 @@
       "has_diorite": "2025-07-22 20:56:40 +0000"
     },
     "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "helmet": "2025-07-22 21:05:14 +0000"
+    },
+    "done": false
   },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
