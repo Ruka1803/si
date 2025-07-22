@@ -12730,9 +12730,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_bars_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-07-22 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall": {
+    "criteria": {
+      "has_cut_ochrum": "2025-07-22 20:48:35 +0000"
     },
     "done": true
   },
@@ -12778,9 +12790,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-22 20:49:27 +0000"
     },
     "done": true
   },
@@ -12793,6 +12817,12 @@
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2025-07-22 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2025-07-22 20:57:13 +0000"
     },
     "done": true
   },
@@ -12814,6 +12844,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-07-22 20:52:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
@@ -12832,6 +12868,24 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/dark_oak_bark": {
+    "criteria": {
+      "has_copper_block": "2025-07-22 20:45:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2025-07-22 20:40:43 +0000"
@@ -12841,6 +12895,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
     "criteria": {
       "has_dragonscales_white": "2025-07-22 20:17:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2025-07-22 20:53:26 +0000"
     },
     "done": true
   },
@@ -12868,15 +12928,21 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "create:deployer": {
     "criteria": {
-      "requirement": "2025-07-22 20:43:35 +0000"
+      "0": "2025-07-22 20:54:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/tools/dragonsteel_ice_sword": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-07-22 20:49:21 +0000"
     },
     "done": true
   },
@@ -12892,15 +12958,51 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_slab": {
+    "criteria": {
+      "has_cut_ochrum": "2025-07-22 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-07-22 20:52:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
   "inventorypets:illum_from_illum": {
     "criteria": {
       "example": "2025-07-22 20:29:58 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_stairs": {
+    "criteria": {
+      "has_cut_ochrum": "2025-07-22 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-07-22 20:45:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-07-22 20:17:33 +0000"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-07-22 20:52:40 +0000"
     },
     "done": true
   },
@@ -12928,15 +13030,39 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-07-22 20:36:34 +0000"
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-07-22 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-07-22 20:52:33 +0000"
     },
     "done": true
   },
@@ -12949,6 +13075,12 @@
   "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
     "criteria": {
       "has_dragonsteel_ice_ingot": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
     },
     "done": true
   },
@@ -12970,9 +13102,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-07-22 20:48:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_polished_rose_quartz": "2025-07-22 20:52:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
     },
     "done": true
   },
@@ -12994,9 +13144,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2025-07-22 20:53:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-07-22 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-07-22 20:57:44 +0000"
     },
     "done": true
   },

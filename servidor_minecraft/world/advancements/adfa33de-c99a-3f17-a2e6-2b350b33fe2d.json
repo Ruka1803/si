@@ -3173,9 +3173,10 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2025-07-22 20:44:05 +0000",
       "main": "2025-07-19 01:03:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/bat": {
     "criteria": {

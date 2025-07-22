@@ -1788,6 +1788,7 @@
       "minecraft:snowy_taiga": "2025-07-21 20:05:16 +0000",
       "minecraft:dripstone_caves": "2025-07-22 19:32:28 +0000",
       "minecraft:grove": "2025-07-20 05:37:24 +0000",
+      "minecraft:jagged_peaks": "2025-07-22 20:43:43 +0000",
       "minecraft:cold_ocean": "2025-07-21 03:24:07 +0000",
       "minecraft:forest": "2025-07-20 04:56:14 +0000",
       "minecraft:deep_cold_ocean": "2025-07-21 03:44:25 +0000",
@@ -7615,6 +7616,12 @@
     },
     "done": true
   },
+  "inventorypets:peaceful": {
+    "criteria": {
+      "crafting_table": "2025-07-22 20:54:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-07-22 20:17:42 +0000"
@@ -7639,9 +7646,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-07-22 20:51:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-07-22 20:28:05 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:mooshroom": {
+    "criteria": {
+      "crafting_table": "2025-07-22 20:54:06 +0000"
     },
     "done": true
   },
