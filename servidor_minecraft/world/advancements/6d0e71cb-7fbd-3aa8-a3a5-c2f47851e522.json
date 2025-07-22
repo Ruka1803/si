@@ -11443,9 +11443,21 @@
     },
     "done": true
   },
+  "inventorypets:irongolem": {
+    "criteria": {
+      "crafting_table": "2025-07-22 00:52:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-07-22 00:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-07-22 00:48:00 +0000"
     },
     "done": true
   },
@@ -11500,6 +11512,12 @@
   "create:recipes/building_blocks/cut_limestone_bricks_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-22 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-07-22 00:48:00 +0000"
     },
     "done": true
   },
@@ -11560,6 +11578,12 @@
   "create:recipes/building_blocks/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-22 00:34:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-07-22 00:48:00 +0000"
     },
     "done": true
   },
