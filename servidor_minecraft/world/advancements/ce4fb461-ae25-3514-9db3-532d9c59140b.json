@@ -1783,6 +1783,7 @@
       "minecraft:mangrove_swamp": "2025-07-21 21:20:25 +0000",
       "minecraft:sparse_jungle": "2025-07-20 21:36:31 +0000",
       "minecraft:river": "2025-07-20 05:00:08 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-22 21:08:48 +0000",
       "minecraft:stony_shore": "2025-07-20 21:46:34 +0000",
       "minecraft:snowy_plains": "2025-07-21 03:25:32 +0000",
       "minecraft:snowy_taiga": "2025-07-21 20:05:16 +0000",
@@ -7574,6 +7575,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-07-22 21:14:07 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-07-22 20:16:14 +0000"
@@ -7610,6 +7617,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-07-22 21:14:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-07-22 20:28:05 +0000"
@@ -7634,6 +7647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-22 21:17:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-22 20:28:05 +0000"
@@ -7643,6 +7662,12 @@
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-07-22 20:17:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-07-22 21:14:07 +0000"
     },
     "done": true
   },
@@ -7658,9 +7683,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-07-22 21:14:07 +0000"
+    },
+    "done": true
+  },
   "inventorypets:mooshroom": {
     "criteria": {
       "crafting_table": "2025-07-22 20:54:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-22 21:14:07 +0000"
     },
     "done": true
   },

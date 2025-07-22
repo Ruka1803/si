@@ -12760,9 +12760,21 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/polished_dark_stone_stairs": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/package_filter": {
     "criteria": {
       "has_item": "2025-07-22 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
     },
     "done": true
   },
@@ -12790,6 +12802,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_brick_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/mechanical_arm": {
     "criteria": {
       "has_item": "2025-07-22 20:46:00 +0000"
@@ -12811,6 +12829,12 @@
   "create:recipes/misc/crafting/kinetics/placard": {
     "criteria": {
       "has_item": "2025-07-22 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_bricks_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
     },
     "done": true
   },
@@ -12853,6 +12877,12 @@
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/polished_dark_stone_slab": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
     },
     "done": true
   },
@@ -12904,6 +12934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_stairs_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_chestplate": {
     "criteria": {
       "has_item": "2025-07-22 20:17:33 +0000"
@@ -12927,12 +12963,6 @@
       "has_item": "2025-07-22 20:40:43 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-22 21:07:17 +0000"
-    },
-    "done": false
   },
   "create:deployer": {
     "criteria": {
@@ -12982,6 +13012,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_stone_tiles_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
+    },
+    "done": true
+  },
   "inventorypets:illum_from_illum": {
     "criteria": {
       "example": "2025-07-22 20:29:58 +0000"
@@ -12991,6 +13027,12 @@
   "create:recipes/building_blocks/cut_ochrum_stairs": {
     "criteria": {
       "has_cut_ochrum": "2025-07-22 20:48:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_dark_stone_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
     },
     "done": true
   },
@@ -13015,6 +13057,12 @@
   "create:recipes/misc/crafting/kinetics/brass_hand": {
     "criteria": {
       "has_item": "2025-07-22 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_stone_brick_slab_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
     },
     "done": true
   },
@@ -13102,6 +13150,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_dark_stone_wall_from_polished_dark_stone_stonecutting": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/flywheel": {
     "criteria": {
       "has_item": "2025-07-22 20:40:43 +0000"
@@ -13177,6 +13231,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/polished_dark_stone_wall": {
+    "criteria": {
+      "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
     },
     "done": true
   },
