@@ -12776,6 +12776,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/green_table_cloth_clear": {
+    "criteria": {
+      "has_green_table_cloth": "2025-07-22 22:39:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/willow/polished_willow_pillar_from_polished_willow_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:47:41 +0000"
@@ -12827,6 +12833,12 @@
   "create:recipes/misc/crafting/appliances/chain_from_zinc": {
     "criteria": {
       "has_item": "2025-07-22 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
+    "criteria": {
+      "has_item": "2025-07-22 22:35:24 +0000"
     },
     "done": true
   },
@@ -13190,6 +13202,12 @@
     },
     "done": true
   },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-07-22 22:30:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-07-22 20:52:33 +0000"
@@ -13422,6 +13440,12 @@
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-07-22 20:36:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_grinder": {
+    "criteria": {
+      "has_hopper": "2025-07-22 22:37:09 +0000"
     },
     "done": true
   },

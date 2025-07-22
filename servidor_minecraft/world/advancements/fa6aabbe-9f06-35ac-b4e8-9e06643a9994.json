@@ -9011,6 +9011,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "yellow": "2025-07-22 22:40:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/willow/polished_willow_pressure_plate_from_polished_willow_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:43:59 +0000"
