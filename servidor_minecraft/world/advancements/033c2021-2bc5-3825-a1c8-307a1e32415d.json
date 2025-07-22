@@ -4390,7 +4390,8 @@
   },
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
-      "dirt": "2025-07-19 18:16:35 +0000"
+      "dirt": "2025-07-19 18:16:35 +0000",
+      "soul_soil": "2025-07-22 00:39:59 +0000"
     },
     "done": false
   },
