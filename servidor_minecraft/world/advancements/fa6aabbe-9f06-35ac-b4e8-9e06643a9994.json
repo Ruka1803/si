@@ -8705,6 +8705,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_diamond": "2025-07-22 21:34:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-07-22 21:30:36 +0000"
@@ -8717,9 +8723,33 @@
     },
     "done": true
   },
+  "apotheosis:spawner/modifier": {
+    "criteria": {
+      "modifier": "2025-07-22 21:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-07-22 21:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-22 21:34:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-22 21:36:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/maxdelay": {
+    "criteria": {
+      "modifier": "2025-07-22 21:35:54 +0000"
     },
     "done": true
   },
