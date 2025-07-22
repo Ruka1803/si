@@ -2824,3 +2824,31 @@ java.lang.Throwable: null
 [22Jul2025 22:42:42.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.2173957824707) to VERY_HIGH (avg. 55.140316009521484)
 [22Jul2025 22:42:56.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3056ms or 61 ticks behind
 [22Jul2025 22:43:17.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5182ms or 103 ticks behind
+[22Jul2025 22:43:39.000] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Diego_wxds was successful validated after 61 secs.
+[22Jul2025 22:43:39.001] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Diego_wxds!
+[22Jul2025 22:43:39.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7384ms or 147 ticks behind
+[22Jul2025 22:44:00.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6017ms or 120 ticks behind
+[22Jul2025 22:44:20.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4904ms or 98 ticks behind
+[22Jul2025 22:44:39.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[22Jul2025 22:44:56.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2345ms or 46 ticks behind
+[22Jul2025 22:45:13.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2474ms or 49 ticks behind
+[22Jul2025 22:45:26.262] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.1743278503418) to HIGH (avg. 52.53312301635742)
+[22Jul2025 22:45:33.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[22Jul2025 22:45:52.798] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: verganuel lost connection: Disconnected
+[22Jul2025 22:45:52.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel left the game
+[22Jul2025 22:46:05.620] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.63651657104492) to NORMAL (avg. 43.796146392822266)
+[22Jul2025 22:46:49.367] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.75234603881836) to MEDIUM (avg. 46.15333938598633)
+[22Jul2025 22:47:19.368] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.324363708496094) to NORMAL (avg. 44.91694641113281)
+[22Jul2025 22:48:04.377] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.489200592041016) to MEDIUM (avg. 48.37205123901367)
+[22Jul2025 22:48:19.367] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.37205123901367) to NORMAL (avg. 43.41948318481445)
+[22Jul2025 22:49:56.898] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.01959991455078) to MEDIUM (avg. 48.49298095703125)
+[22Jul2025 22:50:19.368] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.44956970214844) to NORMAL (avg. 44.222713470458984)
+[22Jul2025 22:50:34.367] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.222713470458984) to LOW (avg. 32.417205810546875)
+[22Jul2025 22:50:56.974] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.49323272705078) to NORMAL (avg. 43.66006851196289)
+[22Jul2025 22:51:12.115] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.360816955566406) to MEDIUM (avg. 46.153202056884766)
+[22Jul2025 22:51:19.368] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.153202056884766) to NORMAL (avg. 44.80165100097656)
+[22Jul2025 22:52:26.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.0604362487793) to MEDIUM (avg. 46.974365234375)
+[22Jul2025 22:52:34.368] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.974365234375) to NORMAL (avg. 44.53215026855469)
+[22Jul2025 22:52:41.867] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.53215026855469) to MEDIUM (avg. 47.39764404296875)
+[22Jul2025 22:53:04.369] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.57028579711914) to NORMAL (avg. 45.47755432128906)
+[22Jul2025 22:53:41.868] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.481712341308594) to MEDIUM (avg. 46.17658233642578)
