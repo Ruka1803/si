@@ -7392,6 +7392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-22 19:40:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/brown_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
@@ -7422,6 +7428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 19:40:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/light_blue_postbox_from_other_postbox": {
     "criteria": {
       "has_postbox": "2025-07-22 19:17:34 +0000"
@@ -7443,6 +7455,18 @@
   "vampirism:recipes/building_blocks/dark_spruce_wood": {
     "criteria": {
       "has_log": "2025-07-22 19:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_stripped_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 19:40:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-22 19:41:18 +0000"
     },
     "done": true
   },

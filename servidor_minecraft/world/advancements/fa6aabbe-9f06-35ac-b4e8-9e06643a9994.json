@@ -8249,5 +8249,155 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-22 19:48:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/willow_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/witch_hazel_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_willow_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/birch_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/mahogany_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/acacia_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/witch_hazel_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/mahogany_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_layered_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/jungle_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/spruce_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/willow_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_pillar_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_connected_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/dark_oak_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/polished_witch_hazel_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/add_to_candle/add_to_candle/oak_planks_add_to_candle": {
+    "criteria": {
+      "has_candle": "2025-07-22 19:43:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

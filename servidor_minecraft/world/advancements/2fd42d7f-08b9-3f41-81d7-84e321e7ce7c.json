@@ -1776,6 +1776,7 @@
       "minecraft:snowy_plains": "2025-07-20 03:18:35 +0000",
       "minecraft:jagged_peaks": "2025-07-20 05:45:02 +0000",
       "minecraft:forest": "2025-07-20 03:41:44 +0000",
+      "minecraft:deep_dark": "2025-07-22 19:36:28 +0000",
       "minecraft:meadow": "2025-07-20 03:13:42 +0000",
       "minecraft:plains": "2025-07-20 03:33:36 +0000"
     },
@@ -5045,6 +5046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-22 19:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-07-22 19:33:42 +0000"
@@ -5123,9 +5130,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-22 19:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-22 19:37:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-22 19:34:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-22 19:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-22 19:37:36 +0000"
     },
     "done": true
   },
@@ -5162,6 +5193,12 @@
   "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2025-07-22 19:47:53 +0000"
     },
     "done": true
   },
@@ -5219,6 +5256,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2025-07-22 19:47:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:33:42 +0000"
@@ -5228,6 +5271,24 @@
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_log_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 19:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-22 19:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-07-22 19:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-07-22 19:39:29 +0000"
     },
     "done": true
   },
@@ -5243,9 +5304,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-22 19:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-22 19:33:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-22 19:37:58 +0000"
     },
     "done": true
   },
