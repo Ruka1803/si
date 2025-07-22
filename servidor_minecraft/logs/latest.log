@@ -3028,3 +3028,39 @@ java.lang.Throwable: null
 [22Jul2025 23:44:49.603] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.42628479003906) to NORMAL (avg. 45.50883102416992)
 [22Jul2025 23:44:58.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego_wxds lost connection: Disconnected
 [22Jul2025 23:44:58.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego_wxds left the game
+[22Jul2025 23:45:04.376] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.50883102416992) to MEDIUM (avg. 46.636192321777344)
+[22Jul2025 23:45:19.317] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.636192321777344) to LOW (avg. 35.98491287231445)
+[22Jul2025 23:45:36.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[22Jul2025 23:45:36.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[22Jul2025 23:45:37.355] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego_wxds[/100.91.199.61:56389] logged in with entity id 8764484 at (257.4750433687729, -51.0, -268.34897623163573)
+[22Jul2025 23:45:37.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego_wxds joined the game
+[22Jul2025 23:45:37.406] [Server thread/INFO] [APTweaks(Player)/]: Player Diego_wxds ServerPlayer['Diego_wxds'/8764484, l='ServerLevel[world]', x=257.48, y=-51.00, z=-268.35] logged in and will be protected for 90 secs.
+[22Jul2025 23:45:41.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.71967315673828) to NORMAL (avg. 41.47093963623047)
+[22Jul2025 23:46:07.218] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Diego_wxds was successful validated after 29 secs.
+[22Jul2025 23:46:07.218] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Diego_wxds!
+[22Jul2025 23:46:19.317] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.45213317871094) to LOW (avg. 35.572662353515625)
+[22Jul2025 23:46:41.817] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.03075408935547) to NORMAL (avg. 40.02836608886719)
+[22Jul2025 23:46:49.653] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego_wxds lost connection: Timed out
+[22Jul2025 23:46:49.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego_wxds left the game
+[22Jul2025 23:46:56.817] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.02836608886719) to LOW (avg. 23.19217872619629)
+[22Jul2025 23:48:06.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Professor Usonprim the Manly'/8803639, l='ServerLevel[world]', x=1627.99, y=71.00, z=-57.02] died: Professor Usonprim the Manly was slain by MilerinotFound
+[22Jul2025 23:49:31.141] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/8825624, l='ServerLevel[world]', x=1924.50, y=-41.00, z=-157.50]
+[22Jul2025 23:49:40.138] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Diego_wxds[/100.91.199.61:56642] logged in with entity id 8827648 at (252.3890123291046, -50.0, -267.4844987861046)
+[22Jul2025 23:49:40.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego_wxds joined the game
+[22Jul2025 23:49:40.214] [Server thread/INFO] [APTweaks(Player)/]: Player Diego_wxds ServerPlayer['Diego_wxds'/8827648, l='ServerLevel[world]', x=252.39, y=-50.00, z=-267.48] logged in and will be protected for 90 secs.
+[22Jul2025 23:49:42.438] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.941272735595703) to MEDIUM (avg. 46.791500091552734)
+[22Jul2025 23:49:49.774] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.791500091552734) to NORMAL (avg. 43.465721130371094)
+[22Jul2025 23:50:11.214] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Diego_wxds was successful validated after 31 secs.
+[22Jul2025 23:50:11.215] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Diego_wxds!
+[22Jul2025 23:50:34.318] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.39306640625) to LOW (avg. 39.65152359008789)
+[22Jul2025 23:50:56.817] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.045440673828125) to NORMAL (avg. 40.454681396484375)
+[22Jul2025 23:51:04.317] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.454681396484375) to LOW (avg. 39.48228073120117)
+[22Jul2025 23:51:19.318] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.48228073120117) to NORMAL (avg. 42.47025680541992)
+[22Jul2025 23:51:49.318] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.44029235839844) to LOW (avg. 39.42901611328125)
+[22Jul2025 23:52:04.318] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.42901611328125) to NORMAL (avg. 40.011993408203125)
+[22Jul2025 23:52:49.317] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.296112060546875) to LOW (avg. 39.931095123291016)
+[22Jul2025 23:52:56.817] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.931095123291016) to NORMAL (avg. 40.41576385498047)
+[22Jul2025 23:53:34.317] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.63810729980469) to MEDIUM (avg. 46.65013885498047)
+[22Jul2025 23:53:54.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Diego_wxds lost connection: Disconnected
+[22Jul2025 23:53:54.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego_wxds left the game
+[22Jul2025 23:53:56.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.405517578125) to LOW (avg. 28.954532623291016)

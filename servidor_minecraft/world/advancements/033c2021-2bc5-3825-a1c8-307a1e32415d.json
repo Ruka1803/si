@@ -12842,6 +12842,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-22 23:48:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_ladder_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-07-22 20:40:43 +0000"
@@ -13172,6 +13178,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2025-07-22 23:48:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2025-07-22 20:53:26 +0000"
@@ -13310,6 +13322,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2025-07-22 23:48:38 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2025-07-22 23:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_blue_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-22 22:19:55 +0000"
@@ -13355,6 +13379,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2025-07-22 23:48:38 +0000"
     },
     "done": true
   },
@@ -13776,6 +13806,12 @@
   "minecraft:recipes/add_to_candle/add_to_candle/polished_mahogany_pillar_add_to_candle": {
     "criteria": {
       "has_candle": "2025-07-22 22:48:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2025-07-22 23:48:38 +0000"
     },
     "done": true
   },
