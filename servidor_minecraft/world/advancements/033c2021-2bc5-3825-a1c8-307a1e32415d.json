@@ -9553,9 +9553,10 @@
   },
   "vampirism:hunter/betrayal": {
     "criteria": {
-      "faction": "2025-07-20 20:08:59 +0000"
+      "faction": "2025-07-20 20:08:59 +0000",
+      "kill": "2025-07-22 22:13:49 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:hunter/cure_vampire_villager": {
     "criteria": {
@@ -13344,6 +13345,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2025-07-22 22:13:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/brass_scaffolding_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-07-22 20:40:43 +0000"
@@ -13425,6 +13432,12 @@
   "create:recipes/misc/crafting/logistics/redstone_contact": {
     "criteria": {
       "has_item": "2025-07-22 20:46:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2025-07-22 22:13:49 +0000"
     },
     "done": true
   },
@@ -13581,6 +13594,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2025-07-22 22:13:49 +0000"
     },
     "done": true
   },
