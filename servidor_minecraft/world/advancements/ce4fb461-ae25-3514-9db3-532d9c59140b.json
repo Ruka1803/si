@@ -8001,5 +8001,11 @@
     },
     "done": true
   },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-07-22 21:58:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

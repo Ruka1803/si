@@ -12911,6 +12911,12 @@
     },
     "done": true
   },
+  "inventorypets:loot": {
+    "criteria": {
+      "crafting_table": "2025-07-22 21:52:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
       "has_item": "2025-07-22 20:17:33 +0000"
@@ -12956,6 +12962,12 @@
   "create:recipes/misc/crafting/logistics/brass_funnel": {
     "criteria": {
       "has_item": "2025-07-22 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:50:32 +0000"
     },
     "done": true
   },
@@ -13103,6 +13115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/stripped_birch_wood_from_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 21:50:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_slab": {
     "criteria": {
       "has_cut_ochrum": "2025-07-22 20:48:35 +0000"
@@ -13202,6 +13220,13 @@
   "create:brass_casing": {
     "criteria": {
       "0": "2025-07-22 20:45:58 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-07-22 21:52:22 +0000",
+      "1": "2025-07-22 21:52:25 +0000"
     },
     "done": true
   },

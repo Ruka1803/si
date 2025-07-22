@@ -7830,5 +7830,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blood_infused_iron_ingot": {
+    "criteria": {
+      "has_blood_infused_iron_block": "2025-07-22 21:59:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
