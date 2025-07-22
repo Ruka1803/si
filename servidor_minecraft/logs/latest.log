@@ -2649,3 +2649,41 @@ java.lang.Throwable: null
 [22Jul2025 22:01:27.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3337ms or 66 ticks behind
 [22Jul2025 22:01:45.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
 [22Jul2025 22:02:04.042] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3474ms or 69 ticks behind
+[22Jul2025 22:02:23.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4693ms or 93 ticks behind
+[22Jul2025 22:02:42.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3393ms or 67 ticks behind
+[22Jul2025 22:03:00.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3593ms or 71 ticks behind
+[22Jul2025 22:03:19.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
+[22Jul2025 22:03:37.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3418ms or 68 ticks behind
+[22Jul2025 22:03:56.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3682ms or 73 ticks behind
+[22Jul2025 22:04:14.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3787ms or 75 ticks behind
+[22Jul2025 22:04:33.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
+[22Jul2025 22:04:51.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3308ms or 66 ticks behind
+[22Jul2025 22:05:09.543] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3176ms or 63 ticks behind
+[22Jul2025 22:05:27.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2928ms or 58 ticks behind
+[22Jul2025 22:05:45.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3057ms or 61 ticks behind
+[22Jul2025 22:06:04.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
+[22Jul2025 22:06:22.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3509ms or 70 ticks behind
+[22Jul2025 22:06:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Diego_wxds has made the advancement [Not Today, Thank You]
+[22Jul2025 22:06:41.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[22Jul2025 22:07:00.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4102ms or 82 ticks behind
+[22Jul2025 22:07:10.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX lost connection: Timed out
+[22Jul2025 22:07:10.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX left the game
+[22Jul2025 22:07:12.110] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 63.288177490234375) to HIGH (avg. 52.13972854614258)
+[22Jul2025 22:07:26.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22Jul2025 22:07:58.846] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.4262809753418) to VERY_HIGH (avg. 56.57813262939453)
+[22Jul2025 22:08:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [The Basics]
+[22Jul2025 22:08:03.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: verganuel has made the advancement [Enchanter]
+[22Jul2025 22:08:14.315] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.57813262939453) to HIGH (avg. 49.75292205810547)
+[22Jul2025 22:08:19.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[22Jul2025 22:09:06.621] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Jul2025 22:09:31.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.10481262207031) to MEDIUM (avg. 48.67966842651367)
+[22Jul2025 22:09:54.540] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.32929611206055) to HIGH (avg. 50.28652572631836)
+[22Jul2025 22:10:09.362] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.28652572631836) to MEDIUM (avg. 48.70557403564453)
+[22Jul2025 22:10:24.005] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.70557403564453) to HIGH (avg. 49.41261291503906)
+[22Jul2025 22:11:01.655] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.76567840576172) to MEDIUM (avg. 48.78983688354492)
+[22Jul2025 22:11:16.702] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.78983688354492) to HIGH (avg. 51.48369216918945)
+[22Jul2025 22:11:24.574] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.48369216918945) to MEDIUM (avg. 48.93512725830078)
+[22Jul2025 22:11:39.849] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.93512725830078) to HIGH (avg. 51.25776672363281)
+[22Jul2025 22:11:55.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[22Jul2025 22:12:18.924] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.00611877441406) to MEDIUM (avg. 46.74705123901367)
+[22Jul2025 22:12:26.397] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.74705123901367) to HIGH (avg. 49.43743133544922)

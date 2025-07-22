@@ -12851,6 +12851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_limestone_brick_slab_recycling": {
     "criteria": {
       "has_cut_limestone_brick_slab": "2025-07-22 21:21:56 +0000"
@@ -12863,9 +12869,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2025-07-22 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
     },
     "done": true
   },
@@ -12932,6 +12950,12 @@
   "minecraft:recipes/woodcutting/willow/polished_willow_boat_from_polished_willow_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-22 21:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
     },
     "done": true
   },
@@ -13085,6 +13109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-07-22 20:36:34 +0000"
@@ -13130,6 +13160,12 @@
   "create:recipes/misc/crafting/materials/electron_tube": {
     "criteria": {
       "has_item": "2025-07-22 20:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
     },
     "done": true
   },
@@ -13398,6 +13434,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_stripped_birch_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-22 22:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_ice_axe": {
     "criteria": {
       "has_item": "2025-07-22 20:24:24 +0000"
@@ -13428,6 +13488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-07-22 20:52:40 +0000"
@@ -13437,6 +13503,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_slab_recycling": {
     "criteria": {
       "has_polished_cut_diorite_slab": "2025-07-22 21:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
     },
     "done": true
   },
@@ -13455,6 +13527,12 @@
   "create:recipes/decorations/brass_table_cloth_from_ingots_brass_stonecutting": {
     "criteria": {
       "has_ingots_brass": "2025-07-22 20:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
     },
     "done": true
   },
@@ -13509,6 +13587,18 @@
   "vampirism:recipes/decorations/polished_dark_stone_wall": {
     "criteria": {
       "has_polished_dark_stone": "2025-07-22 21:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-07-22 22:03:53 +0000"
     },
     "done": true
   },
