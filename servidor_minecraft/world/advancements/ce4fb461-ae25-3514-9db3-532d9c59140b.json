@@ -2044,6 +2044,7 @@
       "minecraft:spider": "2025-07-20 19:46:54 +0000",
       "minecraft:piglin_brute": "2025-07-21 22:44:10 +0000",
       "minecraft:creeper": "2025-07-23 00:33:19 +0000",
+      "minecraft:evoker": "2025-07-23 06:08:12 +0000",
       "minecraft:witch": "2025-07-20 05:00:20 +0000",
       "minecraft:wither_skeleton": "2025-07-23 05:24:19 +0000",
       "minecraft:husk": "2025-07-21 20:49:02 +0000",
@@ -9397,15 +9398,94 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-23 06:08:17 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/sanctum/root": {
     "criteria": {
       "requirement": "2025-07-23 05:58:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-23 06:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-23 06:09:36 +0000"
+    },
+    "done": true
+  },
   "incendium:quartz_flats/ghast_buster": {
     "criteria": {
       "kill_ghast": "2025-07-23 05:56:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/polished_blackstone_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 06:05:05 +0000",
+      "has_the_recipe": "2025-07-23 06:05:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-23 06:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-23 06:09:36 +0000"
     },
     "done": true
   },
@@ -9418,6 +9498,12 @@
   "incendium:quartz_flats/root": {
     "criteria": {
       "requirement": "2025-07-23 05:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-23 06:05:05 +0000"
     },
     "done": true
   },
