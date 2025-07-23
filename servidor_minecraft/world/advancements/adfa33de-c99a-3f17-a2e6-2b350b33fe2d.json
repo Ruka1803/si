@@ -8149,6 +8149,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "junk": "2025-07-23 06:34:34 +0000"
+    },
+    "done": false
+  },
   "inventorypets:magmacube": {
     "criteria": {
       "crafting_table": "2025-07-23 03:42:36 +0000"
@@ -8290,6 +8296,12 @@
   "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/nuclear_fusion": {
+    "criteria": {
+      "incendium:junk": "2025-07-23 06:34:34 +0000"
     },
     "done": true
   },
