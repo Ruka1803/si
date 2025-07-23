@@ -2103,3 +2103,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 02:54:09.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Ice Bucket Challenge]
 [23Jul2025 03:01:14.870] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [23Jul2025 03:01:14.870] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[23Jul2025 03:03:08.130] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/876303, l='ServerLevel[world]', x=1172.70, y=69.00, z=-122.70] died: Undead Knight was slain by Ernos
