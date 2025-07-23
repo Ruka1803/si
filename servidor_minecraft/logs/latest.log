@@ -2067,3 +2067,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 02:08:37.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.446338653564453) to VERY_LOW (avg. 19.594953536987305)
 [23Jul2025 02:08:45.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.594953536987305) to LOW (avg. 22.216815948486328)
 [23Jul2025 02:11:17.123] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/130397, l='ServerLevel[world]', x=1092.65, y=69.25, z=-222.56] died: Honeyed Archer suffocated in a wall
+[23Jul2025 02:14:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.567968368530273) to VERY_LOW (avg. 18.472291946411133)
+[23Jul2025 02:14:30.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.472291946411133) to LOW (avg. 22.661176681518555)
+[23Jul2025 02:17:14.975] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[23Jul2025 02:17:14.975] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[23Jul2025 02:17:14.979] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify skeleton attack target task for translation{key='entity.irons_spellbooks.summoned_skeleton', args=[]}
+[23Jul2025 02:19:00.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.94367027282715) to VERY_LOW (avg. 19.12194061279297)
+[23Jul2025 02:19:15.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.12194061279297) to LOW (avg. 22.537487030029297)
+[23Jul2025 02:19:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.537487030029297) to VERY_LOW (avg. 19.494020462036133)
+[23Jul2025 02:19:45.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.584938049316406) to LOW (avg. 20.635101318359375)
+[23Jul2025 02:19:52.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.635101318359375) to VERY_LOW (avg. 19.396678924560547)
+[23Jul2025 02:20:00.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.396678924560547) to LOW (avg. 22.336435317993164)
+[23Jul2025 02:20:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.868675231933594) to VERY_LOW (avg. 19.65990447998047)
+[23Jul2025 02:20:37.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.65990447998047) to LOW (avg. 20.358112335205078)
