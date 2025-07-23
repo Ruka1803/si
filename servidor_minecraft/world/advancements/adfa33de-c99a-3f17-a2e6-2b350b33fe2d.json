@@ -3221,6 +3221,7 @@
       "minecraft:evoker": "2025-07-21 03:05:22 +0000",
       "minecraft:phantom": "2025-07-19 22:26:42 +0000",
       "minecraft:witch": "2025-07-19 01:46:47 +0000",
+      "minecraft:wither_skeleton": "2025-07-23 05:23:04 +0000",
       "minecraft:husk": "2025-07-21 20:46:27 +0000",
       "minecraft:cave_spider": "2025-07-19 01:04:53 +0000",
       "minecraft:enderman": "2025-07-23 04:52:39 +0000",
@@ -6256,7 +6257,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-21 20:03:38 +0000"
+      "minecraft:nether_wastes": "2025-07-21 20:03:38 +0000",
+      "minecraft:warped_forest": "2025-07-23 05:22:40 +0000"
     },
     "done": false
   },
@@ -7916,6 +7918,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-07-23 05:15:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-07-23 05:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_stairs_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
@@ -7925,6 +7939,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-23 05:19:13 +0000"
     },
     "done": true
   },
@@ -7977,6 +7997,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-23 05:21:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/crafting_table_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
@@ -7998,6 +8024,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_stairs_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 04:45:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-07-23 05:15:25 +0000"
     },
     "done": true
   },
@@ -8058,6 +8090,12 @@
   "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
       "has_sand": "2025-07-23 05:07:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-23 05:21:56 +0000"
     },
     "done": true
   },

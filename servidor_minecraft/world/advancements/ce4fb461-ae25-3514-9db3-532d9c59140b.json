@@ -5376,7 +5376,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-21 20:09:09 +0000"
+      "minecraft:nether_wastes": "2025-07-21 20:09:09 +0000",
+      "minecraft:warped_forest": "2025-07-23 05:22:16 +0000"
     },
     "done": false
   },
@@ -9192,6 +9193,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-07-23 05:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
@@ -9225,6 +9232,12 @@
   "iceandfire:recipes/combat/armor_electric_helmet": {
     "criteria": {
       "has_item": "2025-07-23 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-23 05:23:12 +0000"
     },
     "done": true
   },
