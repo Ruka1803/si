@@ -13736,3 +13736,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [23Jul2025 03:08:07.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jul2025 03:08:07.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jul2025 03:10:30.083] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [8fce95e1-95ea-4101-9a2c-d79290d58a5f]
+[23Jul2025 03:13:07.318] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 03:13:07.376] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 03:13:07.376] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 03:13:07.404] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 03:14:45.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.068124771118164) to VERY_LOW (avg. 19.550352096557617)
+[23Jul2025 03:15:07.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.7108097076416) to LOW (avg. 22.934524536132812)
+[23Jul2025 03:18:07.322] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 03:18:07.375] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 03:18:07.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 03:18:07.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 03:20:10.578] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 5.84 and blood value 0 for entity iceandfire:ice_dragon
+[23Jul2025 03:21:33.476] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.13 and blood value 0 for entity iceandfire:pixie
+[23Jul2025 03:21:45.832] [Worker-Main-4/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[23Jul2025 03:21:45.833] [Worker-Main-4/DEBUG] [mixin/]: Mixing MixinJigsawPlacer from vampirism.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[23Jul2025 03:22:17.135] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.7677989557373621
+[23Jul2025 03:22:17.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.6843791536314257
+[23Jul2025 03:22:17.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.7668641098832722
+[23Jul2025 03:22:17.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.7664743069948372
+[23Jul2025 03:22:17.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.7661305008473391
+[23Jul2025 03:22:17.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.7658272638251447
+[23Jul2025 03:22:17.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.7655598087716271
+[23Jul2025 03:22:17.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.7653239134143632
+[23Jul2025 03:22:17.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.8082170461348142
+[23Jul2025 03:22:20.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 0.43620534425758706
+[23Jul2025 03:22:20.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of Pancho) moved wrongly! 1.0429683559326577
+[23Jul2025 03:22:41.133] [Worker-Main-4/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Jul2025 03:22:41.134] [Worker-Main-4/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Jul2025 03:22:41.134] [Worker-Main-4/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[23Jul2025 03:22:41.136] [Worker-Main-4/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[23Jul2025 03:22:42.026] [Worker-Main-70/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[23Jul2025 03:22:42.026] [Worker-Main-70/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[23Jul2025 03:22:43.895] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.16 and blood value 0 for entity hexerei:owl
+[23Jul2025 03:23:07.312] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 03:23:07.364] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 03:23:07.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 03:23:07.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
