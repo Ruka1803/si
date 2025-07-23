@@ -14382,3 +14382,102 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [23Jul2025 03:33:07.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Jul2025 03:33:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> pero duerma primero
 [23Jul2025 03:33:09.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> XD
+[23Jul2025 03:34:53.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> estas conmigo?
+[23Jul2025 03:34:56.623] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[23Jul2025 03:34:56.623] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[23Jul2025 03:35:05.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> ahi voy
+[23Jul2025 03:36:15.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> jajaja
+[23Jul2025 03:36:19.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> esta no es su espada?
+[23Jul2025 03:36:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> so
+[23Jul2025 03:36:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> si
+[23Jul2025 03:36:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> la tire por error
+[23Jul2025 03:36:48.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['His Holiness WhatTheDrunk the Dragonborn'/1427914, l='ServerLevel[world]', x=1123.21, y=70.00, z=-286.98] died: His Holiness WhatTheDrunk the Dragonborn was slain by Pancho
+[23Jul2025 03:36:49.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Epic!]
+[23Jul2025 03:36:55.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ahora
+[23Jul2025 03:37:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> diavlo ya crecio
+[23Jul2025 03:37:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> kamish
+[23Jul2025 03:37:24.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> ESTE HP XD
+[23Jul2025 03:37:30.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> que xD?
+[23Jul2025 03:37:47.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> al negro deberia ponerle kamish
+[23Jul2025 03:38:04.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> esque este es kamish antes de sombra
+[23Jul2025 03:38:07.345] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 03:38:07.397] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 03:38:07.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 03:38:07.418] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 03:38:20.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> yo si quisiera uno negro
+[23Jul2025 03:38:35.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> pues mano
+[23Jul2025 03:38:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> farmeemos dragones
+[23Jul2025 03:38:48.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> oe en el cofre habia un libro de hechizos yo lo agarre
+[23Jul2025 03:39:01.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> cual cofre?
+[23Jul2025 03:39:04.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> el mio
+[23Jul2025 03:39:06.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> por cierto
+[23Jul2025 03:39:13.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> vaya a la parte de evolucion
+[23Jul2025 03:39:25.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> el altar?
+[23Jul2025 03:39:28.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> si
+[23Jul2025 03:39:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> bueno
+[23Jul2025 03:39:46.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> despues lo amplio mas y lo vuelvo nuestro hogar
+[23Jul2025 03:40:02.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> hp
+[23Jul2025 03:40:11.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> todo esta organizado
+[23Jul2025 03:40:28.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> sacare mis pets
+[23Jul2025 03:40:32.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mano
+[23Jul2025 03:40:34.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> pues
+[23Jul2025 03:40:43.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> solo organice todo lo suyo
+[23Jul2025 03:40:45.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ud vera
+[23Jul2025 03:40:52.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> yo organice todo
+[23Jul2025 03:40:58.172] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[23Jul2025 03:40:58.172] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[23Jul2025 03:41:02.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> por que ya me estrese de estar sin espacio
+[23Jul2025 03:41:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> XDDD
+[23Jul2025 03:41:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [Pacifist]
+[23Jul2025 03:41:06.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Milky Way]
+[23Jul2025 03:41:06.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Heads Up]
+[23Jul2025 03:42:07.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> meneses
+[23Jul2025 03:42:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Off Hand Joker]
+[23Jul2025 03:42:18.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> necesito algo
+[23Jul2025 03:42:24.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> que puede estar muy roto
+[23Jul2025 03:42:26.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> lo que sea mi rey
+[23Jul2025 03:42:31.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> necesito
+[23Jul2025 03:42:36.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Hot Stuff]
+[23Jul2025 03:42:38.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> algo que es muy dificil de conseguir
+[23Jul2025 03:42:42.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> no muchos lo tienen
+[23Jul2025 03:42:44.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> novia
+[23Jul2025 03:42:49.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> una papa podrida
+[23Jul2025 03:42:57.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> novia uno consigue facil con una parla
+[23Jul2025 03:43:07.341] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 03:43:07.408] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 03:43:07.408] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 03:43:07.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 03:43:33.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> toca plantar papa
+[23Jul2025 03:43:44.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> por cierto lo que le paso al rancho fue mi culpa
+[23Jul2025 03:43:45.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> XD
+[23Jul2025 03:43:58.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> igual ya nos ibamos a mudar XD
+[23Jul2025 03:44:06.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> esque ahi fue donde creci a kamish y queria ver si podia volar
+[23Jul2025 03:44:09.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> y al volar añe
+[23Jul2025 03:44:11.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> dañe
+[23Jul2025 03:44:12.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> XD
+[23Jul2025 03:44:17.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ahora
+[23Jul2025 03:44:20.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> la duda es
+[23Jul2025 03:44:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> no podre tirar hielo o algo?
+[23Jul2025 03:44:35.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> tal vez agarrar a los demas
+[23Jul2025 03:44:45.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mirare opciones de teclas
+[23Jul2025 03:44:48.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> puede que si
+[23Jul2025 03:44:49.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> llameme mientras
+[23Jul2025 03:48:07.340] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 03:48:07.392] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 03:48:07.392] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 03:48:07.415] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 03:48:07.934] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.37004852294922) to NORMAL (avg. 42.593936920166016)
+[23Jul2025 03:48:15.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.593936920166016) to LOW (avg. 36.2929801940918)
+[23Jul2025 03:51:22.808] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.99982452392578) to NORMAL (avg. 40.85569763183594)
+[23Jul2025 03:51:30.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.85569763183594) to LOW (avg. 35.655235290527344)
+[23Jul2025 03:52:00.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.953128814697266) to NORMAL (avg. 41.35646057128906)
+[23Jul2025 03:52:12.352] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.15 and blood value 0 for entity crittersandcompanions:shima_enaga
+[23Jul2025 03:52:22.824] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.75090789794922) to MEDIUM (avg. 47.82841110229492)
+[23Jul2025 03:52:52.829] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.92009353637695) to NORMAL (avg. 45.61576843261719)
+[23Jul2025 03:53:07.677] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 03:53:07.727] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 03:53:07.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 03:53:07.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 03:53:15.378] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.727378845214844) to VERY_HIGH (avg. 55.993221282958984)
+[23Jul2025 03:53:22.850] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.993221282958984) to HIGH (avg. 50.39500427246094)
+[23Jul2025 03:53:37.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.39500427246094) to NORMAL (avg. 45.23956298828125)

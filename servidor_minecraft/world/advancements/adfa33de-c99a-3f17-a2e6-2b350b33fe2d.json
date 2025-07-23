@@ -7836,5 +7836,41 @@
     },
     "done": true
   },
+  "inventorypets:anvil": {
+    "criteria": {
+      "crafting_table": "2025-07-23 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:cow": {
+    "criteria": {
+      "crafting_table": "2025-07-23 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:peaceful": {
+    "criteria": {
+      "crafting_table": "2025-07-23 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
+    "criteria": {
+      "requirement": "2025-07-23 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:magmacube": {
+    "criteria": {
+      "crafting_table": "2025-07-23 03:42:36 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:shield": {
+    "criteria": {
+      "crafting_table": "2025-07-23 03:42:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
