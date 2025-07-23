@@ -2039,6 +2039,7 @@
       "minecraft:skeleton": "2025-07-20 21:24:22 +0000",
       "minecraft:ghast": "2025-07-21 23:25:21 +0000",
       "minecraft:hoglin": "2025-07-21 22:45:35 +0000",
+      "minecraft:vindicator": "2025-07-23 06:00:55 +0000",
       "minecraft:magma_cube": "2025-07-21 22:34:25 +0000",
       "minecraft:spider": "2025-07-20 19:46:54 +0000",
       "minecraft:piglin_brute": "2025-07-21 22:44:10 +0000",
@@ -9343,6 +9344,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:quartz_flats": "2025-07-23 05:54:23 +0000",
       "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
     },
     "done": false
@@ -9392,6 +9394,30 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-23 05:46:28 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/sanctum/root": {
+    "criteria": {
+      "requirement": "2025-07-23 05:58:39 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/ghast_buster": {
+    "criteria": {
+      "kill_ghast": "2025-07-23 05:56:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-07-23 05:56:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-23 05:54:23 +0000"
     },
     "done": true
   },

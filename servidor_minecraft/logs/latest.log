@@ -2822,3 +2822,202 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 05:57:04.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 3.468860788365987,0.0,9.859503378992542
 [23Jul2025 05:57:04.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved too quickly! 0.6359972063106625,1.0,9.975134788222533
 [23Jul2025 05:57:04.462] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[23Jul2025 05:57:13.556] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.68877029418945) to NORMAL (avg. 40.81944274902344)
+[23Jul2025 05:57:28.556] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.81944274902344) to LOW (avg. 37.8476448059082)
+[23Jul2025 05:57:43.560] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.8476448059082) to MEDIUM (avg. 46.32426452636719)
+[23Jul2025 05:57:51.056] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.32426452636719) to NORMAL (avg. 42.14463806152344)
+[23Jul2025 05:57:58.618] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.14463806152344) to VERY_HIGH (avg. 55.898284912109375)
+[23Jul2025 05:57:58.969] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:57:58.969] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:57:59.161] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=53}
+[23Jul2025 05:57:59.288] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-51, z=70}
+[23Jul2025 05:58:06.958] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.898284912109375) to HIGH (avg. 54.675384521484375)
+[23Jul2025 05:58:07.836] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:07.836] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:07.837] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:08.014] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-197, y=-53, z=89}
+[23Jul2025 05:58:08.024] [Worker-Main-53/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-48, y=-51, z=112}
+[23Jul2025 05:58:08.097] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:08.098] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:08.098] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:08.345] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:08.346] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:08.579] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-54, z=56}
+[23Jul2025 05:58:10.922] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=112}
+[23Jul2025 05:58:10.923] [Worker-Main-69/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=112}
+[23Jul2025 05:58:11.299] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-44, y=-51, z=121}
+[23Jul2025 05:58:11.299] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-51, z=121}
+[23Jul2025 05:58:11.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[23Jul2025 05:58:14.110] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.313] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.314] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.314] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.759] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.760] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.760] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.831] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.831] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.832] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:14.832] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:16.265] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:16.266] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:16.266] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:16.266] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:17.347] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.675384521484375) to VERY_HIGH (avg. 68.5269546508789)
+[23Jul2025 05:58:17.580] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:17.584] [Worker-Main-70/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=303, y=98, z=248}
+[23Jul2025 05:58:18.440] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:19.364] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from MEDIUM (avg. 43.716787090000004) to NORMAL (avg. 38.4895859)
+[23Jul2025 05:58:21.009] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:23.290] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:23.565] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:26.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4806327, l='ServerLevel[world]', x=-405.30, y=30.84, z=709.78] died: Sanctum Cultist tried to swim in lava
+[23Jul2025 05:58:26.449] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:26.891] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:26.891] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:26.924] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:26.924] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:26.924] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:26.928] [Worker-Main-69/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Jul2025 05:58:27.836] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:27.837] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:27.837] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:27.848] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:27.849] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:27.850] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:27.850] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:27.857] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:29.116] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4792886, l='ServerLevel[world]', x=-451.39, y=37.56, z=700.75, removed=DISCARDED]
+[23Jul2025 05:58:29.320] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4792888, l='ServerLevel[world]', x=-454.73, y=37.15, z=700.63, removed=DISCARDED]
+[23Jul2025 05:58:29.398] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:29.729] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4792890, l='ServerLevel[world]', x=-457.59, y=37.24, z=700.64, removed=DISCARDED]
+[23Jul2025 05:58:30.861] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from NORMAL (avg. 38.4895859) to MEDIUM (avg. 43.61579367)
+[23Jul2025 05:58:31.419] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:31.523] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:31.523] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:31.579] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:31.580] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.208] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.209] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.235] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.263] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.264] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.327] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.327] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.328] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:32.328] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:33.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7019ms or 140 ticks behind
+[23Jul2025 05:58:34.557] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.017] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.017] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.018] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.065] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.065] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.066] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.066] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.177] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.178] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.241] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:35.266] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:58:39.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has reached the goal [An Illager Refuge?]
+[23Jul2025 05:58:41.196] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from MEDIUM (avg. 43.61579367) to NORMAL (avg. 40.36574017)
+[23Jul2025 05:58:54.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6177ms or 123 ticks behind
+[23Jul2025 05:59:14.780] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4792888, l='ServerLevel[world]', x=-454.73, y=37.15, z=700.63, removed=DISCARDED]
+[23Jul2025 05:59:14.781] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4792890, l='ServerLevel[world]', x=-457.59, y=37.24, z=700.64, removed=DISCARDED]
+[23Jul2025 05:59:14.782] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4792886, l='ServerLevel[world]', x=-451.39, y=37.56, z=700.75, removed=DISCARDED]
+[23Jul2025 05:59:15.008] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5252ms or 105 ticks behind
+[23Jul2025 05:59:15.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [An Illager Refuge?]
+[23Jul2025 05:59:26.556] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.72673034667969) to NORMAL (avg. 43.31928253173828)
+[23Jul2025 05:59:41.556] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.31928253173828) to MEDIUM (avg. 47.54499816894531)
+[23Jul2025 06:00:01.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Sanctum Ritualist'/4793811, l='ServerLevel[world]', x=-425.44, y=36.00, z=668.30] died: Sanctum Ritualist was slain by XxLarryGoatxX
+[23Jul2025 06:00:03.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4803547, l='ServerLevel[world]', x=-427.47, y=36.00, z=668.48] died: Sanctum Inquisitor was slain by XxLarryGoatxX
+[23Jul2025 06:00:19.095] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.61027145385742) to HIGH (avg. 49.55674362182617)
+[23Jul2025 06:00:34.082] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.55674362182617) to MEDIUM (avg. 48.84376907348633)
+[23Jul2025 06:00:48.811] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805279, l='ServerLevel[world]', x=-430.90, y=37.00, z=721.24] died: Sanctum Cultist went up in flames
+[23Jul2025 06:00:49.070] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.84376907348633) to HIGH (avg. 49.59136962890625)
+[23Jul2025 06:00:54.301] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4803290, l='ServerLevel[world]', x=-405.30, y=36.00, z=669.30] died: Sanctum Inquisitor was slain by XxLarryGoatxX
+[23Jul2025 06:00:55.854] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4803294, l='ServerLevel[world]', x=-405.79, y=36.00, z=671.92] died: Sanctum Inquisitor was slain by Pancho
+[23Jul2025 06:01:04.056] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.59136962890625) to NORMAL (avg. 44.951690673828125)
+[23Jul2025 06:01:17.621] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4793812, l='ServerLevel[world]', x=-395.30, y=36.00, z=685.77] died: Sanctum Cultist was slain by XxLarryGoatxX
+[23Jul2025 06:01:19.115] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.951690673828125) to HIGH (avg. 49.46327590942383)
+[23Jul2025 06:01:26.734] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.46327590942383) to MEDIUM (avg. 46.596839904785156)
+[23Jul2025 06:01:27.929] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4803286, l='ServerLevel[world]', x=-408.91, y=36.00, z=683.37] died: Sanctum Cultist was slain by XxLarryGoatxX
+[23Jul2025 06:01:35.393] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4803197, l='ServerLevel[world]', x=-394.30, y=36.00, z=674.24] died: Sanctum Inquisitor was slain by XxLarryGoatxX
+[23Jul2025 06:01:39.064] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4803295, l='ServerLevel[world]', x=-397.00, y=36.00, z=674.61] died: Sanctum Inquisitor was slain by XxLarryGoatxX
+[23Jul2025 06:01:41.975] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.596839904785156) to HIGH (avg. 51.73246765136719)
+[23Jul2025 06:01:56.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [The Floor is Tears]
+[23Jul2025 06:02:05.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807349, l='ServerLevel[world]', x=-425.70, y=36.18, z=743.49] died: Sanctum Cultist went up in flames
+[23Jul2025 06:02:19.588] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.6030387878418) to VERY_HIGH (avg. 56.69310760498047)
+[23Jul2025 06:02:27.793] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.69310760498047) to HIGH (avg. 53.21384048461914)
+[23Jul2025 06:02:51.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 06:03:12.910] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Jul2025 06:03:15.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.29055404663086) to VERY_HIGH (avg. 57.02992248535156)
+[23Jul2025 06:03:17.312] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.315] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.382] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.383] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.383] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.416] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.417] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.456] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.456] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:17.457] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:30.769] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Jul2025 06:03:37.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4803460, l='ServerLevel[world]', x=-407.86, y=45.00, z=699.13] died: Sanctum Cultist went up in flames
+[23Jul2025 06:03:40.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805283, l='ServerLevel[world]', x=-409.30, y=43.06, z=695.44] died: Sanctum Cultist burned to death
+[23Jul2025 06:03:41.443] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:41.605] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:41.605] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:41.605] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:41.928] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:03:42.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4806320, l='ServerLevel[world]', x=-409.82, y=43.00, z=691.75] died: Sanctum Cultist burned to death
+[23Jul2025 06:03:54.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[23Jul2025 06:04:11.306] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:04:11.332] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:04:11.492] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:04:11.494] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:04:11.494] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:04:11.495] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:04:11.495] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:04:18.165] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805278, l='ServerLevel[world]', x=-427.47, y=37.00, z=714.26] died: Sanctum Cultist went up in flames
+[23Jul2025 06:04:21.311] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.809532165527344) to HIGH (avg. 51.94062042236328)
+[23Jul2025 06:04:36.231] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.94062042236328) to VERY_HIGH (avg. 56.68827819824219)
+[23Jul2025 06:04:36.385] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4803910, l='ServerLevel[world]', x=-441.12, y=49.00, z=682.18] died: Sanctum Cultist was squished too much
+[23Jul2025 06:04:50.624] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.68827819824219) to MEDIUM (avg. 46.688987731933594)
+[23Jul2025 06:05:04.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807350, l='ServerLevel[world]', x=-405.86, y=45.00, z=678.19] died: Sanctum Cultist was squished too much
+[23Jul2025 06:05:05.085] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.688987731933594) to NORMAL (avg. 44.25993728637695)
+[23Jul2025 06:05:05.269] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805280, l='ServerLevel[world]', x=-405.30, y=45.00, z=678.24] died: Sanctum Cultist was squished too much
+[23Jul2025 06:05:10.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807099, l='ServerLevel[world]', x=-406.30, y=49.00, z=682.70] died: Sanctum Cultist was squished too much
+[23Jul2025 06:05:10.931] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4806328, l='ServerLevel[world]', x=-406.35, y=49.00, z=682.30] died: Sanctum Cultist was squished too much
+[23Jul2025 06:05:12.681] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.25993728637695) to HIGH (avg. 50.07128143310547)
+[23Jul2025 06:05:14.208] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4804354, l='ServerLevel[world]', x=-400.70, y=36.00, z=688.70] died: Sanctum Inquisitor was slain by XxLarryGoatxX
+[23Jul2025 06:05:15.642] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805217, l='ServerLevel[world]', x=-409.71, y=43.00, z=691.46] died: Sanctum Cultist was squished too much
+[23Jul2025 06:05:16.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4806321, l='ServerLevel[world]', x=-406.30, y=49.00, z=682.13] died: Sanctum Cultist was squished too much
+[23Jul2025 06:05:19.797] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.07128143310547) to NORMAL (avg. 44.43358612060547)
+[23Jul2025 06:05:30.705] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4806326, l='ServerLevel[world]', x=-408.70, y=36.00, z=695.49] died: Sanctum Cultist was slain by XxLarryGoatxX
+[23Jul2025 06:05:34.556] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.43358612060547) to MEDIUM (avg. 47.93040466308594)
+[23Jul2025 06:05:42.166] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.93040466308594) to VERY_HIGH (avg. 57.38825988769531)
+[23Jul2025 06:05:43.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807354, l='ServerLevel[world]', x=-408.24, y=36.00, z=719.27] died: Sanctum Cultist was slain by Pancho
+[23Jul2025 06:05:45.975] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805215, l='ServerLevel[world]', x=-419.49, y=36.00, z=704.70] died: Sanctum Cultist was slain by XxLarryGoatxX
+[23Jul2025 06:05:47.174] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805285, l='ServerLevel[world]', x=-423.70, y=35.50, z=701.49] died: Sanctum Cultist was slain by XxLarryGoatxX
+[23Jul2025 06:05:48.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4808580, l='ServerLevel[world]', x=-405.30, y=36.00, z=735.49] died: Sanctum Cultist was slain by Pancho
+[23Jul2025 06:05:52.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4808291, l='ServerLevel[world]', x=-406.02, y=36.00, z=743.20] died: Sanctum Inquisitor was slain by Pancho
+[23Jul2025 06:05:55.624] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4809518, l='ServerLevel[world]', x=-405.46, y=36.00, z=744.20] died: Sanctum Inquisitor was slain by Pancho
+[23Jul2025 06:05:58.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4808289, l='ServerLevel[world]', x=-408.39, y=36.00, z=741.51] died: Sanctum Cultist was slain by Pancho
+[23Jul2025 06:06:05.907] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.3886604309082) to MEDIUM (avg. 47.799774169921875)
+[23Jul2025 06:06:11.691] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4805286, l='ServerLevel[world]', x=-421.81, y=36.00, z=714.63] died: Sanctum Inquisitor was shot by Sanctum Cultist
+[23Jul2025 06:06:17.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807136, l='ServerLevel[world]', x=-416.07, y=43.50, z=706.78] died: Sanctum Cultist was squished too much
+[23Jul2025 06:06:17.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807351, l='ServerLevel[world]', x=-417.51, y=36.00, z=707.70] died: Sanctum Cultist was slain by XxLarryGoatxX
+[23Jul2025 06:06:18.797] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/4803297, l='ServerLevel[world]', x=-415.91, y=43.50, z=706.89] died: Sanctum Protector was squished too much
+[23Jul2025 06:06:28.418] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.9964599609375) to HIGH (avg. 53.702903747558594)
+[23Jul2025 06:06:43.505] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4805209, l='ServerLevel[world]', x=-415.51, y=36.00, z=706.59] died: Sanctum Inquisitor was slain by XxLarryGoatxX
+[23Jul2025 06:06:48.917] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4806325, l='ServerLevel[world]', x=-415.58, y=43.00, z=706.28] died: Sanctum Cultist was squished too much
+[23Jul2025 06:06:51.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4806324, l='ServerLevel[world]', x=-415.69, y=43.00, z=706.45] died: Sanctum Cultist was squished too much
+[23Jul2025 06:06:53.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4805219, l='ServerLevel[world]', x=-419.50, y=36.00, z=707.30] died: Sanctum Cultist was slain by XxLarryGoatxX
+[23Jul2025 06:06:55.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4803908, l='ServerLevel[world]', x=-431.53, y=36.00, z=694.36] died: Sanctum Cultist was squished too much
+[23Jul2025 06:07:02.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ravager['Sanctum Ravager'/4804269, l='ServerLevel[world]', x=-419.11, y=37.00, z=720.30] died: Sanctum Ravager was slain by XxLarryGoatxX
+[23Jul2025 06:07:03.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807353, l='ServerLevel[world]', x=-421.69, y=43.00, z=716.43] died: Sanctum Cultist was squished too much
+[23Jul2025 06:07:09.779] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4805218, l='ServerLevel[world]', x=-430.09, y=36.00, z=717.15] died: Sanctum Inquisitor was slain by XxLarryGoatxX
+[23Jul2025 06:07:10.667] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4804297, l='ServerLevel[world]', x=-428.33, y=43.00, z=717.83] died: Sanctum Cultist was squished too much
+[23Jul2025 06:07:12.503] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/4807348, l='ServerLevel[world]', x=-388.05, y=36.00, z=746.37] died: Sanctum Cultist was slain by Pancho
+[23Jul2025 06:07:13.062] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Inquisitor'/4805214, l='ServerLevel[world]', x=-433.49, y=36.38, z=714.30] died: Sanctum Inquisitor was slain by XxLarryGoatxX
