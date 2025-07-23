@@ -2100,3 +2100,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 02:49:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.08609962463379) to LOW (avg. 21.925189971923828)
 [23Jul2025 02:50:00.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.992137908935547) to VERY_LOW (avg. 19.486146926879883)
 [23Jul2025 02:50:07.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.486146926879883) to LOW (avg. 21.931034088134766)
+[23Jul2025 02:54:09.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Ice Bucket Challenge]
+[23Jul2025 03:01:14.870] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[23Jul2025 03:01:14.870] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
