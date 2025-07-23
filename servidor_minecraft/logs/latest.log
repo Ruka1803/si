@@ -2213,3 +2213,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 03:53:15.378] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.727378845214844) to VERY_HIGH (avg. 55.993221282958984)
 [23Jul2025 03:53:22.850] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.993221282958984) to HIGH (avg. 50.39500427246094)
 [23Jul2025 03:53:37.816] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.39500427246094) to NORMAL (avg. 45.23956298828125)
+[23Jul2025 03:53:45.343] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.23956298828125) to HIGH (avg. 53.355712890625)
+[23Jul2025 03:53:52.814] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.355712890625) to MEDIUM (avg. 48.15139389038086)
+[23Jul2025 03:54:07.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=884, y=-12, z=-1534}
+[23Jul2025 03:54:07.573] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=885, y=-12, z=-1534}
+[23Jul2025 03:54:08.142] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.15139389038086) to HIGH (avg. 51.396873474121094)
+[23Jul2025 03:54:37.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.50048065185547) to LOW (avg. 38.963783264160156)
+[23Jul2025 03:55:30.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.91041946411133) to NORMAL (avg. 40.955406188964844)
+[23Jul2025 03:55:37.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.955406188964844) to LOW (avg. 39.983192443847656)
+[23Jul2025 03:56:21.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/1938915, l='ServerLevel[world]', x=1218.50, y=-0.31, z=-138.50]
+[23Jul2025 03:56:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.04354476928711) to NORMAL (avg. 41.52019119262695)
+[23Jul2025 03:57:07.815] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.693477630615234) to MEDIUM (avg. 47.13410186767578)
+[23Jul2025 03:57:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.13410186767578) to LOW (avg. 37.038387298583984)
+[23Jul2025 03:58:08.076] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.75330352783203) to HIGH (avg. 53.337120056152344)
+[23Jul2025 03:58:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.337120056152344) to NORMAL (avg. 41.364906311035156)
+[23Jul2025 03:58:37.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.364906311035156) to LOW (avg. 37.446617126464844)
+[23Jul2025 03:59:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.72407150268555) to NORMAL (avg. 40.387542724609375)
+[23Jul2025 03:59:30.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.387542724609375) to LOW (avg. 36.27421951293945)
+[23Jul2025 03:59:52.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.53927230834961) to NORMAL (avg. 40.245052337646484)
+[23Jul2025 03:59:55.914] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.520] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.521] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.521] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.521] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.533] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.533] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.533] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 03:59:59.534] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 04:00:07.845] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.866920471191406) to MEDIUM (avg. 48.18494415283203)
+[23Jul2025 04:00:22.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.18494415283203) to LOW (avg. 36.15769577026367)
+[23Jul2025 04:00:39.623] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.15769577026367) to NORMAL (avg. 42.71368408203125)
+[23Jul2025 04:00:52.880] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.940574645996094) to HIGH (avg. 51.219322204589844)
+[23Jul2025 04:01:00.309] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.219322204589844) to MEDIUM (avg. 46.962379455566406)
+[23Jul2025 04:01:15.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.962379455566406) to LOW (avg. 35.99643325805664)
+[23Jul2025 04:01:23.330] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2038573, l='ServerLevel[world]', x=3116.54, y=71.00, z=1799.85] died, message: 'Leatherworker was slain by Lightning Dragon'
+[23Jul2025 04:02:30.649] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.925582885742188) to NORMAL (avg. 41.2394905090332)
+[23Jul2025 04:03:08.029] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.862274169921875) to MEDIUM (avg. 46.56085968017578)
+[23Jul2025 04:03:15.322] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.56085968017578) to HIGH (avg. 49.66770935058594)
+[23Jul2025 04:03:30.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.66770935058594) to LOW (avg. 32.607078552246094)
+[23Jul2025 04:04:01.063] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.21463966369629) to NORMAL (avg. 45.58484649658203)
