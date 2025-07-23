@@ -9143,5 +9143,11 @@
     },
     "done": true
   },
+  "inventorypets:snowgolem": {
+    "criteria": {
+      "crafting_table": "2025-07-23 04:59:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

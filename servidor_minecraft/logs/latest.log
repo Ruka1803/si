@@ -2330,3 +2330,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 04:49:19.006] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 28 secs.
 [23Jul2025 04:49:19.006] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
 [23Jul2025 04:50:53.234] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager ConvertedVillagerEntity['Fisherman'/2954871, l='ServerLevel[world]', x=3064.76, y=64.00, z=1840.56] died, message: 'Fisherman was slain by Angry Villager'
+[23Jul2025 04:56:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.99699020385742) to NORMAL (avg. 40.64363098144531)
+[23Jul2025 04:56:39.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.647945404052734) to LOW (avg. 26.05164337158203)
+[23Jul2025 04:59:37.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Pumpkinhead!]
+[23Jul2025 05:03:39.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.419841766357422) to VERY_HIGH (avg. 64.42814636230469)
+[23Jul2025 05:03:47.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.42814636230469) to LOW (avg. 36.96708679199219)
