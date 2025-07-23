@@ -7878,6 +7878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-07-23 05:07:03 +0000"
@@ -7932,6 +7938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_horn": {
     "criteria": {
       "bestiary": "2025-07-23 05:15:39 +0000"
@@ -7947,6 +7959,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_chest_boat_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
     },
     "done": true
   },
@@ -7990,6 +8008,12 @@
   "incendium:misc/root": {
     "criteria": {
       "incendium:withered_forest": "2025-07-23 05:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
     },
     "done": true
   },
@@ -8071,6 +8095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-07-23 05:00:36 +0000"
@@ -8092,6 +8122,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-23 03:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
     },
     "done": true
   },
@@ -8119,6 +8155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_boots": {
     "criteria": {
       "has_item": "2025-07-23 04:26:31 +0000"
@@ -8143,6 +8185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/acacia/acacia_fence_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
@@ -8164,6 +8212,18 @@
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-07-23 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
     },
     "done": true
   },
@@ -8206,6 +8266,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-07-23 05:38:09 +0000"
     },
     "done": true
   },

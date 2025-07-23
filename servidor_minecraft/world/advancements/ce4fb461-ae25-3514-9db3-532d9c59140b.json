@@ -2048,6 +2048,7 @@
       "minecraft:husk": "2025-07-21 20:49:02 +0000",
       "minecraft:piglin": "2025-07-21 22:33:48 +0000",
       "minecraft:enderman": "2025-07-21 21:18:38 +0000",
+      "minecraft:vex": "2025-07-23 05:38:04 +0000",
       "minecraft:zombie": "2025-07-20 21:23:02 +0000",
       "minecraft:zombie_villager": "2025-07-22 19:05:38 +0000"
     },
@@ -5378,6 +5379,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-07-23 05:35:16 +0000",
       "minecraft:nether_wastes": "2025-07-21 20:09:09 +0000",
       "minecraft:warped_forest": "2025-07-23 05:22:16 +0000"
     },
@@ -9147,6 +9149,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-07-23 05:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
     "criteria": {
       "has_light_gray_terracotta": "2025-07-23 05:06:38 +0000"
@@ -9156,6 +9164,12 @@
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2025-07-23 05:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-23 05:38:04 +0000"
     },
     "done": true
   },
@@ -9204,6 +9218,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
     "criteria": {
       "requirement": "2025-07-23 05:32:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:lumberjack": "2025-07-23 05:41:47 +0000"
     },
     "done": true
   },
@@ -9354,6 +9374,12 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-23 05:38:04 +0000"
     },
     "done": true
   },
