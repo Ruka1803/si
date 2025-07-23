@@ -7842,6 +7842,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-07-23 04:26:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-23 03:53:47 +0000"
@@ -7866,9 +7872,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-07-23 04:26:17 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_diamond": {
     "criteria": {
       "requirement": "2025-07-23 03:34:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-07-23 04:26:31 +0000"
     },
     "done": true
   },
@@ -7881,6 +7899,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-07-23 03:53:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-07-23 04:26:31 +0000"
     },
     "done": true
   },
@@ -7902,9 +7926,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-23 04:26:31 +0000"
+    },
+    "done": true
+  },
   "inventorypets:shield": {
     "criteria": {
       "crafting_table": "2025-07-23 03:42:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-07-23 04:26:31 +0000"
     },
     "done": true
   },

@@ -14621,3 +14621,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [23Jul2025 04:24:15.626] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [41eac681-546b-4f0a-a553-23312edce787]
 [23Jul2025 04:24:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho was slain by Lightning Dragon
 [23Jul2025 04:24:45.140] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.factions.FactionPlayerHandler/FACTIONS]: Pancho has new faction level vampirism:vampire 6
+[23Jul2025 04:24:59.087] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.37 and blood value 2 for entity crittersandcompanions:ferret
+[23Jul2025 04:24:59.087] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 0.32 and blood value 2 for entity crittersandcompanions:dragonfly
+[23Jul2025 04:25:02.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.854393005371094) to NORMAL (avg. 40.77781677246094)
+[23Jul2025 04:25:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.77781677246094) to VERY_LOW (avg. 18.779212951660156)
+[23Jul2025 04:25:47.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.598121643066406) to LOW (avg. 20.420040130615234)
+[23Jul2025 04:26:17.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Mother of Dragons]
+[23Jul2025 04:27:02.886] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 27.70771026611328) to NORMAL (avg. 41.56127166748047)
+[23Jul2025 04:27:24.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.106178283691406) to LOW (avg. 31.350791931152344)
+[23Jul2025 04:28:09.341] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 04:28:09.394] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 04:28:09.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 04:28:09.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 04:30:15.570] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[23Jul2025 04:30:15.570] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[23Jul2025 04:31:18.543] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1955431, l='ServerLevel[world]', x=1014.53, y=31.52, z=-371.64, removed=DISCARDED]
+[23Jul2025 04:31:32.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.470458984375) to NORMAL (avg. 40.20096969604492)
+[23Jul2025 04:32:02.359] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.900901794433594) to MEDIUM (avg. 47.294002532958984)
+[23Jul2025 04:32:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.294002532958984) to LOW (avg. 39.10820770263672)
+[23Jul2025 04:32:32.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.10820770263672) to NORMAL (avg. 40.02709197998047)
+[23Jul2025 04:33:09.346] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 04:33:09.394] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 04:33:09.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 04:33:09.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 04:33:10.017] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.35298538208008) to MEDIUM (avg. 48.08422088623047)
+[23Jul2025 04:33:24.845] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.08422088623047) to HIGH (avg. 51.008384704589844)
+[23Jul2025 04:33:39.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.008384704589844) to LOW (avg. 38.281272888183594)
+[23Jul2025 04:33:54.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.281272888183594) to NORMAL (avg. 40.08562469482422)
