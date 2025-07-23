@@ -3222,6 +3222,7 @@
       "minecraft:witch": "2025-07-19 01:46:47 +0000",
       "minecraft:husk": "2025-07-21 20:46:27 +0000",
       "minecraft:cave_spider": "2025-07-19 01:04:53 +0000",
+      "minecraft:enderman": "2025-07-23 04:52:39 +0000",
       "minecraft:zombie": "2025-07-19 06:55:47 +0000",
       "minecraft:zombie_villager": "2025-07-21 03:25:52 +0000"
     },
@@ -7836,6 +7837,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_stripped_acacia_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-23 04:45:07 +0000"
+    },
+    "done": true
+  },
   "inventorypets:anvil": {
     "criteria": {
       "crafting_table": "2025-07-23 03:41:06 +0000"
@@ -7851,6 +7858,19 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-23 03:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-23 04:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2025-07-23 04:45:02 +0000",
+      "has_block": "2025-07-23 04:45:02 +0000"
     },
     "done": true
   },
@@ -7875,6 +7895,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-07-23 04:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/acacia/acacia_planks_from_acacia_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-23 04:45:02 +0000"
     },
     "done": true
   },
@@ -7929,6 +7955,12 @@
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-07-23 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-23 04:45:07 +0000"
     },
     "done": true
   },
