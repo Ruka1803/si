@@ -14537,3 +14537,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [23Jul2025 04:03:15.322] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.56085968017578) to HIGH (avg. 49.66770935058594)
 [23Jul2025 04:03:30.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.66770935058594) to LOW (avg. 32.607078552246094)
 [23Jul2025 04:04:01.063] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.21463966369629) to NORMAL (avg. 45.58484649658203)
+[23Jul2025 04:04:08.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.58484649658203) to MEDIUM (avg. 48.89412307739258)
+[23Jul2025 04:04:16.663] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.89412307739258) to HIGH (avg. 53.02491760253906)
+[23Jul2025 04:04:18.097] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 49.56721305) to VERY_HIGH (avg. 53.563293259999995)
+[23Jul2025 04:04:22.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[23Jul2025 04:04:25.696] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.02491760253906) to VERY_HIGH (avg. 59.27423095703125)
+[23Jul2025 04:04:39.858] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.27423095703125) to NORMAL (avg. 43.5201301574707)
+[23Jul2025 04:04:55.452] [Worker-Main-70/DEBUG] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Looking for vampire forest took 58.307s
+[23Jul2025 04:05:09.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.765594482421875) to LOW (avg. 37.35226821899414)
+[23Jul2025 04:05:24.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.35226821899414) to NORMAL (avg. 41.21162414550781)
+[23Jul2025 04:05:32.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.21162414550781) to LOW (avg. 39.3604850769043)
+[23Jul2025 04:05:54.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.84613037109375) to NORMAL (avg. 42.359413146972656)
+[23Jul2025 04:06:02.321] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.359413146972656) to HIGH (avg. 49.21222686767578)
+[23Jul2025 04:06:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.21222686767578) to LOW (avg. 31.313743591308594)
+[23Jul2025 04:08:09.331] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 04:08:09.383] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 04:08:09.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 04:08:09.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 04:09:55.285] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 3172 1632 1632 VisualFallingBlockEntity['Falling Deepslate'/2265190, l='ServerLevel[world]', x=3172.50, y=-5.00, z=1632.50]
+[23Jul2025 04:09:55.302] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 3172 1634 1634 VisualFallingBlockEntity['Falling Deepslate'/2265191, l='ServerLevel[world]', x=3172.50, y=-5.00, z=1634.50]
+[23Jul2025 04:09:55.303] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 3176 1634 1634 VisualFallingBlockEntity['Falling Deepslate'/2265192, l='ServerLevel[world]', x=3176.50, y=-5.00, z=1634.50]
+[23Jul2025 04:09:58.192] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 3172 1631 1631 VisualFallingBlockEntity['Falling Deepslate'/2266277, l='ServerLevel[world]', x=3172.50, y=-6.00, z=1631.50]
+[23Jul2025 04:09:58.217] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 3174 1627 1627 VisualFallingBlockEntity['Falling Deepslate'/2266278, l='ServerLevel[world]', x=3174.50, y=-9.00, z=1627.50]
+[23Jul2025 04:10:09.895] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.981712341308594) to HIGH (avg. 52.84259033203125)
+[23Jul2025 04:10:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.84259033203125) to NORMAL (avg. 40.28221130371094)
+[23Jul2025 04:10:32.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.28221130371094) to LOW (avg. 34.66721725463867)
+[23Jul2025 04:11:02.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.52419662475586) to NORMAL (avg. 40.66780090332031)
+[23Jul2025 04:11:08.929] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3311, y=-47, z=1254}
+[23Jul2025 04:11:08.936] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3312, y=-47, z=1253}
+[23Jul2025 04:11:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.66780090332031) to LOW (avg. 22.770092010498047)
+[23Jul2025 04:12:32.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved wrongly!
+[23Jul2025 04:13:09.325] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[23Jul2025 04:13:09.375] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[23Jul2025 04:13:09.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 04:13:09.397] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 04:13:32.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.91222381591797) to NORMAL (avg. 40.5075798034668)
+[23Jul2025 04:13:56.543] [Server thread/DEBUG] [de.teamlapen.vampirism.entity.converted.BiteableEntryManager/]: Calculated size 1.21 and blood value 8 for entity iceandfire:cockatrice
+[23Jul2025 04:14:02.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.09506607055664) to LOW (avg. 39.4510498046875)
+[23Jul2025 04:14:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.4510498046875) to NORMAL (avg. 41.572662353515625)
+[23Jul2025 04:14:24.911] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.572662353515625) to VERY_HIGH (avg. 62.247074127197266)
+[23Jul2025 04:14:32.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.247074127197266) to NORMAL (avg. 44.26470184326172)
