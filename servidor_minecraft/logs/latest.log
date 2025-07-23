@@ -3608,3 +3608,134 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 06:36:39.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3576ms or 71 ticks behind
 [23Jul2025 06:36:58.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3439ms or 68 ticks behind
 [23Jul2025 06:37:16.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
+[23Jul2025 06:37:34.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2772ms or 55 ticks behind
+[23Jul2025 06:37:51.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[23Jul2025 06:37:57.013] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.79027557373047) to HIGH (avg. 51.528533935546875)
+[23Jul2025 06:38:05.518] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.528533935546875) to VERY_HIGH (avg. 60.73956298828125)
+[23Jul2025 06:38:09.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[23Jul2025 06:38:14.000] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 60.73956298828125) to HIGH (avg. 54.30791091918945)
+[23Jul2025 06:38:22.882] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.30791091918945) to VERY_HIGH (avg. 62.81397247314453)
+[23Jul2025 06:38:27.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2645ms or 52 ticks behind
+[23Jul2025 06:38:47.757] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.55595779418945) to HIGH (avg. 51.20433044433594)
+[23Jul2025 06:39:00.773] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:00.773] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:00.774] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:01.317] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:10.166] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:10.167] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:11.601] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:22.799] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:23.666] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:23.813] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:39:31.206] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.768646240234375) to LOW (avg. 39.4443244934082)
+[23Jul2025 06:39:43.126] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/5760226, l='ServerLevel[world]', x=-2.22, y=49.00, z=2313.53] died: Village Guard burned to death
+[23Jul2025 06:39:46.624] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.4443244934082) to VERY_HIGH (avg. 59.184486389160156)
+[23Jul2025 06:39:49.739] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802808, l='ServerLevel[world]', x=82.51, y=32.35, z=2163.66, removed=DISCARDED]
+[23Jul2025 06:39:51.409] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802769, l='ServerLevel[world]', x=53.49, y=35.43, z=2174.25, removed=DISCARDED]
+[23Jul2025 06:39:51.705] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802762, l='ServerLevel[world]', x=51.58, y=36.31, z=2174.26, removed=DISCARDED]
+[23Jul2025 06:39:51.767] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802760, l='ServerLevel[world]', x=52.29, y=35.26, z=2172.59, removed=DISCARDED]
+[23Jul2025 06:39:51.885] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802761, l='ServerLevel[world]', x=50.43, y=37.55, z=2174.47, removed=DISCARDED]
+[23Jul2025 06:39:52.120] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802756, l='ServerLevel[world]', x=50.54, y=36.21, z=2171.51, removed=DISCARDED]
+[23Jul2025 06:39:52.184] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802759, l='ServerLevel[world]', x=50.73, y=35.15, z=2170.63, removed=DISCARDED]
+[23Jul2025 06:39:52.311] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802754, l='ServerLevel[world]', x=49.42, y=36.59, z=2171.66, removed=DISCARDED]
+[23Jul2025 06:39:52.425] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802755, l='ServerLevel[world]', x=49.36, y=36.32, z=2170.55, removed=DISCARDED]
+[23Jul2025 06:39:52.491] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802765, l='ServerLevel[world]', x=50.48, y=35.48, z=2167.58, removed=DISCARDED]
+[23Jul2025 06:39:52.680] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802770, l='ServerLevel[world]', x=50.58, y=34.42, z=2165.67, removed=DISCARDED]
+[23Jul2025 06:39:52.738] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802764, l='ServerLevel[world]', x=49.51, y=34.51, z=2167.25, removed=DISCARDED]
+[23Jul2025 06:39:52.794] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802767, l='ServerLevel[world]', x=49.38, y=34.61, z=2166.49, removed=DISCARDED]
+[23Jul2025 06:39:53.011] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803206, l='ServerLevel[world]', x=47.46, y=35.40, z=2168.36, removed=DISCARDED]
+[23Jul2025 06:39:53.476] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803217, l='ServerLevel[world]', x=46.55, y=34.17, z=2165.33, removed=DISCARDED]
+[23Jul2025 06:39:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [The Dust Settles]
+[23Jul2025 06:39:54.219] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803218, l='ServerLevel[world]', x=44.29, y=34.39, z=2163.57, removed=DISCARDED]
+[23Jul2025 06:39:54.344] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803211, l='ServerLevel[world]', x=43.59, y=34.16, z=2164.45, removed=DISCARDED]
+[23Jul2025 06:39:54.454] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803222, l='ServerLevel[world]', x=40.53, y=54.30, z=2173.73, removed=DISCARDED]
+[23Jul2025 06:39:54.811] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803201, l='ServerLevel[world]', x=41.44, y=35.53, z=2166.28, removed=DISCARDED]
+[23Jul2025 06:39:54.814] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[23Jul2025 06:39:55.822] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803215, l='ServerLevel[world]', x=40.59, y=34.27, z=2161.48, removed=DISCARDED]
+[23Jul2025 06:39:58.855] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802769, l='ServerLevel[world]', x=53.49, y=35.43, z=2174.25, removed=DISCARDED]
+[23Jul2025 06:39:58.970] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802762, l='ServerLevel[world]', x=51.58, y=36.31, z=2174.26, removed=DISCARDED]
+[23Jul2025 06:39:58.970] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802761, l='ServerLevel[world]', x=50.43, y=37.55, z=2174.47, removed=DISCARDED]
+[23Jul2025 06:39:59.036] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802760, l='ServerLevel[world]', x=52.29, y=35.26, z=2172.59, removed=DISCARDED]
+[23Jul2025 06:39:59.158] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802756, l='ServerLevel[world]', x=50.54, y=36.21, z=2171.51, removed=DISCARDED]
+[23Jul2025 06:39:59.158] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802808, l='ServerLevel[world]', x=82.51, y=32.35, z=2163.66, removed=DISCARDED]
+[23Jul2025 06:39:59.216] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802754, l='ServerLevel[world]', x=49.42, y=36.59, z=2171.66, removed=DISCARDED]
+[23Jul2025 06:39:59.273] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802759, l='ServerLevel[world]', x=50.73, y=35.15, z=2170.63, removed=DISCARDED]
+[23Jul2025 06:39:59.333] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802755, l='ServerLevel[world]', x=49.36, y=36.32, z=2170.55, removed=DISCARDED]
+[23Jul2025 06:39:59.390] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803222, l='ServerLevel[world]', x=40.53, y=54.30, z=2173.73, removed=DISCARDED]
+[23Jul2025 06:39:59.510] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802765, l='ServerLevel[world]', x=50.48, y=35.48, z=2167.58, removed=DISCARDED]
+[23Jul2025 06:39:59.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802764, l='ServerLevel[world]', x=49.51, y=34.51, z=2167.25, removed=DISCARDED]
+[23Jul2025 06:39:59.579] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803206, l='ServerLevel[world]', x=47.46, y=35.40, z=2168.36, removed=DISCARDED]
+[23Jul2025 06:39:59.701] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802767, l='ServerLevel[world]', x=49.38, y=34.61, z=2166.49, removed=DISCARDED]
+[23Jul2025 06:39:59.702] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802770, l='ServerLevel[world]', x=50.58, y=34.42, z=2165.67, removed=DISCARDED]
+[23Jul2025 06:39:59.874] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803217, l='ServerLevel[world]', x=46.55, y=34.17, z=2165.33, removed=DISCARDED]
+[23Jul2025 06:39:59.986] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803200, l='ServerLevel[world]', x=38.56, y=36.19, z=2168.48, removed=DISCARDED]
+[23Jul2025 06:40:00.047] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803201, l='ServerLevel[world]', x=41.44, y=35.53, z=2166.28, removed=DISCARDED]
+[23Jul2025 06:40:00.048] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803202, l='ServerLevel[world]', x=38.39, y=35.46, z=2167.34, removed=DISCARDED]
+[23Jul2025 06:40:00.048] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803211, l='ServerLevel[world]', x=43.59, y=34.16, z=2164.45, removed=DISCARDED]
+[23Jul2025 06:40:00.048] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803204, l='ServerLevel[world]', x=35.72, y=34.33, z=2168.50, removed=DISCARDED]
+[23Jul2025 06:40:00.105] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803218, l='ServerLevel[world]', x=44.29, y=34.39, z=2163.57, removed=DISCARDED]
+[23Jul2025 06:40:00.165] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803209, l='ServerLevel[world]', x=37.70, y=34.60, z=2166.61, removed=DISCARDED]
+[23Jul2025 06:40:00.273] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803208, l='ServerLevel[world]', x=35.57, y=34.38, z=2166.31, removed=DISCARDED]
+[23Jul2025 06:40:00.340] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803212, l='ServerLevel[world]', x=34.28, y=34.39, z=2166.41, removed=DISCARDED]
+[23Jul2025 06:40:00.340] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803214, l='ServerLevel[world]', x=38.69, y=34.26, z=2163.59, removed=DISCARDED]
+[23Jul2025 06:40:00.403] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803215, l='ServerLevel[world]', x=40.59, y=34.27, z=2161.48, removed=DISCARDED]
+[23Jul2025 06:40:04.461] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5803010, l='ServerLevel[world]', x=-15.73, y=50.37, z=2172.65, removed=DISCARDED]
+[23Jul2025 06:40:04.613] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/5802903, l='ServerLevel[world]', x=-17.73, y=52.35, z=2175.26, removed=DISCARDED]
+[23Jul2025 06:40:12.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Those Were the Days]
+[23Jul2025 06:40:12.719] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[23Jul2025 06:40:21.665] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.87660217285156) to MEDIUM (avg. 47.06586456298828)
+[23Jul2025 06:40:36.178] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.06586456298828) to HIGH (avg. 51.676475524902344)
+[23Jul2025 06:40:51.110] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.676475524902344) to NORMAL (avg. 42.15536880493164)
+[23Jul2025 06:41:06.130] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.15536880493164) to HIGH (avg. 49.66191482543945)
+[23Jul2025 06:41:12.051] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:17.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 3.5792797879366276,0.0,-9.616487528604466
+[23Jul2025 06:41:18.327] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:24.721] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:24.752] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:25.490] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:25.490] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:25.639] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:25.640] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:41:28.895] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Timed out
+[23Jul2025 06:41:28.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[23Jul2025 06:41:29.120] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.096900939941406) to NORMAL (avg. 45.14997100830078)
+[23Jul2025 06:41:43.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.14997100830078) to LOW (avg. 26.420591354370117)
+[23Jul2025 06:41:55.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:50979] logged in with entity id 5937258 at (129.18598464829844, 65.81726184386858, 1519.0043473578494)
+[23Jul2025 06:41:55.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[23Jul2025 06:41:55.862] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/5937258, l='ServerLevel[world]', x=129.19, y=67.02, z=1519.00] logged in and will be protected for 90 secs.
+[23Jul2025 06:41:58.838] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 26.420591354370117) to HIGH (avg. 49.43736267089844)
+[23Jul2025 06:42:06.433] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.43736267089844) to MEDIUM (avg. 46.938995361328125)
+[23Jul2025 06:42:13.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.938995361328125) to HIGH (avg. 53.6977424621582)
+[23Jul2025 06:42:21.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.6977424621582) to MEDIUM (avg. 48.955467224121094)
+[23Jul2025 06:42:23.982] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 28 secs.
+[23Jul2025 06:42:23.982] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[23Jul2025 06:42:35.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/5937422, l='ServerLevel[world]', x=86.56, y=30.00, z=1531.40] died: Headless Warrior fell from a high place
+[23Jul2025 06:42:43.775] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.84008026123047) to HIGH (avg. 49.825931549072266)
+[23Jul2025 06:42:52.445] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Timed out
+[23Jul2025 06:42:52.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[23Jul2025 06:43:06.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.81028366088867) to LOW (avg. 38.57481002807617)
+[23Jul2025 06:43:36.638] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@28feb6aa[id=<null>,name=Pancho,properties={},legacy=false] (/100.85.30.20:51184): Took too long to log in
+[23Jul2025 06:43:36.640] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@28feb6aa[id=<null>,name=Pancho,properties={},legacy=false] (/100.85.30.20:51184) lost connection: Took too long to log in
+[23Jul2025 06:43:36.687] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jul2025 06:43:53.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pancho[/100.85.30.20:49429] logged in with entity id 5980054 at (129.18598464829844, 65.81726184386858, 1519.0043473578494)
+[23Jul2025 06:43:53.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho joined the game
+[23Jul2025 06:43:53.859] [Server thread/INFO] [APTweaks(Player)/]: Player Pancho ServerPlayer['Pancho'/5980054, l='ServerLevel[world]', x=129.19, y=67.02, z=1519.00] logged in and will be protected for 90 secs.
+[23Jul2025 06:43:58.678] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.48379898071289) to HIGH (avg. 51.117698669433594)
+[23Jul2025 06:44:06.466] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.117698669433594) to MEDIUM (avg. 48.56592559814453)
+[23Jul2025 06:44:21.125] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.56592559814453) to HIGH (avg. 49.391258239746094)
+[23Jul2025 06:44:26.972] [Server thread/INFO] [APTweaks(Player)/]: Protected Player Pancho was successful validated after 33 secs.
+[23Jul2025 06:44:26.972] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player Pancho!
+[23Jul2025 06:44:34.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> xaero-waypoint:portal:P:154:79:-24:5:false:0:Internal-the-nether-waypoints
+[23Jul2025 06:44:36.272] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.391258239746094) to VERY_HIGH (avg. 56.512123107910156)
+[23Jul2025 06:44:38.525] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:44:38.525] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:44:38.830] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:44:38.830] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 06:44:51.106] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.512123107910156) to LOW (avg. 35.579715728759766)
+[23Jul2025 06:45:06.292] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.579715728759766) to NORMAL (avg. 45.00152587890625)
+[23Jul2025 06:45:21.186] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.02998352050781) to HIGH (avg. 49.379905700683594)
+[23Jul2025 06:45:29.467] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.379905700683594) to MEDIUM (avg. 48.88794708251953)
+[23Jul2025 06:45:43.632] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.88794708251953) to NORMAL (avg. 44.594207763671875)
+[23Jul2025 06:45:51.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho lost connection: Disconnected
+[23Jul2025 06:45:51.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho left the game
+[23Jul2025 06:45:58.606] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.594207763671875) to LOW (avg. 24.56640625)

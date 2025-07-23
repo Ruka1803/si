@@ -8151,6 +8151,7 @@
   },
   "incendium:toxic_heap/mystic_wisdom": {
     "criteria": {
+      "waste": "2025-07-23 06:34:49 +0000",
       "junk": "2025-07-23 06:34:34 +0000"
     },
     "done": false
@@ -8338,6 +8339,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_button_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-07-23 06:40:12 +0000"
     },
     "done": true
   },
