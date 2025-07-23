@@ -3217,6 +3217,7 @@
       "minecraft:blaze": "2025-07-23 05:27:36 +0000",
       "minecraft:skeleton": "2025-07-21 04:26:49 +0000",
       "minecraft:vindicator": "2025-07-19 06:53:27 +0000",
+      "minecraft:magma_cube": "2025-07-23 05:48:24 +0000",
       "minecraft:spider": "2025-07-21 03:06:08 +0000",
       "minecraft:creeper": "2025-07-21 02:24:53 +0000",
       "minecraft:evoker": "2025-07-21 03:05:22 +0000",
@@ -7902,6 +7903,12 @@
     },
     "done": true
   },
+  "inventorypets:spider": {
+    "criteria": {
+      "crafting_table": "2025-07-23 05:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-23 03:53:47 +0000"
@@ -8049,6 +8056,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:quartz_flats": "2025-07-23 05:52:42 +0000",
       "incendium:withered_forest": "2025-07-23 05:24:21 +0000"
     },
     "done": false
@@ -8242,6 +8250,12 @@
   "immersive_weathering:recipes/soot": {
     "criteria": {
       "has_copper_block": "2025-07-23 05:24:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-07-23 05:52:42 +0000"
     },
     "done": true
   },

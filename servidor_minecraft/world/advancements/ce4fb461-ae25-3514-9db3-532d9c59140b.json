@@ -9149,9 +9149,9 @@
     },
     "done": true
   },
-  "incendium:withered_forest/kill_spirit": {
+  "inventorypets:snowgolem": {
     "criteria": {
-      "requirement": "2025-07-23 05:38:04 +0000"
+      "crafting_table": "2025-07-23 04:59:37 +0000"
     },
     "done": true
   },
@@ -9167,9 +9167,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/snow": {
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
-      "has_snowball": "2025-07-23 05:38:04 +0000"
+      "has_brown_terracotta": "2025-07-23 05:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-07-23 05:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-23 05:06:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-23 05:07:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-23 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_boots": {
+    "criteria": {
+      "has_item": "2025-07-23 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_helmet": {
+    "criteria": {
+      "has_item": "2025-07-23 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-07-23 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
+    "criteria": {
+      "has_item": "2025-07-23 05:08:34 +0000"
     },
     "done": true
   },
@@ -9179,21 +9227,9 @@
     },
     "done": true
   },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2025-07-23 05:24:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_glazed_terracotta": {
-    "criteria": {
-      "has_brown_terracotta": "2025-07-23 05:06:38 +0000"
     },
     "done": true
   },
@@ -9215,30 +9251,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
-    "criteria": {
-      "requirement": "2025-07-23 05:32:47 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/loot_piglin_village": {
-    "criteria": {
-      "incendium:lumberjack": "2025-07-23 05:41:47 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
-    "criteria": {
-      "has_item": "2025-07-23 05:16:16 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
@@ -9254,36 +9266,6 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/combat/armor_electric_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-23 05:08:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_boots": {
-    "criteria": {
-      "has_item": "2025-07-23 05:08:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_helmet": {
-    "criteria": {
-      "has_item": "2025-07-23 05:08:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-07-23 05:23:12 +0000"
     },
     "done": true
   },
@@ -9305,33 +9287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-07-23 05:06:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-07-23 05:06:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2025-07-23 05:08:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-07-23 05:07:24 +0000"
     },
     "done": true
   },
@@ -9341,27 +9299,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_electric_leggings": {
-    "criteria": {
-      "has_item": "2025-07-23 05:08:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/soot": {
-    "criteria": {
-      "has_copper_block": "2025-07-23 05:27:18 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:snowgolem": {
-    "criteria": {
-      "crafting_table": "2025-07-23 04:59:37 +0000"
     },
     "done": true
   },
@@ -9377,9 +9317,81 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-07-23 05:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-07-23 05:23:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-07-23 05:24:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
+    },
+    "done": false
+  },
+  "immersive_weathering:recipes/soot": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 05:27:18 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-07-23 05:32:47 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-07-23 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-23 05:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-07-23 05:38:04 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/loot_piglin_village": {
+    "criteria": {
+      "incendium:lumberjack": "2025-07-23 05:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-23 05:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-23 05:46:28 +0000"
     },
     "done": true
   },
