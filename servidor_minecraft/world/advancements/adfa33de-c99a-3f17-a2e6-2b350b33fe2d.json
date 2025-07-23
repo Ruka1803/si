@@ -1752,6 +1752,7 @@
       "minecraft:frozen_river": "2025-07-20 03:04:57 +0000",
       "minecraft:sunflower_plains": "2025-07-21 21:33:13 +0000",
       "minecraft:birch_forest": "2025-07-21 03:53:52 +0000",
+      "minecraft:badlands": "2025-07-23 05:06:51 +0000",
       "minecraft:beach": "2025-07-20 22:37:19 +0000",
       "minecraft:dark_forest": "2025-07-21 03:49:29 +0000",
       "minecraft:mangrove_swamp": "2025-07-21 21:23:59 +0000",
@@ -7867,6 +7868,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-07-23 05:06:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-07-23 05:07:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-07-23 04:26:31 +0000"
@@ -7879,9 +7892,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-07-23 05:06:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-07-23 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-07-23 05:07:20 +0000"
     },
     "done": true
   },
@@ -8000,6 +8025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-23 05:06:54 +0000"
+    },
+    "done": true
+  },
   "inventorypets:magmacube": {
     "criteria": {
       "crafting_table": "2025-07-23 03:42:36 +0000"
@@ -8021,6 +8052,12 @@
   "minecraft:recipes/woodcutting/acacia/acacia_slab_from_acacia_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-23 05:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-23 05:07:03 +0000"
     },
     "done": true
   },

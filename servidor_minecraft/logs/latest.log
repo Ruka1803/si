@@ -2335,3 +2335,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 04:59:37.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Pumpkinhead!]
 [23Jul2025 05:03:39.973] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.419841766357422) to VERY_HIGH (avg. 64.42814636230469)
 [23Jul2025 05:03:47.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.42814636230469) to LOW (avg. 36.96708679199219)
+[23Jul2025 05:07:09.829] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 28.476978302001953) to NORMAL (avg. 44.86222839355469)
+[23Jul2025 05:07:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.86222839355469) to LOW (avg. 33.761695861816406)
+[23Jul2025 05:07:20.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Dragonslayer]
+[23Jul2025 05:08:02.333] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.76576805114746) to NORMAL (avg. 40.25546646118164)
+[23Jul2025 05:08:09.852] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.25546646118164) to LOW (avg. 33.930545806884766)
+[23Jul2025 05:08:57.632] [Worker-Main-5/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=278, y=-42, z=-77}
+[23Jul2025 05:09:02.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.44145584106445) to NORMAL (avg. 43.76042175292969)
+[23Jul2025 05:09:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.76042175292969) to LOW (avg. 32.644813537597656)
+[23Jul2025 05:12:02.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.272216796875) to NORMAL (avg. 43.65422821044922)
+[23Jul2025 05:12:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.65422821044922) to LOW (avg. 38.958473205566406)
+[23Jul2025 05:15:25.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [Dragon Commander]
+[23Jul2025 05:15:39.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [An Ear-Shattering Roar]
+[23Jul2025 05:15:44.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has made the advancement [The Song of the Dragons]
