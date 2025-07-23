@@ -2277,3 +2277,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 04:14:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.4510498046875) to NORMAL (avg. 41.572662353515625)
 [23Jul2025 04:14:24.911] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.572662353515625) to VERY_HIGH (avg. 62.247074127197266)
 [23Jul2025 04:14:32.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 62.247074127197266) to NORMAL (avg. 44.26470184326172)
+[23Jul2025 04:14:43.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> xaero-waypoint:corazones:C:890:87:-692:15:false:0:Internal-overworld-waypoints
+[23Jul2025 04:14:47.631] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.26470184326172) to LOW (avg. 39.15721130371094)
+[23Jul2025 04:14:54.825] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.15721130371094) to HIGH (avg. 49.968231201171875)
+[23Jul2025 04:15:09.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.968231201171875) to LOW (avg. 39.10133361816406)
+[23Jul2025 04:15:24.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.10133361816406) to NORMAL (avg. 41.21357727050781)
+[23Jul2025 04:15:33.804] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/1955431, l='ServerLevel[world]', x=1014.53, y=31.52, z=-371.64, removed=DISCARDED]
+[23Jul2025 04:16:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.2041130065918) to LOW (avg. 39.047691345214844)
+[23Jul2025 04:16:39.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.29721450805664) to NORMAL (avg. 40.72921371459961)
+[23Jul2025 04:16:42.472] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[23Jul2025 04:16:42.472] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[23Jul2025 04:17:24.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.682777404785156) to LOW (avg. 36.83642578125)
+[23Jul2025 04:18:09.959] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.205623626708984) to NORMAL (avg. 42.61534881591797)
+[23Jul2025 04:18:24.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.61534881591797) to LOW (avg. 35.38044357299805)
+[23Jul2025 04:18:39.833] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.38044357299805) to MEDIUM (avg. 47.38139724731445)
+[23Jul2025 04:18:47.307] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.38139724731445) to LOW (avg. 37.41887283325195)
+[23Jul2025 04:18:54.818] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.41887283325195) to HIGH (avg. 49.22876739501953)
+[23Jul2025 04:19:02.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.22876739501953) to NORMAL (avg. 40.2490119934082)
+[23Jul2025 04:19:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxLarryGoatxX: Set Home at (1129, 51, -188)(-109, 30)]
+[23Jul2025 04:19:17.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.2490119934082) to LOW (avg. 35.924842834472656)
+[23Jul2025 04:20:29.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved wrongly!
+[23Jul2025 04:21:55.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved wrongly!
+[23Jul2025 04:23:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX was struck with lightning by a dragon
+[23Jul2025 04:24:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho was slain by Lightning Dragon
