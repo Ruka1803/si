@@ -2508,3 +2508,80 @@ com.google.gson.JsonSyntaxException: Unknown item 'born_in_chaos_v1:dark_metal_a
 [23Jul2025 05:26:09.879] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [23Jul2025 05:26:31.641] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [23Jul2025 05:26:31.641] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:38.497] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:38.498] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:38.741] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:38.742] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:42.571] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.55475616455078) to VERY_HIGH (avg. 73.19312286376953)
+[23Jul2025 05:26:43.258] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:43.259] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:43.314] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:43.567] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:43.567] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:43.568] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:26:43.569] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:04.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.2247428894043) to NORMAL (avg. 43.88951110839844)
+[23Jul2025 05:27:16.515] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:16.580] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:16.638] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:16.695] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:16.695] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:16.696] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:16.749] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:18.479] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:18.480] [Worker-Main-69/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:18.484] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:18.485] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:18.485] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:27:19.719] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.88951110839844) to VERY_HIGH (avg. 55.44221496582031)
+[23Jul2025 05:27:27.436] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.44221496582031) to HIGH (avg. 49.04527282714844)
+[23Jul2025 05:27:48.451] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/3972134, l='ServerLevel[world]', x=-443.65, y=59.00, z=62.64] died: Headless Warrior was slain by XxLarryGoatxX
+[23Jul2025 05:27:56.857] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.14085388183594) to NORMAL (avg. 45.86711883544922)
+[23Jul2025 05:28:08.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/3972137, l='ServerLevel[world]', x=-485.42, y=65.00, z=67.50] died: Headless Warrior was slain by XxLarryGoatxX
+[23Jul2025 05:28:11.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.86711883544922) to MEDIUM (avg. 47.02705001831055)
+[23Jul2025 05:28:16.796] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:28:23.875] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:28:23.875] [Worker-Main-53/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:28:24.010] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:28:24.010] [Worker-Main-4/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:28:34.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.671966552734375) to LOW (avg. 30.788881301879883)
+[23Jul2025 05:28:38.796] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/3972135, l='ServerLevel[world]', x=-473.92, y=60.00, z=51.03] died: Headless Warrior was slain by XxLarryGoatxX
+[23Jul2025 05:28:56.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.81789779663086) to NORMAL (avg. 40.3366584777832)
+[23Jul2025 05:29:11.699] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/4058670, l='ServerLevel[world]', x=-526.89, y=71.00, z=-18.98] died: Headless Warrior was slain by Pancho
+[23Jul2025 05:29:15.756] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/4052069, l='ServerLevel[world]', x=-534.92, y=68.00, z=-24.52] died: Headless Warrior was slain by Pancho
+[23Jul2025 05:29:21.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/4052071, l='ServerLevel[world]', x=-541.69, y=68.00, z=-30.59] died: Headless Warrior was slain by Pancho
+[23Jul2025 05:29:24.148] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/4052070, l='ServerLevel[world]', x=-545.79, y=68.00, z=-34.85] died: Headless Warrior was slain by Pancho
+[23Jul2025 05:29:26.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.42072677612305) to LOW (avg. 39.3349609375)
+[23Jul2025 05:29:32.593] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/4023210, l='ServerLevel[world]', x=-536.56, y=66.00, z=11.71] died: Headless Warrior was slain by Pancho
+[23Jul2025 05:29:41.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.3349609375) to NORMAL (avg. 42.4448356628418)
+[23Jul2025 05:29:49.855] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/4087483, l='ServerLevel[world]', x=-519.52, y=80.00, z=-35.11] died: Headless Warrior was slain by Pancho
+[23Jul2025 05:30:07.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/4099122, l='ServerLevel[world]', x=-478.44, y=97.00, z=-88.76] died: Headless Warrior was slain by Pancho
+[23Jul2025 05:30:11.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.49823760986328) to MEDIUM (avg. 46.76360321044922)
+[23Jul2025 05:30:23.158] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:30:23.159] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:30:23.163] [Worker-Main-5/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:30:24.956] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:30:24.957] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:30:24.958] [Worker-Main-70/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[23Jul2025 05:30:26.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.76360321044922) to NORMAL (avg. 44.770267486572266)
+[23Jul2025 05:30:46.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/4103608, l='ServerLevel[world]', x=-455.35, y=67.00, z=-152.06] died: Withering Archer was shot by Withering Archer
+[23Jul2025 05:31:46.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/4084267, l='ServerLevel[world]', x=-479.22, y=-20.00, z=46.28] died: Restless Spirit was killed
+[23Jul2025 05:31:56.863] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.027976989746094) to MEDIUM (avg. 47.28739547729492)
+[23Jul2025 05:32:19.377] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.65904998779297) to HIGH (avg. 49.591941833496094)
+[23Jul2025 05:32:34.457] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.591941833496094) to MEDIUM (avg. 47.318092346191406)
+[23Jul2025 05:32:41.967] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.318092346191406) to HIGH (avg. 51.039485931396484)
+[23Jul2025 05:32:47.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Defunct Machinery]
+[23Jul2025 05:33:11.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.447391510009766) to NORMAL (avg. 45.676273345947266)
+[23Jul2025 05:33:24.773] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/4123402, l='ServerLevel[world]', x=-473.83, y=-20.00, z=-37.19] died: Restless Spirit was killed
+[23Jul2025 05:33:34.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.122093200683594) to HIGH (avg. 53.017982482910156)
+[23Jul2025 05:33:41.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.017982482910156) to NORMAL (avg. 45.32417297363281)
+[23Jul2025 05:33:56.873] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.32417297363281) to MEDIUM (avg. 48.95763397216797)
+[23Jul2025 05:34:11.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.95763397216797) to NORMAL (avg. 41.449649810791016)
+[23Jul2025 05:34:34.366] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.619224548339844) to MEDIUM (avg. 47.993507385253906)
+[23Jul2025 05:34:41.856] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.993507385253906) to NORMAL (avg. 44.66899108886719)
+[23Jul2025 05:34:53.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! -10.761703672269732,0.0,-0.21003764087591748
+[23Jul2025 05:34:57.477] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.66899108886719) to HIGH (avg. 50.65862274169922)
+[23Jul2025 05:35:19.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.58076095581055) to NORMAL (avg. 41.81665802001953)
+[23Jul2025 05:35:34.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.81665802001953) to LOW (avg. 35.88139724731445)
+[23Jul2025 05:36:19.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.9659538269043) to NORMAL (avg. 42.398468017578125)
+[23Jul2025 05:36:49.356] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.674739837646484) to LOW (avg. 38.17158508300781)

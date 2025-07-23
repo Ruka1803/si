@@ -2035,6 +2035,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-21 03:18:03 +0000",
+      "minecraft:blaze": "2025-07-23 05:23:45 +0000",
       "minecraft:skeleton": "2025-07-20 21:24:22 +0000",
       "minecraft:ghast": "2025-07-21 23:25:21 +0000",
       "minecraft:hoglin": "2025-07-21 22:45:35 +0000",
@@ -2043,6 +2044,7 @@
       "minecraft:piglin_brute": "2025-07-21 22:44:10 +0000",
       "minecraft:creeper": "2025-07-23 00:33:19 +0000",
       "minecraft:witch": "2025-07-20 05:00:20 +0000",
+      "minecraft:wither_skeleton": "2025-07-23 05:24:19 +0000",
       "minecraft:husk": "2025-07-21 20:49:02 +0000",
       "minecraft:piglin": "2025-07-21 22:33:48 +0000",
       "minecraft:enderman": "2025-07-21 21:18:38 +0000",
@@ -9163,6 +9165,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-07-23 05:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
@@ -9193,9 +9201,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-07-23 05:32:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_lightning": {
     "criteria": {
       "has_item": "2025-07-23 05:16:16 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
     },
     "done": true
   },
@@ -9216,6 +9236,12 @@
       "has_terracotta": "2025-07-23 05:09:57 +0000"
     },
     "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-07-23 05:24:12 +0000"
+    },
+    "done": false
   },
   "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
@@ -9304,6 +9330,12 @@
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-07-23 05:09:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/soot": {
+    "criteria": {
+      "has_copper_block": "2025-07-23 05:27:18 +0000"
     },
     "done": true
   },
