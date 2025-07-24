@@ -707,3 +707,83 @@
 [24Jul2025 03:02:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.76264953613281) to MEDIUM (avg. 46.86259460449219)
 [24Jul2025 03:02:57.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.20433807373047) to NORMAL (avg. 42.68634033203125)
 [24Jul2025 03:04:12.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.95795440673828) to LOW (avg. 39.7850456237793)
+[24Jul2025 03:04:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.67797088623047) to NORMAL (avg. 42.111473083496094)
+[24Jul2025 03:04:43.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: XxLarryGoatxX has reached the goal [Flawless Crystals]
+[24Jul2025 03:05:04.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.33568572998047) to LOW (avg. 39.57195281982422)
+[24Jul2025 03:05:12.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.57195281982422) to NORMAL (avg. 41.401817321777344)
+[24Jul2025 03:05:27.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.401817321777344) to LOW (avg. 38.96601486206055)
+[24Jul2025 03:05:42.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.96601486206055) to NORMAL (avg. 40.916297912597656)
+[24Jul2025 03:05:49.962] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.916297912597656) to MEDIUM (avg. 47.42946243286133)
+[24Jul2025 03:06:10.664] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[24Jul2025 03:06:10.664] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundUseItemPacket@3073c4bb, suppressing error
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.daphne.lethality.util.ModUtils.addColorGradientText(ModUtils.java:110) ~[lethality-0.2-1.20.1.jar%23244!/:0.1-1.20.1]
+	at net.daphne.lethality.item.custom.DefiledGreatswordItem.m_7626_(DefiledGreatswordItem.java:46) ~[lethality-0.2-1.20.1.jar%23244!/:0.1-1.20.1]
+	at net.minecraft.world.item.ItemStack.m_41786_(ItemStack.java:580) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.world.item.ItemStack.m_41611_(ItemStack.java:911) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at com.inventorypets.pets.petIlluminati.m_7203_(petIlluminati.java:574) ~[inventorypets-1.20.1-2.1.3.jar%23239!/:1.20.1-2.1.3]
+	at net.minecraft.world.item.ItemStack.m_41682_(ItemStack.java:275) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameMode.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerGamePacketListenerImpl.java:1085) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:29) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(ServerboundUseItemPacket.java:7) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23279!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[24Jul2025 03:06:13.080] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.832435607910156) to HIGH (avg. 49.078163146972656)
+[24Jul2025 03:06:21.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> tijera
+[24Jul2025 03:06:28.890] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.078163146972656) to MEDIUM (avg. 47.11824035644531)
+[24Jul2025 03:06:36.605] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.11824035644531) to HIGH (avg. 49.24460220336914)
+[24Jul2025 03:06:44.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2780ms or 55 ticks behind
+[24Jul2025 03:06:44.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved too quickly! 0.9953397427591426,0.0,10.295582051229985
+[24Jul2025 03:06:44.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pancho moved too quickly! 0.05851498760330287,0.0,10.323995346581171
+[24Jul2025 03:07:15.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.83218765258789) to NORMAL (avg. 45.07378005981445)
+[24Jul2025 03:07:23.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved too quickly! 0.0024099770710108714,0.0,10.34441047146504
+[24Jul2025 03:08:00.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.21752166748047) to LOW (avg. 39.679893493652344)
+[24Jul2025 03:08:15.233] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.679893493652344) to MEDIUM (avg. 46.9433479309082)
+[24Jul2025 03:08:22.702] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.9433479309082) to NORMAL (avg. 43.25701141357422)
+[24Jul2025 03:08:37.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.25701141357422) to LOW (avg. 37.70062255859375)
+[24Jul2025 03:09:07.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.725101470947266) to NORMAL (avg. 42.982032775878906)
+[24Jul2025 03:09:15.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.982032775878906) to LOW (avg. 38.405582427978516)
+[24Jul2025 03:09:30.421] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.405582427978516) to NORMAL (avg. 45.71752166748047)
+[24Jul2025 03:09:52.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.27180099487305) to LOW (avg. 39.30894088745117)
+[24Jul2025 03:10:00.215] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.30894088745117) to MEDIUM (avg. 46.741302490234375)
+[24Jul2025 03:10:07.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.741302490234375) to NORMAL (avg. 42.09095001220703)
+[24Jul2025 03:10:37.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.92573547363281) to LOW (avg. 37.932987213134766)
+[24Jul2025 03:10:52.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.932987213134766) to NORMAL (avg. 40.58441162109375)
+[24Jul2025 03:11:15.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.48112869262695) to LOW (avg. 39.13020324707031)
+[24Jul2025 03:11:55.686] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1142, y=78, z=1026}
+[24Jul2025 03:12:07.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.15713119506836) to NORMAL (avg. 40.609981536865234)
+[24Jul2025 03:12:30.603] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.94862365722656) to HIGH (avg. 49.218360900878906)
+[24Jul2025 03:12:36.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/6924259, l='ServerLevel[world]', x=1191.17, y=78.51, z=1112.75] died: Honeyed Archer suffocated in a wall
+[24Jul2025 03:12:42.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [panela_limon: Set Home at (1120, 51, -192)(-11, 18)]
+[24Jul2025 03:12:43.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [XxLarryGoatxX: Set Home at (1126, 51, -193)(-174, 52)]
+[24Jul2025 03:12:52.266] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[24Jul2025 03:12:55.399] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.88953399658203) to VERY_HIGH (avg. 55.33408737182617)
+[24Jul2025 03:13:09.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[24Jul2025 03:13:12.320] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.33408737182617) to HIGH (avg. 52.132164001464844)
+[24Jul2025 03:13:27.119] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.132164001464844) to NORMAL (avg. 43.10122299194336)
+[24Jul2025 03:13:42.101] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.10122299194336) to LOW (avg. 38.44818115234375)
+[24Jul2025 03:14:12.107] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.979400634765625) to MEDIUM (avg. 46.22074508666992)
+[24Jul2025 03:14:19.601] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.22074508666992) to NORMAL (avg. 41.86651611328125)

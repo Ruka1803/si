@@ -12201,6 +12201,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/birch_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-07-24 03:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-24 03:02:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-24 03:02:06 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/ancient_knowledge": {
     "criteria": {
       "blood_container": "2025-07-24 02:45:10 +0000"
