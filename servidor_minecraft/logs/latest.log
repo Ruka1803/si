@@ -678,3 +678,32 @@
 [24Jul2025 02:52:22.738] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/6434024, l='ServerLevel[world]', x=1143.50, y=-22.00, z=-152.50]
 [24Jul2025 02:52:32.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon moved too quickly! -3.7484717495019595,6.947652987709219,-6.600327669529975
 [24Jul2025 02:52:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.626522064208984) to NORMAL (avg. 42.469879150390625)
+[24Jul2025 02:53:57.486] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.389122009277344) to HIGH (avg. 51.555931091308594)
+[24Jul2025 02:54:04.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 51.555931091308594) to MEDIUM (avg. 46.585777282714844)
+[24Jul2025 02:54:19.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.585777282714844) to LOW (avg. 39.7614860534668)
+[24Jul2025 02:54:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.7614860534668) to NORMAL (avg. 42.076873779296875)
+[24Jul2025 02:55:32.997] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1129, y=73, z=-166}
+[24Jul2025 02:55:42.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.4542236328125) to MEDIUM (avg. 47.18462371826172)
+[24Jul2025 02:55:45.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> piedra
+[24Jul2025 02:55:45.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> piedra
+[24Jul2025 02:55:49.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.18462371826172) to NORMAL (avg. 45.44273376464844)
+[24Jul2025 02:55:57.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> piedra
+[24Jul2025 02:55:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <XxLarryGoatxX> tijera
+[24Jul2025 02:56:12.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.418331146240234) to MEDIUM (avg. 47.172828674316406)
+[24Jul2025 02:56:19.968] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.172828674316406) to HIGH (avg. 50.05846405029297)
+[24Jul2025 02:56:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.05846405029297) to NORMAL (avg. 45.7017822265625)
+[24Jul2025 02:56:49.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.7017822265625) to MEDIUM (avg. 46.43293762207031)
+[24Jul2025 02:56:57.047] [Server thread/WARN] [de.teamlapen.vampirism.entity.player.vampire.VampirePlayer/]: Block sent by client is not in reachBlockPos{x=1108, y=70, z=-128}
+[24Jul2025 02:57:12.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.984867095947266) to NORMAL (avg. 40.05345153808594)
+[24Jul2025 02:57:27.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.05345153808594) to LOW (avg. 37.73679733276367)
+[24Jul2025 02:57:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.73679733276367) to NORMAL (avg. 41.01482009887695)
+[24Jul2025 02:57:49.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.01482009887695) to LOW (avg. 39.93024444580078)
+[24Jul2025 02:58:12.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.25145721435547) to NORMAL (avg. 44.19737243652344)
+[24Jul2025 02:58:19.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.19737243652344) to LOW (avg. 37.70640563964844)
+[24Jul2025 02:58:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.70640563964844) to NORMAL (avg. 42.02803039550781)
+[24Jul2025 02:58:42.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.02803039550781) to LOW (avg. 39.33559036254883)
+[24Jul2025 02:58:49.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.33559036254883) to NORMAL (avg. 42.56568908691406)
+[24Jul2025 02:59:23.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> xaero-waypoint:boss:B:1140:109:1026:7:false:0:Internal-overworld-waypoints
+[24Jul2025 03:02:34.951] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.76264953613281) to MEDIUM (avg. 46.86259460449219)
+[24Jul2025 03:02:57.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.20433807373047) to NORMAL (avg. 42.68634033203125)
+[24Jul2025 03:04:12.451] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.95795440673828) to LOW (avg. 39.7850456237793)
