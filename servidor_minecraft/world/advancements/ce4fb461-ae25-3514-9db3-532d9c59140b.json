@@ -10013,6 +10013,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "yellow": "2025-07-24 02:20:14 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-24 02:09:40 +0000"

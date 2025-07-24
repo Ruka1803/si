@@ -561,3 +561,64 @@
 [24Jul2025 02:21:38.692] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.32743835449219) to MEDIUM (avg. 48.991268157958984)
 [24Jul2025 02:21:46.212] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.991268157958984) to HIGH (avg. 51.06366729736328)
 [24Jul2025 02:23:15.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.26821517944336) to NORMAL (avg. 44.622013092041016)
+[24Jul2025 02:23:32.008] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.622013092041016) to HIGH (avg. 52.95418930053711)
+[24Jul2025 02:23:39.781] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.95418930053711) to MEDIUM (avg. 48.011619567871094)
+[24Jul2025 02:23:43.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[24Jul2025 02:23:55.206] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.011619567871094) to NORMAL (avg. 45.45967483520508)
+[24Jul2025 02:24:02.713] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.45967483520508) to MEDIUM (avg. 48.16562271118164)
+[24Jul2025 02:24:10.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.16562271118164) to NORMAL (avg. 45.966941833496094)
+[24Jul2025 02:24:19.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon lost connection: Disconnected
+[24Jul2025 02:24:19.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon left the game
+[24Jul2025 02:24:40.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.486392974853516) to LOW (avg. 39.29358673095703)
+[24Jul2025 02:24:46.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.116.85.85:65513] logged in with entity id 5561299 at (1134.3460946921678, 63.0, -233.35528500501886)
+[24Jul2025 02:24:46.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[24Jul2025 02:24:46.274] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/5561299, l='ServerLevel[world]', x=1134.35, y=63.00, z=-233.36] logged in and will be protected for 90 secs.
+[24Jul2025 02:24:47.938] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.29358673095703) to HIGH (avg. 50.89198684692383)
+[24Jul2025 02:25:10.332] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.54758071899414) to MEDIUM (avg. 48.69032669067383)
+[24Jul2025 02:25:20.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon lost connection: Disconnected
+[24Jul2025 02:25:20.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon left the game
+[24Jul2025 02:25:25.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.69032669067383) to NORMAL (avg. 41.34052658081055)
+[24Jul2025 02:26:17.806] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.15234375) to HIGH (avg. 49.999122619628906)
+[24Jul2025 02:26:32.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.999122619628906) to LOW (avg. 39.15045928955078)
+[24Jul2025 02:26:47.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.15045928955078) to NORMAL (avg. 40.700836181640625)
+[24Jul2025 02:27:02.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jul2025 02:27:03.331] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jul2025 02:27:05.730] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jul2025 02:27:06.429] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jul2025 02:27:10.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jul2025 02:27:11.929] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jul2025 02:27:21.432] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jul2025 02:27:59.975] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.116.85.85:49167] logged in with entity id 5656519 at (1134.3460946921678, 63.0, -233.35528500501886)
+[24Jul2025 02:27:59.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[24Jul2025 02:28:00.085] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/5656519, l='ServerLevel[world]', x=1134.35, y=63.00, z=-233.36] logged in and will be protected for 90 secs.
+[24Jul2025 02:28:03.316] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.081180572509766) to HIGH (avg. 54.92355728149414)
+[24Jul2025 02:28:19.529] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.75526428222656) to VERY_HIGH (avg. 58.393985748291016)
+[24Jul2025 02:28:21.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 02:28:39.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[24Jul2025 02:28:55.508] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 55 secs.
+[24Jul2025 02:28:55.508] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[24Jul2025 02:29:01.314] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.75680160522461) to HIGH (avg. 53.151878356933594)
+[24Jul2025 02:29:03.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[24Jul2025 02:29:17.313] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.151878356933594) to VERY_HIGH (avg. 55.69623565673828)
+[24Jul2025 02:29:25.778] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.69623565673828) to HIGH (avg. 53.52375411987305)
+[24Jul2025 02:29:27.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Jul2025 02:29:30.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved wrongly!
+[24Jul2025 02:29:48.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Jul2025 02:29:57.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved wrongly!
+[24Jul2025 02:30:09.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Jul2025 02:30:20.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [An Alloy To Remember]
+[24Jul2025 02:30:37.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Jul2025 02:30:55.685] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.05767822265625) to VERY_HIGH (avg. 56.99852752685547)
+[24Jul2025 02:31:03.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[24Jul2025 02:31:20.480] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.737770080566406) to HIGH (avg. 54.127140045166016)
+[24Jul2025 02:31:25.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Jul2025 02:31:37.485] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.127140045166016) to VERY_HIGH (avg. 57.118812561035156)
+[24Jul2025 02:31:42.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[24Jul2025 02:31:56.479] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/5812147, l='ServerLevel[world]', x=1218.69, y=-16.00, z=-157.32]
+[24Jul2025 02:32:01.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[24Jul2025 02:32:10.910] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.228431701660156) to HIGH (avg. 53.11552810668945)
+[24Jul2025 02:32:32.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Pet Scientist]
+[24Jul2025 02:32:32.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Vainglorious!]
+[24Jul2025 02:32:32.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 02:33:22.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Jul2025 02:33:29.753] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.791019439697266) to VERY_HIGH (avg. 55.31768798828125)
