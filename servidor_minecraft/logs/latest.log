@@ -154,3 +154,57 @@
 [24Jul2025 00:30:27.713] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 52.516754150390625) to MEDIUM (avg. 46.008567810058594)
 [24Jul2025 00:30:49.666] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.12736129760742) to HIGH (avg. 50.240821838378906)
 [24Jul2025 00:30:57.394] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.240821838378906) to MEDIUM (avg. 46.83551025390625)
+[24Jul2025 00:31:12.665] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.83551025390625) to VERY_HIGH (avg. 58.11266326904297)
+[24Jul2025 00:31:15.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Jul2025 00:31:21.401] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.11266326904297) to HIGH (avg. 50.42612075805664)
+[24Jul2025 00:31:37.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.42612075805664) to MEDIUM (avg. 47.27006912231445)
+[24Jul2025 00:31:44.596] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.27006912231445) to HIGH (avg. 50.88910675048828)
+[24Jul2025 00:31:59.103] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Jul2025 00:32:00.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.69841766357422) to VERY_HIGH (avg. 58.15321731567383)
+[24Jul2025 00:32:15.755] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 58.15321731567383) to MEDIUM (avg. 48.017005920410156)
+[24Jul2025 00:32:31.454] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.017005920410156) to HIGH (avg. 52.41655731201172)
+[24Jul2025 00:32:54.159] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.546207427978516) to MEDIUM (avg. 48.76356887817383)
+[24Jul2025 00:33:01.803] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.76356887817383) to VERY_HIGH (avg. 55.50871276855469)
+[24Jul2025 00:33:08.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Jul2025 00:33:09.631] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.50871276855469) to HIGH (avg. 51.05069351196289)
+[24Jul2025 00:33:42.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Jul2025 00:34:05.416] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.473411560058594) to VERY_HIGH (avg. 56.90371322631836)
+[24Jul2025 00:34:14.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Jul2025 00:34:29.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Weed Wacker]
+[24Jul2025 00:34:29.935] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.322914123535156) to HIGH (avg. 51.85049057006836)
+[24Jul2025 00:34:47.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Jul2025 00:34:55.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> miller
+[24Jul2025 00:35:06.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MilerinotFound> ?
+[24Jul2025 00:35:08.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mira
+[24Jul2025 00:35:14.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Jul2025 00:35:43.557] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Jul2025 00:36:20.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[24Jul2025 00:36:39.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> mira
+[24Jul2025 00:36:53.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Jul2025 00:36:57.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilerinotFound has made the advancement [Easy like a Sundae Morning]
+[24Jul2025 00:37:04.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> esque me quemo
+[24Jul2025 00:37:05.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> XD
+[24Jul2025 00:37:18.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Jul2025 00:37:25.687] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.66437911987305) to MEDIUM (avg. 47.97929763793945)
+[24Jul2025 00:37:26.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> ya es montable
+[24Jul2025 00:37:33.732] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 47.97929763793945) to HIGH (avg. 50.35121536254883)
+[24Jul2025 00:37:35.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pancho> y vuela que da miedo
+[24Jul2025 00:37:52.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Jul2025 00:37:58.110] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.882240295410156) to VERY_HIGH (avg. 56.882389068603516)
+[24Jul2025 00:38:14.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[24Jul2025 00:38:32.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 00:38:54.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Jul2025 00:38:56.222] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.727821350097656) to HIGH (avg. 51.41545867919922)
+[24Jul2025 00:39:12.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.41545867919922) to VERY_HIGH (avg. 57.21747970581055)
+[24Jul2025 00:39:17.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Jul2025 00:39:28.736] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.21747970581055) to HIGH (avg. 51.502960205078125)
+[24Jul2025 00:39:44.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 00:40:01.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.3859977722168) to VERY_HIGH (avg. 57.3409423828125)
+[24Jul2025 00:40:04.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Jul2025 00:40:20.897] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/1809524, l='ServerLevel[world]', x=1124.50, y=-44.00, z=-68.50]
+[24Jul2025 00:40:21.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2114ms or 42 ticks behind
+[24Jul2025 00:40:40.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 00:40:44.051] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 57.05778884887695) to HIGH (avg. 53.242454528808594)
+[24Jul2025 00:40:52.339] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 53.242454528808594) to VERY_HIGH (avg. 58.51339340209961)
+[24Jul2025 00:41:01.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[24Jul2025 00:41:16.790] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.57624435424805) to HIGH (avg. 51.75608825683594)

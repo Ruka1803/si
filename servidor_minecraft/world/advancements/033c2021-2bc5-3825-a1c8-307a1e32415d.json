@@ -14254,9 +14254,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-07-24 00:40:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-07-24 00:37:59 +0000"
     },
     "done": true
   },
@@ -14290,6 +14302,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-07-24 00:40:03 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/weeds": {
+    "criteria": {
+      "wheat": "2025-07-24 00:34:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 00:21:00 +0000"
@@ -14311,6 +14335,18 @@
   "vampirism:recipes/decorations/vampire/coffin_gray": {
     "criteria": {
       "has_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall": {
+    "criteria": {
+      "has_polished_cut_deepslate": "2025-07-24 00:40:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sundae": {
+    "criteria": {
+      "mussel": "2025-07-24 00:36:57 +0000"
     },
     "done": true
   },
