@@ -17141,3 +17141,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [24Jul2025 01:42:20.452] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [24Jul2025 01:42:20.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jul2025 01:42:20.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 01:42:44.026] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.82530975341797) to VERY_HIGH (avg. 64.73779296875)
+[24Jul2025 01:42:45.362] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 48.18639322) to VERY_HIGH (avg. 51.687008479999996)
+[24Jul2025 01:42:51.542] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 64.73779296875) to HIGH (avg. 53.994354248046875)
+[24Jul2025 01:43:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.994354248046875) to NORMAL (avg. 45.68324661254883)
+[24Jul2025 01:43:21.009] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.68324661254883) to MEDIUM (avg. 46.165374755859375)
+[24Jul2025 01:43:36.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.165374755859375) to NORMAL (avg. 41.816219329833984)
+[24Jul2025 01:43:43.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 41.816219329833984) to MEDIUM (avg. 47.10264587402344)
+[24Jul2025 01:43:58.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.10264587402344) to NORMAL (avg. 44.704166412353516)
+[24Jul2025 01:45:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.278594970703125) to MEDIUM (avg. 46.108917236328125)
+[24Jul2025 01:45:13.599] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.108917236328125) to HIGH (avg. 53.67596435546875)
+[24Jul2025 01:45:28.503] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 53.67596435546875) to MEDIUM (avg. 46.818458557128906)
+[24Jul2025 01:45:58.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.613365173339844) to NORMAL (avg. 45.34238052368164)
+[24Jul2025 01:46:28.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.88719940185547) to MEDIUM (avg. 46.05430221557617)
+[24Jul2025 01:46:43.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.05430221557617) to NORMAL (avg. 44.25986862182617)
+[24Jul2025 01:47:13.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.10967254638672) to MEDIUM (avg. 46.010807037353516)
+[24Jul2025 01:47:20.393] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[24Jul2025 01:47:20.443] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[24Jul2025 01:47:20.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 01:47:20.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 01:47:43.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.353187561035156) to NORMAL (avg. 43.285308837890625)
+[24Jul2025 01:47:51.006] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.285308837890625) to MEDIUM (avg. 47.880393981933594)
+[24Jul2025 01:48:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.880393981933594) to NORMAL (avg. 44.07203674316406)
+[24Jul2025 01:48:21.034] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.07203674316406) to MEDIUM (avg. 46.93641662597656)
+[24Jul2025 01:48:28.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.93641662597656) to NORMAL (avg. 45.53056335449219)
+[24Jul2025 01:48:58.755] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.7094841003418) to HIGH (avg. 50.35900115966797)
+[24Jul2025 01:49:07.453] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.35900115966797) to MEDIUM (avg. 48.12977600097656)
+[24Jul2025 01:49:15.306] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.12977600097656) to HIGH (avg. 50.48178482055664)
+[24Jul2025 01:49:22.865] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 50.48178482055664) to VERY_HIGH (avg. 55.16279602050781)
+[24Jul2025 01:49:37.519] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.16279602050781) to MEDIUM (avg. 47.18459701538086)
+[24Jul2025 01:50:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.65547561645508) to NORMAL (avg. 44.84239959716797)
+[24Jul2025 01:50:28.506] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.78278350830078) to MEDIUM (avg. 48.43228530883789)
+[24Jul2025 01:50:36.017] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.43228530883789) to HIGH (avg. 49.861270904541016)
+[24Jul2025 01:50:37.397] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/4176969, l='ServerLevel[world]', x=1113.70, y=-40.00, z=-113.83]
+[24Jul2025 01:50:51.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.861270904541016) to NORMAL (avg. 44.64581298828125)
+[24Jul2025 01:51:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.64581298828125) to MEDIUM (avg. 46.19257354736328)
+[24Jul2025 01:51:13.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.19257354736328) to NORMAL (avg. 44.655189514160156)
+[24Jul2025 01:51:28.502] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.655189514160156) to MEDIUM (avg. 47.18034362792969)
+[24Jul2025 01:51:58.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.53746032714844) to NORMAL (avg. 45.74158477783203)
+[24Jul2025 01:52:13.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.74158477783203) to MEDIUM (avg. 46.462162017822266)
+[24Jul2025 01:52:20.391] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[24Jul2025 01:52:20.443] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[24Jul2025 01:52:20.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 01:52:20.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 01:52:43.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.19369888305664) to NORMAL (avg. 44.94723129272461)
