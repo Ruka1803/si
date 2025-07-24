@@ -9743,6 +9743,18 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/dark_spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_cyan_from_white": {
+    "criteria": {
+      "has_dye": "2025-07-24 02:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-24 01:11:11 +0000"
@@ -9785,6 +9797,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-24 02:37:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:56:02 +0000"
@@ -9806,6 +9824,12 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 00:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-24 02:46:38 +0000"
     },
     "done": true
   },
@@ -9854,6 +9878,18 @@
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_purple_dye": "2025-07-24 02:15:51 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/dark_spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-24 02:40:01 +0000"
     },
     "done": true
   },
@@ -9959,6 +9995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-07-24 02:40:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:56:02 +0000"
@@ -9968,6 +10010,18 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-07-24 00:28:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-07-24 02:36:39 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
     },
     "done": true
   },
@@ -10001,6 +10055,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/dark_spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-24 02:09:40 +0000"
@@ -10028,6 +10088,12 @@
   "create:recipes/misc/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-07-24 02:37:48 +0000"
     },
     "done": true
   },
@@ -10121,6 +10187,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/redstone/dark_spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2025-07-24 00:07:12 +0000"
@@ -10130,6 +10202,18 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-07-24 02:11:41 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_pressure_place": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/redstone/dark_spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
     },
     "done": true
   },
@@ -10148,6 +10232,12 @@
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:56:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-24 02:40:01 +0000"
     },
     "done": true
   },
@@ -10211,6 +10301,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/building_blocks/dark_spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:56:02 +0000"
@@ -10265,6 +10361,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/neodymium_ingot": {
+    "criteria": {
+      "azure": "2025-07-24 02:30:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-24 01:11:07 +0000"
@@ -10274,6 +10376,12 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-24 02:15:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-07-24 02:37:48 +0000"
     },
     "done": true
   },
@@ -10325,6 +10433,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-07-24 02:37:48 +0000"
+    },
+    "done": true
+  },
   "apotheosis:enchanting/enchanting_stats": {
     "criteria": {
       "enchanted_item": "2025-07-24 02:12:20 +0000"
@@ -10340,6 +10454,12 @@
   "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
     "criteria": {
       "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-07-24 02:37:48 +0000"
     },
     "done": true
   },
@@ -10457,6 +10577,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2025-07-24 02:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-07-24 00:28:14 +0000"
@@ -10466,6 +10592,12 @@
   "create:recipes/misc/crafting/curiosities/peculiar_bell": {
     "criteria": {
       "has_item": "2025-07-24 02:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-24 02:40:01 +0000"
     },
     "done": true
   },
@@ -10520,6 +10652,12 @@
   "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:56:02 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/building_blocks/dark_spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-24 02:30:27 +0000"
     },
     "done": true
   },
