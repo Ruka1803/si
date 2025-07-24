@@ -12037,9 +12037,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-24 02:16:20 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/exposed_cut_iron": {
     "criteria": {
       "has_copper_block": "2025-07-24 02:11:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-24 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-24 02:16:20 +0000"
     },
     "done": true
   },
