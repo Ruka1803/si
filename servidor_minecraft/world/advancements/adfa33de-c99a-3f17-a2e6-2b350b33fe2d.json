@@ -8414,6 +8414,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-07-24 00:09:00 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/deepslate_bricks": {
     "criteria": {
       "has_copper_block": "2025-07-24 00:04:52 +0000"
