@@ -10073,6 +10073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-24 01:34:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-07-24 00:07:12 +0000"
@@ -10127,9 +10133,21 @@
     },
     "done": true
   },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-07-24 01:36:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 00:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-24 01:34:44 +0000"
     },
     "done": true
   },

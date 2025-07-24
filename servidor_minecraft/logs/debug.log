@@ -17077,3 +17077,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'thermal:press_gear_die'
 [24Jul2025 01:32:21.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved too quickly! -0.47791595513899665,7.0,7.282387077750997
 [24Jul2025 01:32:21.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
 [24Jul2025 01:32:21.737] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 49.42081069946289) to VERY_HIGH (avg. 318.0602111816406)
+[24Jul2025 01:32:23.765] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 19.5034468) to VERY_LOW (avg. 6.40835928)
+[24Jul2025 01:32:32.247] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:root 1: [dae89a43-1417-452e-8e73-0fe2321c941a]
+[24Jul2025 01:32:35.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from HIGH (avg. 47.003119420000004) to VERY_HIGH (avg. 52.00614142)
+[24Jul2025 01:32:35.510] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 6.40835928) to LOW (avg. 21.46865979)
+[24Jul2025 01:32:37.527] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:sculk_tentacles 1: [dae89a43-1417-452e-8e73-0fe2321c941a]
+[24Jul2025 01:32:44.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[24Jul2025 01:32:46.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 52.00614142) to HIGH (avg. 47.542727909999996)
+[24Jul2025 01:33:06.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6815ms or 136 ticks behind
+[24Jul2025 01:33:08.147] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from HIGH (avg. 47.533168159999995) to MEDIUM (avg. 44.423198729999996)
+[24Jul2025 01:33:27.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6297ms or 125 ticks behind
+[24Jul2025 01:33:40.720] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.697762520000005) to HIGH (avg. 46.76396451)
+[24Jul2025 01:33:50.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7663ms or 153 ticks behind
+[24Jul2025 01:34:03.046] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from HIGH (avg. 46.17618128) to MEDIUM (avg. 45.844217549999996)
+[24Jul2025 01:34:11.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6889ms or 137 ticks behind
+[24Jul2025 01:34:14.008] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.844217549999996) to HIGH (avg. 46.577963520000004)
+[24Jul2025 01:34:20.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:20.664] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=138, y=78, z=-53} BlockPos{x=139, y=77, z=-53}
+[24Jul2025 01:34:34.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7407ms or 148 ticks behind
+[24Jul2025 01:34:36.253] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from HIGH (avg. 47.242095590000005) to MEDIUM (avg. 44.2883087)
+[24Jul2025 01:34:56.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6734ms or 134 ticks behind
+[24Jul2025 01:35:16.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5867ms or 117 ticks behind
+[24Jul2025 01:35:38.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
+[24Jul2025 01:35:57.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3596ms or 71 ticks behind
+[24Jul2025 01:36:14.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[24Jul2025 01:36:14.526] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 59.54618453979492) to HIGH (avg. 52.49356460571289)
+[24Jul2025 01:36:32.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3113ms or 62 ticks behind
+[24Jul2025 01:36:32.654] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 52.49356460571289) to VERY_HIGH (avg. 65.88036346435547)
+[24Jul2025 01:36:34.304] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from MEDIUM (avg. 45.571789609999996) to HIGH (avg. 49.46166706)
+[24Jul2025 01:36:45.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [Apothic Spawners]
+[24Jul2025 01:36:52.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4713ms or 94 ticks behind
+[24Jul2025 01:37:13.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6227ms or 124 ticks behind
+[24Jul2025 01:37:21.927] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[24Jul2025 01:37:21.975] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[24Jul2025 01:37:21.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 01:37:22.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 01:37:29.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 68.01351928710938) to MEDIUM (avg. 47.58571243286133)
+[24Jul2025 01:37:51.018] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 48.587608337402344) to HIGH (avg. 50.250755310058594)
+[24Jul2025 01:38:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.250755310058594) to NORMAL (avg. 44.26067352294922)
+[24Jul2025 01:39:08.228] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/3594024, l='ServerLevel[world]', x=-356.53, y=-20.00, z=-60.51] died: Restless Spirit was killed
+[24Jul2025 01:39:15.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/3598754, l='ServerLevel[world]', x=-441.09, y=-20.00, z=-91.06] died: Restless Spirit was killed
+[24Jul2025 01:39:21.227] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/3603361, l='ServerLevel[world]', x=-414.74, y=-20.00, z=-75.50] died: Restless Spirit was killed
+[24Jul2025 01:39:22.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/3604674, l='ServerLevel[world]', x=-393.44, y=-20.00, z=-1.49] died: Restless Spirit was killed
+[24Jul2025 01:39:28.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.81613540649414) to MEDIUM (avg. 47.07514953613281)
+[24Jul2025 01:39:36.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.07514953613281) to NORMAL (avg. 45.46327590942383)
+[24Jul2025 01:40:21.024] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.38987350463867) to HIGH (avg. 49.432647705078125)
+[24Jul2025 01:40:36.003] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.432647705078125) to MEDIUM (avg. 46.823089599609375)
+[24Jul2025 01:40:51.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.823089599609375) to NORMAL (avg. 43.78596878051758)
+[24Jul2025 01:41:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [The Basics]
+[24Jul2025 01:41:14.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Enchanter]
+[24Jul2025 01:41:36.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.385868072509766) to MEDIUM (avg. 47.4564323425293)
+[24Jul2025 01:41:51.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.4564323425293) to NORMAL (avg. 43.10083770751953)
+[24Jul2025 01:41:58.505] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.10083770751953) to MEDIUM (avg. 47.74524688720703)
+[24Jul2025 01:42:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.74524688720703) to NORMAL (avg. 44.42512512207031)
+[24Jul2025 01:42:20.405] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[24Jul2025 01:42:20.452] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[24Jul2025 01:42:20.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 01:42:20.475] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
