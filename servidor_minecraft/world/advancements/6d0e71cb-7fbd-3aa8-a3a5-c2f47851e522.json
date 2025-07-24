@@ -11605,33 +11605,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "inventorypets:heart": {
     "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_tile_slab_from_honeycomb": {
-    "criteria": {
-      "has_unwaxed": "2025-07-24 01:37:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+      "crafting_table": "2025-07-24 01:29:12 +0000"
     },
     "done": true
   },
@@ -11641,100 +11617,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/30ench": {
-    "criteria": {
-      "enchanted_item": "2025-07-24 01:41:14 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/use_tide_trident": {
-    "criteria": {
-      "shot_arrow": "2025-07-24 01:58:37 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-24 02:01:20 +0000",
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "inventorypets:heart": {
-    "criteria": {
-      "crafting_table": "2025-07-24 01:29:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall": {
-    "criteria": {
-      "has_polished_cut_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
     },
     "done": true
   },
@@ -11744,87 +11629,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs": {
-    "criteria": {
-      "has_polished_cut_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
     },
     "done": true
   },
@@ -11837,18 +11650,6 @@
   "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
     },
     "done": true
   },
@@ -11870,23 +11671,131 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
     },
     "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/copper/waxed_oxidized_copper_tile_slab_from_honeycomb": {
+    "criteria": {
+      "has_unwaxed": "2025-07-24 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_door_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_fence_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_trapdoor_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/crafting_table_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_planks_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_planks_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_chest_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_button_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_layered_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_slab_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_fence_gate_from_witch_hazel_slab_woodcutting": {
     "criteria": {
@@ -11900,57 +11809,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-07-24 01:41:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_stairs_from_witch_hazel_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
     },
     "done": true
   },
@@ -11972,35 +11833,11 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_pillar_from_witch_hazel_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 01:38:28 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-24 02:01:20 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_sign_from_witch_hazel_slab_woodcutting": {
     "criteria": {
@@ -12020,45 +11857,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/witch_hazel/witch_hazel_connected_from_witch_hazel_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_slab": {
-    "criteria": {
-      "has_polished_cut_dripstone": "2025-07-24 01:55:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
     },
     "done": true
   },
@@ -12074,9 +11875,141 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_slab_woodcutting": {
     "criteria": {
-      "has_stone_types_asurine": "2025-07-24 01:34:14 +0000"
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 01:38:28 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/30ench": {
+    "criteria": {
+      "enchanted_item": "2025-07-24 01:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-24 01:41:14 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab": {
+    "criteria": {
+      "has_polished_cut_dripstone": "2025-07-24 01:55:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
     },
     "done": true
   },
@@ -12092,21 +12025,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_stairs_from_witch_hazel_slab_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:55:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/witch_hazel/polished_witch_hazel_sign_from_witch_hazel_slab_woodcutting": {
+  "iceandfire:iceandfire/use_tide_trident": {
     "criteria": {
-      "give_recipe": "2025-07-24 01:38:28 +0000"
+      "shot_arrow": "2025-07-24 01:58:37 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/exposed_cut_iron": {
+    "criteria": {
+      "has_copper_block": "2025-07-24 02:11:21 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:mob_jar": {
+    "criteria": {
+      "has_mob_jar": "2025-07-24 02:08:12 +0000"
     },
     "done": true
   },

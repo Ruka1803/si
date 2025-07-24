@@ -9713,6 +9713,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/light_gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/brown_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 00:28:12 +0000"
@@ -9800,6 +9812,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-24 01:11:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/green_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
     },
     "done": true
   },
@@ -9905,9 +9923,33 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/lime_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-07-24 00:28:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/orange_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gray_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
     },
     "done": true
   },
@@ -10007,6 +10049,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-07-24 02:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-07-24 02:11:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:56:02 +0000"
@@ -10016,6 +10070,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-24 01:11:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/black_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
     },
     "done": true
   },
@@ -10037,9 +10097,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-07-24 01:11:21 +0000"
+    },
+    "done": true
+  },
+  "inventorypets:illuminati": {
+    "criteria": {
+      "crafting_table": "2025-07-24 02:08:20 +0000"
     },
     "done": true
   },
@@ -10103,6 +10175,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/yellow_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/light_blue_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-24 01:11:07 +0000"
@@ -10133,6 +10217,18 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/enchanting_stats": {
+    "criteria": {
+      "enchanted_item": "2025-07-24 02:12:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/red_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-24 01:11:07 +0000"
@@ -10142,6 +10238,24 @@
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-07-24 01:11:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/magenta_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cyan_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-07-24 02:11:41 +0000"
     },
     "done": true
   },
@@ -10217,6 +10331,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/purple_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-07-24 01:11:11 +0000"
@@ -10280,6 +10400,12 @@
   "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-24 01:56:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/pink_valve_handle_from_other_valve_handle": {
+    "criteria": {
+      "has_valve": "2025-07-24 02:09:40 +0000"
     },
     "done": true
   },
