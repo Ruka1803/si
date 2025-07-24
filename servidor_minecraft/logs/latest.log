@@ -229,3 +229,5 @@
 [24Jul2025 00:47:25.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.217777252197266) to LOW (avg. 35.77882766723633)
 [24Jul2025 00:51:09.570] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
 [24Jul2025 00:51:09.571] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[24Jul2025 00:51:40.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.50713348388672) to NORMAL (avg. 43.986228942871094)
+[24Jul2025 00:51:55.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.986228942871094) to LOW (avg. 36.10844421386719)
