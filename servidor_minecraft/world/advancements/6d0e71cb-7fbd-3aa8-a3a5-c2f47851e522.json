@@ -11605,5 +11605,11 @@
     },
     "done": true
   },
+  "inventorypets:heart": {
+    "criteria": {
+      "crafting_table": "2025-07-24 01:29:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
