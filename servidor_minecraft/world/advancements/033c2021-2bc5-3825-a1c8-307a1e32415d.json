@@ -14212,5 +14212,137 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_light_gray": {
+    "criteria": {
+      "has_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_gray": {
+    "criteria": {
+      "has_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-24 00:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-07-24 00:21:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
