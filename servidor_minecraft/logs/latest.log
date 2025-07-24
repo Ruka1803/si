@@ -432,3 +432,32 @@
 [24Jul2025 01:51:58.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.53746032714844) to NORMAL (avg. 45.74158477783203)
 [24Jul2025 01:52:13.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.74158477783203) to MEDIUM (avg. 46.462162017822266)
 [24Jul2025 01:52:43.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.19369888305664) to NORMAL (avg. 44.94723129272461)
+[24Jul2025 01:52:58.672] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.94723129272461) to HIGH (avg. 54.25220489501953)
+[24Jul2025 01:53:13.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.25220489501953) to NORMAL (avg. 43.79436492919922)
+[24Jul2025 01:53:15.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pancho has made the advancement [The Basics]
+[24Jul2025 01:53:28.502] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.79436492919922) to MEDIUM (avg. 46.13094711303711)
+[24Jul2025 01:53:36.005] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.13094711303711) to NORMAL (avg. 45.86260986328125)
+[24Jul2025 01:55:28.521] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.44911575317383) to HIGH (avg. 49.30979919433594)
+[24Jul2025 01:55:43.504] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.30979919433594) to MEDIUM (avg. 47.28627014160156)
+[24Jul2025 01:55:51.942] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ItemEntity['Vital Stone'/4394607, l='ServerLevel[world]', x=1091.50, y=-32.00, z=-123.50]
+[24Jul2025 01:55:58.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.28627014160156) to NORMAL (avg. 43.511070251464844)
+[24Jul2025 01:57:51.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 43.10841369628906) to LOW (avg. 39.45802307128906)
+[24Jul2025 01:58:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.45802307128906) to NORMAL (avg. 41.72926712036133)
+[24Jul2025 01:58:37.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon has made the advancement [Poseidon, God of the Seas]
+[24Jul2025 02:00:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.02717590332031) to LOW (avg. 38.45518493652344)
+[24Jul2025 02:00:13.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.45518493652344) to NORMAL (avg. 43.259300231933594)
+[24Jul2025 02:00:36.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.75908660888672) to LOW (avg. 39.519046783447266)
+[24Jul2025 02:00:51.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.519046783447266) to NORMAL (avg. 40.00231170654297)
+[24Jul2025 02:01:58.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.37828063964844) to LOW (avg. 38.45134353637695)
+[24Jul2025 02:02:06.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 38.45134353637695) to NORMAL (avg. 40.592411041259766)
+[24Jul2025 02:02:09.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panela_limon lost connection: Disconnected
+[24Jul2025 02:02:09.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon left the game
+[24Jul2025 02:02:21.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.592411041259766) to LOW (avg. 33.10409927368164)
+[24Jul2025 02:02:33.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.116.85.85:65454] logged in with entity id 4665760 at (1135.0552776825841, 63.0, -217.9018040195421)
+[24Jul2025 02:02:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[24Jul2025 02:02:33.969] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/4665760, l='ServerLevel[world]', x=1135.06, y=63.00, z=-217.90] logged in and will be protected for 90 secs.
+[24Jul2025 02:02:36.008] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 33.10409927368164) to MEDIUM (avg. 46.18824768066406)
+[24Jul2025 02:02:43.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.18824768066406) to NORMAL (avg. 40.97713088989258)
+[24Jul2025 02:02:58.051] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 24 secs.
+[24Jul2025 02:02:58.051] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[24Jul2025 02:02:58.501] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.97713088989258) to LOW (avg. 38.494991302490234)
