@@ -262,3 +262,43 @@
 [24Jul2025 01:11:02.803] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 42.79121780395508) to HIGH (avg. 54.685420989990234)
 [24Jul2025 01:11:17.889] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 54.685420989990234) to VERY_HIGH (avg. 62.049591064453125)
 [24Jul2025 01:11:48.261] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 56.47739791870117) to NORMAL (avg. 45.46194076538086)
+[24Jul2025 01:12:17.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.20262908935547) to LOW (avg. 37.78938293457031)
+[24Jul2025 01:12:40.215] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 34.273765563964844) to NORMAL (avg. 42.30887222290039)
+[24Jul2025 01:12:47.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.30887222290039) to LOW (avg. 38.86815643310547)
+[24Jul2025 01:13:10.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.93838882446289) to NORMAL (avg. 42.00600814819336)
+[24Jul2025 01:13:17.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.00600814819336) to LOW (avg. 37.32487487792969)
+[24Jul2025 01:13:25.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.32487487792969) to NORMAL (avg. 43.56764221191406)
+[24Jul2025 01:13:47.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.975730895996094) to LOW (avg. 35.3407096862793)
+[24Jul2025 01:14:32.704] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 37.72788619995117) to NORMAL (avg. 43.540836334228516)
+[24Jul2025 01:15:32.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XxLarryGoatxX moved too quickly! 0.004293201345490161,0.0,-11.125727640643305
+[24Jul2025 01:15:33.048] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 40.931209564208984) to MEDIUM (avg. 47.91815185546875)
+[24Jul2025 01:15:55.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.11140823364258) to NORMAL (avg. 45.994842529296875)
+[24Jul2025 01:16:02.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.994842529296875) to MEDIUM (avg. 46.607967376708984)
+[24Jul2025 01:16:10.219] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.607967376708984) to HIGH (avg. 50.201377868652344)
+[24Jul2025 01:16:25.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.201377868652344) to LOW (avg. 39.168739318847656)
+[24Jul2025 01:16:32.733] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.168739318847656) to HIGH (avg. 50.28388214111328)
+[24Jul2025 01:16:40.203] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.28388214111328) to NORMAL (avg. 44.367313385009766)
+[24Jul2025 01:17:11.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panela_limon[/100.116.85.85:65340] logged in with entity id 2840722 at (1151.5743002057654, 72.0, -175.7802298975791)
+[24Jul2025 01:17:11.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panela_limon joined the game
+[24Jul2025 01:17:11.540] [Server thread/INFO] [APTweaks(Player)/]: Player panela_limon ServerPlayer['panela_limon'/2840722, l='ServerLevel[world]', x=1151.57, y=72.00, z=-175.78] logged in and will be protected for 90 secs.
+[24Jul2025 01:17:25.204] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.4070930480957) to MEDIUM (avg. 47.18581771850586)
+[24Jul2025 01:17:32.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.18581771850586) to NORMAL (avg. 44.98241424560547)
+[24Jul2025 01:17:40.202] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.98241424560547) to MEDIUM (avg. 47.941368103027344)
+[24Jul2025 01:17:47.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.941368103027344) to NORMAL (avg. 45.85902404785156)
+[24Jul2025 01:18:17.703] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.79209899902344) to MEDIUM (avg. 46.788246154785156)
+[24Jul2025 01:18:21.101] [Server thread/INFO] [APTweaks(Player)/]: Protected Player panela_limon was successful validated after 69 secs.
+[24Jul2025 01:18:21.101] [Server thread/INFO] [APTweaks(Player)/]: Removing player protection invulnerable from player panela_limon!
+[24Jul2025 01:18:32.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.788246154785156) to NORMAL (avg. 44.65599822998047)
+[24Jul2025 01:18:40.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 44.65599822998047) to MEDIUM (avg. 47.69121551513672)
+[24Jul2025 01:18:47.701] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.69121551513672) to NORMAL (avg. 45.07270812988281)
+[24Jul2025 01:18:55.219] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 45.07270812988281) to HIGH (avg. 49.74541473388672)
+[24Jul2025 01:19:10.210] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 49.74541473388672) to MEDIUM (avg. 48.2534065246582)
+[24Jul2025 01:19:25.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.2534065246582) to NORMAL (avg. 45.862403869628906)
+[24Jul2025 01:20:10.201] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from NORMAL (avg. 43.03514862060547) to MEDIUM (avg. 46.971885681152344)
+[24Jul2025 01:20:25.224] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from MEDIUM (avg. 46.5435676574707) to HIGH (avg. 52.37788391113281)
+[24Jul2025 01:21:00.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Jul2025 01:21:05.125] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from HIGH (avg. 51.28497314453125) to VERY_HIGH (avg. 55.3276481628418)
+[24Jul2025 01:21:20.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Jul2025 01:21:21.790] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.3276481628418) to HIGH (avg. 54.27430725097656)
+[24Jul2025 01:21:57.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[24Jul2025 01:22:01.583] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 54.4195556640625) to MEDIUM (avg. 48.66227340698242)
